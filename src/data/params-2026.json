@@ -436,6 +436,153 @@
     "de": "Senatsverwaltung Berlin: Berliner Betriebskostenübersicht 2026 (Abrechnungsjahr 2024)",
     "en": "Berlin Senate: Berlin service-charge overview 2026 (charges for 2024)"
    }
+  },
+  "bgb536a": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__536a.html",
+   "label": {
+    "de": "§ 536a BGB: Schadensersatz und Selbstbeseitigung bei Mängeln",
+    "en": "Section 536a BGB: damages and self-help for defects"
+   }
+  },
+  "bgb536b": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__536b.html",
+   "label": {
+    "de": "§ 536b BGB: Kenntnis des Mangels bei Vertragsschluss",
+    "en": "Section 536b BGB: defect known when signing"
+   }
+  },
+  "bgb536c": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__536c.html",
+   "label": {
+    "de": "§ 536c BGB: Mängelanzeige durch den Mieter",
+    "en": "Section 536c BGB: tenant must report defects"
+   }
+  },
+  "bgb548": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__548.html",
+   "label": {
+    "de": "§ 548 BGB: kurze Verjährung von Ersatzansprüchen",
+    "en": "Section 548 BGB: short limitation for damage claims"
+   }
+  },
+  "bgb555b": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__555b.html",
+   "label": {
+    "de": "§ 555b BGB: Modernisierungsmaßnahmen",
+    "en": "Section 555b BGB: modernisation measures"
+   }
+  },
+  "bgb555c": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__555c.html",
+   "label": {
+    "de": "§ 555c BGB: Modernisierungsankündigung",
+    "en": "Section 555c BGB: notice of modernisation"
+   }
+  },
+  "bgb555d": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__555d.html",
+   "label": {
+    "de": "§ 555d BGB: Duldung und Härteeinwand",
+    "en": "Section 555d BGB: duty to tolerate and hardship objection"
+   }
+  },
+  "bgb556b": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__556b.html",
+   "label": {
+    "de": "§ 556b BGB: Fälligkeit der Miete",
+    "en": "Section 556b BGB: when rent is due"
+   }
+  },
+  "bgb558c": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__558c.html",
+   "label": {
+    "de": "§ 558c BGB: Mietspiegel",
+    "en": "Section 558c BGB: rent index"
+   }
+  },
+  "bgb558e": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__558e.html",
+   "label": {
+    "de": "§ 558e BGB: Mietdatenbank",
+    "en": "Section 558e BGB: rent database"
+   }
+  },
+  "bgb559b": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__559b.html",
+   "label": {
+    "de": "§ 559b BGB: Erklärung der Modernisierungserhöhung",
+    "en": "Section 559b BGB: notice of a modernisation increase"
+   }
+  },
+  "bgb573": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__573.html",
+   "label": {
+    "de": "§ 573 BGB: ordentliche Kündigung des Vermieters, Eigenbedarf",
+    "en": "Section 573 BGB: landlord notice, own use"
+   }
+  },
+  "bgb574": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__574.html",
+   "label": {
+    "de": "§ 574 BGB: Widerspruch des Mieters (Sozialklausel)",
+    "en": "Section 574 BGB: tenant objection (hardship clause)"
+   }
+  },
+  "bgb574b": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__574b.html",
+   "label": {
+    "de": "§ 574b BGB: Form und Frist des Widerspruchs",
+    "en": "Section 574b BGB: form and deadline of the objection"
+   }
+  },
+  "bgb577a": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__577a.html",
+   "label": {
+    "de": "§ 577a BGB: Kündigungsbeschränkung nach Umwandlung",
+    "en": "Section 577a BGB: notice restriction after conversion"
+   }
+  },
+  "heizkostenv6a": {
+   "url": "https://www.gesetze-im-internet.de/heizkostenv/__6a.html",
+   "label": {
+    "de": "Heizkostenverordnung § 6a: monatliche Verbrauchsinformation",
+    "en": "Heating Costs Ordinance Section 6a: monthly consumption information"
+   }
+  },
+  "co2kostaufg5": {
+   "url": "https://www.gesetze-im-internet.de/co2kostaufg/__5.html",
+   "label": {
+    "de": "CO2KostAufG § 5: Einstufung des Gebäudes",
+    "en": "CO2KostAufG Section 5: classifying the building"
+   }
+  },
+  "co2kostaufg9": {
+   "url": "https://www.gesetze-im-internet.de/co2kostaufg/__9.html",
+   "label": {
+    "de": "CO2KostAufG § 9: Denkmalschutz und Anschlusszwang",
+    "en": "CO2KostAufG Section 9: listed buildings and connection duty"
+   }
+  },
+  "hamburgMs": {
+   "url": "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-stadtentwicklung-und-wohnen/themen/wohnen/mieten/mietenspiegel",
+   "label": {
+    "de": "Behörde für Stadtentwicklung und Wohnen: Hamburger Mietenspiegel 2025",
+    "en": "Hamburg Department for Urban Development and Housing: Hamburg rent index 2025"
+   }
+  },
+  "dortmundMs": {
+   "url": "https://www.dortmund.de/themen/wohnen/mietspiegel/",
+   "label": {
+    "de": "Stadt Dortmund, Amt für Wohnen: Mietspiegel 2025/2026",
+    "en": "City of Dortmund housing office: rent index 2025/2026"
+   }
+  },
+  "bgb568": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__568.html",
+   "label": {
+    "de": "§ 568 BGB: Form und Inhalt der Kündigung",
+    "en": "Section 568 BGB: form and content of notice"
+   }
   }
  }
 }
