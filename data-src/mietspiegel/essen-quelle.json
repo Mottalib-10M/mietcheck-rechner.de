@@ -1,0 +1,23 @@
+{
+ "city": "Essen",
+ "edition": "Qualifizierter Mietspiegel 2026 für nicht preisgebundene Wohnungen in Essen (Fortschreibung des Mietspiegels 2024 per Verbraucherpreisindex, +4,42 %)",
+ "stichtag": "Erhebungsstichtag Mietspiegel 2024: 01.01.2024 (Erhebung Jan.–März 2024); Fortschreibung zum Stichtag 01.01.2026",
+ "gueltig_ab": "2026-08-01",
+ "gueltig_bis": "2028-07-31",
+ "qualifiziert": true,
+ "herausgeber": "Stadt Essen, Amt für Grundstücksmanagement und Wohnraumförderung (Amt 68)",
+ "ersteller": "DOMUS Consult Wirtschaftsberatungsgesellschaft mbH, Hamburg (ehem. Analyse & Konzepte immo.consult) – Datenerhebung/Auswertung (Regressionsmethode, 'Regensburger Modell'); projektbegleitende Arbeitsgruppe mit Mieter-/Vermietervertretungen (anerkannt)",
+ "url_seite": "https://service.essen.de/detail/-/vr-bis-detail/dienstleistung/43077/show (Kurz-URL https://www.essen.de/mietspiegel)",
+ "url_pdf": "https://service.essen.de/detail/-/vr-bis-detail/dokument/7025891/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
+ "url_pdf_dateiname": "Mietspiegel_2026_Stand_2026.07.30.pdf",
+ "url_pdf_methodenbericht": "https://service.essen.de/detail/-/vr-bis-detail/dokument/7025892/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
+ "rights_class": "C",
+ "rights_quote": "Alle Rechte vorbehalten. Vervielfältigung (auch auszugsweise) und Speicherung in elektronische „Systeme“ nur mit ausdrücklicher Genehmigung des Herausgebers.",
+ "rights_url": "https://service.essen.de/detail/-/vr-bis-detail/dokument/7025891/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show (PDF S. 2, Impressum)",
+ "scheme_type": "regression (Tabelle 1 Basis-Nettomiete nach Wohnflächenklassen 25–160 m²; Tabelle 2 prozentuale Zu-/Abschläge Baualter, Wohnungstyp, Ausstattung, Heizung, Modernisierung, Wohnlage; Spanne Feld K x 0,83 bis x 1,18)",
+ "data": {},
+ "kennzahl_wert": null,
+ "kennzahl_text": "Keine stadtweite Durchschnittsmiete in €/m² auf der Stadtseite oder im PDF gefunden. Methodenbericht 2026: Fortschreibung über den Verbraucherpreisindex Januar 2024 -> Januar 2026: '117,60 122,80 4,42 1,0442' (Veränderung 4,42 %, Multiplikationsfaktor 1,0442).",
+ "kennzahl_quelle": "https://service.essen.de/detail/-/vr-bis-detail/dokument/7025892/download?_19_WAR_vrportlet_priv_r_p_action=vr-bis-detail-dienstleistung-show",
+ "notes": "Klasse C: ausdrücklicher Vorbehalt inkl. elektronischer Speicherung -> Zahlen NICHT übernehmen, Schema nicht extrahiert; Online-Mietspiegelrechner der Stadt verlinken. Für 2028 neue Datenerhebung angekündigt. Pressemitteilung der Stadt zur Ausgabe 2026 nicht geprüft (Websuche-Kontingent erschöpft)."
+}

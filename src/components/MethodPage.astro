@@ -1,0 +1,94 @@
+---
+/** Méthode et sources (page de confiance, RECETTE §8.2) : données, règles appliquées, contrôles, limites. */
+import PageLayout from '../layouts/PageLayout.astro';
+import { route, type Locale } from '../i18n/routes';
+import { P } from '../lib/engine/params';
+import { BERLIN } from '../lib/engine/berlin';
+import { HAMBURG } from '../lib/engine/hamburg';
+import { LAENDER_VO } from '../lib/engine/gebiet';
+import { STAEDTE } from '../lib/engine/staedte';
+import { displayDate } from '../lib/format';
+import { breadcrumbSchema, webPageSchema } from '../lib/seo';
+import { LAST_UPDATED, CONTACT_EMAIL, REVIEW_CYCLE_MONTHS } from '../data/site-config';
+interface Props { lang: Locale }
+const { lang } = Astro.props;
+const de = lang === 'de';
+const E = P.erhoehung, M = P.modernisierung;
+const title = de ? 'Methodik 2026: Mietspiegel, Verordnungen und Rechenwege' : 'Method 2026: Rent Indexes, State Ordinances, Calculations';
+const description = de ? 'Methodik 2026: wie wir Berliner und Hamburger Mietspiegel einlesen, die Verordnungen der 16 Länder abgleichen, Fristen nach BGB rechnen und alles testen.' : 'Method 2026: how we read the Berlin and Hamburg rent indexes, match the ordinances of all 16 states, calculate Civil Code deadlines and test every step.';
+const h1 = de ? 'Methodik und Quellen' : 'Method and sources';
+const path = route('method', lang);
+const sources = Object.values(P.sources);
+const d = (iso: string) => displayDate(iso, de ? 'de-DE' : 'en-GB');
+const nGem = LAENDER_VO.reduce((s, l) => s + (l.mpb?.gemeinden.length ?? 0), 0);
+const nKap = LAENDER_VO.reduce((s, l) => s + (l.kappung?.gemeinden.length ?? 0), 0);
+const gesperrt = STAEDTE.filter((s) => s.schema === 'eingabe');
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: h1, description, path, lang }), breadcrumbSchema([{ name: de ? 'Start' : 'Home', path: route('home', lang) }, { name: h1, path }])]} breadcrumbs={[{ label: h1 }]}>
+  <header class="mb-6"><h1 class="text-3xl font-bold text-navy-900 md:text-4xl">{h1}</h1></header>
+  {de ? (
+  <div class="prose prose-slate max-w-none">
+    <p>Jede Zahl dieser Website steht in einer von vier Dateien: dem Berliner Mietspiegel, dem Hamburger Mietenspiegel, der Liste der Landesverordnungen und einer Parameterdatei mit den Werten aus dem BGB und den Verordnungen des Bundes. Geprüft haben wir sie am <time datetime={P.retrieved_at}>{d(P.retrieved_at)}</time>. Seiten und Rechner lesen nur aus diesen Dateien.</p>
+    <h2>Berliner Mietspiegel 2026</h2>
+    <p>Ein Skript liest die Mietspiegeltabelle aus dem amtlichen PDF der Senatsverwaltung und prüft, dass alle {BERLIN.zeilen.length} Zeilen vorhanden sind und jede Spanne geordnet ist. Der Rechner wählt das Feld nach Wohnlage, Bezugsfertigkeit (1973 bis 1990 getrennt nach Ost und West) und Wohnfläche. Vom Mittelwert aus wendet er die Orientierungshilfe an: je Merkmalgruppe ±20 Prozent des Abstands zum Spannenrand, Gruppen gegeneinander aufgerechnet (Nr. 10.3 und 10.4 der Broschüre). Für Wohnungen bis 1949 ohne Sammelheizung oder Bad zieht er 0,33 Euro je Quadratmeter ab (Nr. 9.4). Das Rechenbeispiel der Broschüre (Zeile 81, 7,75 Euro) läuft als Test. Orientierungshilfe und Abschlag gehören nicht zum qualifizierten Teil des Mietspiegels; das steht so in der Broschüre, und wir weisen darauf hin.</p>
+    <h2>Hamburger Mietenspiegel 2025</h2>
+    <p>Die {HAMBURG.felder.length} belegten Felder stammen aus dem offenen Datensatz der Behörde für Stadtentwicklung und Wohnen (Datenlizenz Deutschland – Namensnennung 2.0) und sind mit der Tabelle im PDF abgeglichen; bei einer Abweichung zwischen Datensatz und PDF (Feld C9) gilt das PDF. Weil der Hamburger Mietenspiegel keine Zahlen für Zu- und Abschläge nennt, wählt der Nutzer die Lage in der Spanne selbst: unterer Bereich, Mittelwert oder oberer Bereich.</p>
+    <h2>Städte mit Rechtevorbehalt</h2>
+    <p>{gesperrt.map((s) => s.name).join(', ')} behalten sich die Rechte an ihren Mietspiegeln ausdrücklich vor. Von ihnen übernehmen wir keinen Wert. Der Rechner verlinkt das offizielle Angebot der Stadt, Sie tragen die Vergleichsmiete ein, und wir wenden darauf die Regeln Ihrer Gemeinde an.</p>
+    <h2>Verordnungen der Länder</h2>
+    <p>Für jedes Land haben wir die geltende Verordnung zur Mietpreisbremse (§ 556d Abs. 2 BGB) und zur Kappungsgrenze (§ 558 Abs. 3 BGB) im Gesetz- und Verordnungsblatt gelesen: Titel, Fundstelle, Inkrafttreten, Ablauf und die Gemeindeliste. Zusammen sind es {nGem} Einträge für die Mietpreisbremse und {nKap} für die Kappungsgrenze; jede Liste ist gegen den amtlichen Text gezählt. Gilt eine Verordnung nur für Teile einer Gemeinde, weist der Rechner darauf hin. Mehrere Verordnungen laufen bald aus; wir tragen Nachfolger ein, sobald sie verkündet sind.</p>
+    <h2>Regeln der Rechner</h2>
+    <ul>
+      <li><strong>Mietpreisbremse</strong>: Vergleichsmiete plus {P.mpb.aufschlag * 100} Prozent, höhere Vormiete, Ausnahmen nach § 556f, Rückforderung nach § 556g Abs. 2 mit der Grenze von {P.mpb.ruege_monate} Monaten; Monate gezählt ab dem Monat des Mietbeginns.</li>
+      <li><strong>Mieterhöhung</strong>: Minimum aus Vergleichsmiete und Kappungsgrenze ({E.kappung * 100} oder {E.kappung_angespannt * 100} Prozent), Sperrfrist {E.sperrfrist_monate} Monate, Wartefrist {E.wartefrist_monate} Monate, Zustimmung bis Ende des zweiten Kalendermonats, Wirkung ab dem dritten.</li>
+      <li><strong>Modernisierung</strong>: {M.umlage * 100} Prozent der Kosten jährlich, Kappung {M.kappung_m2} Euro je m² in sechs Jahren ({M.kappung_m2_niedrig} Euro unter {M.niedrig_unter_m2} Euro Miete), vereinfachtes Verfahren mit {M.vereinfacht_pauschale * 100} Prozent Pauschale, § 559e mit {M.umlage_559e * 100} Prozent und höchstens {M.heizung_kappung_m2} Euro je m².</li>
+      <li><strong>Nebenkosten</strong>: Abrechnungs- und Einwendungsfrist je zwölf Monate, Umrechnung je m² und Monat wie in der Berliner Betriebskostenübersicht.</li>
+      <li><strong>CO2-Kosten</strong>: Ausstoß je m² auf eine Nachkommastelle gerundet, Stufe nach der Anlage zum CO2KostAufG, Halbierung oder Wegfall des Vermieteranteils nach § 9.</li>
+      <li><strong>Kündigung</strong>: Zugang bis zum dritten Werktag, Samstag zählt mit (BGH, VIII ZR 206/04), bundesweite und je Land die Feiertage, die in den ersten Tagen eines Monats liegen können.</li>
+      <li><strong>Indexmiete</strong>: Verbraucherpreisindex 2020 = 100 des Statistischen Bundesamts, Monatswerte bis {Object.keys(P.vpi.werte).sort().pop()}.</li>
+    </ul>
+    <h2>Was die Rechner nicht können</h2>
+    <ul>
+      <li>Die Wohnlage einer Adresse bestimmen; dafür gibt es das Straßenverzeichnis der Stadt.</li>
+      <li>Ein Gericht ersetzen, das die Vergleichsmiete im Einzelfall auch anders bestimmen kann, etwa durch ein Gutachten.</li>
+      <li>Eine Minderungsquote festlegen: Dafür gibt es keine amtliche Tabelle.</li>
+      <li>Möblierungszuschläge, Sozialwohnungen und Wohnheime abbilden.</li>
+    </ul>
+    <h2>Quellen</h2>
+    <ul>{sources.map((s) => <li><a href={s.url} rel="nofollow noopener" target="_blank">{s.label.de}</a></li>)}</ul>
+    <p>Prüfrhythmus: mindestens alle {REVIEW_CYCLE_MONTHS} Monate. Fehler bitte an <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. Letzte Prüfung: <time datetime={LAST_UPDATED}>{d(LAST_UPDATED)}</time>.</p>
+  </div>
+  ) : (
+  <div class="prose prose-slate max-w-none">
+    <p>Every figure on this site lives in one of four files: the Berlin rent index, the Hamburg rent index, the list of state ordinances, and a parameter file with the values from the Civil Code and the federal ordinances. We checked them on <time datetime={P.retrieved_at}>{d(P.retrieved_at)}</time>. Pages and calculators read only from these files.</p>
+    <h2>Berlin rent index 2026</h2>
+    <p>A script reads the table from the Senate department's official PDF and checks that all {BERLIN.zeilen.length} lines are present and every range is in order. The calculator picks the field by residential location, year of completion (1973 to 1990 split into East and West) and floor area. From the mean it applies the official guidance: ±20 per cent of the distance to the edge of the range for each group of features, with groups offsetting each other (sections 10.3 and 10.4 of the brochure). For flats built up to 1949 without central heating or a bathroom it deducts 0.33 euros per square metre (section 9.4). The brochure's worked example (line 81, 7.75 euros) runs as a test. The guidance and the deduction are not part of the qualified index; the brochure says so and so do we.</p>
+    <h2>Hamburg rent index 2025</h2>
+    <p>The {HAMBURG.felder.length} filled fields come from the open dataset of the Department for Urban Development and Housing (German open-data licence, attribution 2.0), checked against the PDF table; where dataset and PDF differ (field C9) the PDF applies. Because Hamburg's index gives no figures for upward or downward adjustments, you choose the position in the range yourself: lower part, median or upper part.</p>
+    <h2>Cities that reserve their rights</h2>
+    <p>{gesperrt.map((s) => s.name).join(', ')} expressly reserve the rights to their indexes. We take no figure from them. The calculator links the city's official tool, you enter the reference rent, and we apply your municipality's rules to it.</p>
+    <h2>State ordinances</h2>
+    <p>For each state we read the current rent-brake ordinance (Section 556d(2) BGB) and the cap ordinance (Section 558(3) BGB) in the official gazette: title, reference, start, expiry and the municipality list. Together that is {nGem} rent-brake entries and {nKap} cap entries, each list counted against the official text. Where an ordinance covers only part of a municipality, the calculator says so. Several ordinances expire soon; we add their successors as soon as they are published.</p>
+    <h2>Rules the calculators apply</h2>
+    <ul>
+      <li><strong>Rent brake</strong>: reference rent plus {P.mpb.aufschlag * 100} per cent, higher previous rent, Section 556f exemptions, refund under Section 556g(2) with the {P.mpb.ruege_monate}-month limit; months counted from the month the tenancy began.</li>
+      <li><strong>Rent increase</strong>: the lower of reference rent and cap ({E.kappung * 100} or {E.kappung_angespannt * 100} per cent), {E.sperrfrist_monate}-month waiting period, {E.wartefrist_monate}-month gap between increases, consent by the end of the second calendar month, effect from the third.</li>
+      <li><strong>Modernisation</strong>: {M.umlage * 100} per cent of costs a year, capped at {M.kappung_m2} euros per m² over six years ({M.kappung_m2_niedrig} euros below a rent of {M.niedrig_unter_m2} euros), simplified procedure with a {M.vereinfacht_pauschale * 100} per cent flat deduction, Section 559e with {M.umlage_559e * 100} per cent and at most {M.heizung_kappung_m2} euros per m².</li>
+      <li><strong>Service charges</strong>: twelve-month statement and objection deadlines, conversion per m² and month as in the Berlin overview.</li>
+      <li><strong>CO2 costs</strong>: emissions per m² rounded to one decimal, step from the annex to the CO2KostAufG, landlord share halved or dropped under Section 9.</li>
+      <li><strong>Notice</strong>: delivery by the third working day, Saturday counts (Federal Court, VIII ZR 206/04), national and state holidays that can fall in the first days of a month.</li>
+      <li><strong>Index rent</strong>: Federal Statistical Office consumer price index 2020 = 100, monthly values up to {Object.keys(P.vpi.werte).sort().pop()}.</li>
+    </ul>
+    <h2>What the calculators cannot do</h2>
+    <ul>
+      <li>Determine the residential location of an address; the city's street directory does that.</li>
+      <li>Replace a court, which may set the reference rent differently in a given case, for instance from an expert opinion.</li>
+      <li>Set a rent reduction rate: no official table exists.</li>
+      <li>Cover furniture surcharges, social housing or student halls.</li>
+    </ul>
+    <h2>Sources</h2>
+    <ul>{sources.map((s) => <li><a href={s.url} rel="nofollow noopener" target="_blank">{s.label.en}</a></li>)}</ul>
+    <p>Review cycle: at least every {REVIEW_CYCLE_MONTHS} months. Please report errors to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. Last check: <time datetime={LAST_UPDATED}>{d(LAST_UPDATED)}</time>.</p>
+  </div>
+  )}
+</PageLayout>

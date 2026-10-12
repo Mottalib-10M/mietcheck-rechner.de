@@ -1,0 +1,23 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, REVIEW_CYCLE_MONTHS } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'de';
+---
+<PageLayout title="Kontakt: neuen Mietspiegel oder Fehler im Rechner melden" description="Schreiben Sie uns, wenn eine Stadt einen neuen Mietspiegel veröffentlicht, ein Land seine Verordnung ändert oder ein Rechner falsch rechnet. Keine Beratung im Einzelfall." lang={lang} noindex={true} breadcrumbs={[{ label: 'Kontakt' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Kontakt</h1>
+    <p>Wir lesen jede Nachricht: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>Was uns am meisten hilft</h2>
+    <p>Ein Link auf die amtliche Fundstelle: das neue Mietspiegel-PDF Ihrer Stadt, das Gesetz- und Verordnungsblatt mit einer geänderten Gemeindeliste oder den Paragrafen, der Sie an einem Ergebnis zweifeln lässt. Bei einer Berechnung schicken Sie bitte die Adresse aus der Browserzeile mit; sie enthält Ihre Eingaben, aber weder Namen noch Anschrift. Jeder bestätigte Fehler wird korrigiert und als Testfall aufgenommen, wie es die <a href={route('editorial', lang)}>Redaktionsrichtlinien</a> beschreiben.</p>
+    <h2>Den Mietcheck einbinden</h2>
+    <p>Mietervereine, Beratungsstellen, Hausverwaltungen und Redaktionen können den Mietcheck kostenlos per iframe einbinden: Code auf der Seite <a href={route('widget', lang)}>Rechner einbinden</a>.</p>
+    <h2>Was wir nicht tun</h2>
+    <p>Wir prüfen keine Mietverträge und Schreiben, schreiben keine Rügen und vermitteln keine Kanzleien. Für Ihren Fall sind der örtliche Mieterverein, die Mieterberatung Ihrer Stadt oder eine Anwältin zuständig.</p>
+    <h2>Antwortzeit</h2><p>Meist innerhalb von fünf Werktagen, Hinweise auf neue Mietspiegel und Verordnungen zuerst. Alle Werte prüfen wir mindestens alle {REVIEW_CYCLE_MONTHS} Monate und bei jeder Änderung.</p>
+    <h2>Anbieter</h2>
+    <LegalIdentity lang={lang} />
+    <p>Siehe <a href={route('terms', lang)}>Impressum</a>. Verantwortlich: {AUTHOR_NAME}. Stand: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

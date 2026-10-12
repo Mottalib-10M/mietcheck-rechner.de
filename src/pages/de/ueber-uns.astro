@@ -1,0 +1,28 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { YEAR, LAST_UPDATED, AUTHOR_NAME, CONTACT_EMAIL, AUTHOR_ROLE } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { personSchema, organizationSchema, breadcrumbSchema, profilePageSchema } from '../../lib/seo';
+import { displayDate } from '../../lib/format';
+import { LAENDER_VO } from '../../lib/engine/gebiet';
+const lang = 'de';
+const nGem = LAENDER_VO.reduce((s, l) => s + (l.mpb?.gemeinden.length ?? 0), 0);
+---
+<PageLayout title="Über uns: wer den Mietspiegel-Rechner 2026 herausgibt" description="Wer den Mietspiegel-Rechner 2026 herausgibt, warum er die Vergleichsmiete selbst berechnet, woher die Landesverordnungen stammen und warum wir an nichts mitverdienen." lang={lang} jsonLd={[personSchema(lang), organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Start', path: route('home', lang) }, { name: 'Über uns', path: route('about', lang) }])]} breadcrumbs={[{ label: 'Über uns' }]}>
+  <header class="mb-6"><h1 class="text-3xl font-bold text-navy-900 md:text-4xl">Über diese Website</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <div class="not-prose mb-6"><p class="text-lg font-semibold text-navy-900">{AUTHOR_NAME}</p><p class="text-navy-700">{AUTHOR_ROLE[lang]}</p></div>
+    <p>Radif Partners gibt unabhängige Rechner zu Geld- und Rechtsfragen des Alltags heraus. Diese Website beantwortet die Frage, die sich jeder Mieter in Deutschland irgendwann stellt, bei der Unterschrift unter einen neuen Vertrag oder beim Öffnen eines Erhöhungsschreibens: Darf die Miete so hoch sein?</p>
+    <h2>Was wir besser machen wollen</h2>
+    <p>Wer heute nach dem Mietspiegel sucht, findet das PDF seiner Stadt oder einen Rechner, der als Erstes die ortsübliche Vergleichsmiete abfragt, also genau die Zahl, die man sucht. Ob in der eigenen Gemeinde 15 oder 20 Prozent Kappungsgrenze gelten und ob die Mietpreisbremse am Tag des Vertrags überhaupt in Kraft war, muss man selbst in einer Landesverordnung nachlesen.</p>
+    <p>Diese Website fragt deshalb nicht nach der Vergleichsmiete, wenn sie sie selbst berechnen darf: in Berlin aus dem Mietspiegel 2026, in Hamburg aus dem Mietenspiegel 2025. Für jede Gemeinde wendet sie die Mietpreisbremse und die Kappungsgrenze aus der Verordnung ihres Landes an, mit Datum und Ablauf. Damit ist sie genauer als der erste Treffer bei Google, der die Vergleichsmiete von Ihnen verlangt und die Regeln Ihrer Gemeinde offenlässt.</p>
+    <h2>Wie wir arbeiten</h2>
+    <p>Die Tabellenwerte für Berlin und Hamburg lesen Skripte aus den amtlichen Veröffentlichungen ein; Tests prüfen sie gegen die Rechenbeispiele der Broschüren. Die Listen der Mietpreisbremse, zusammen {nGem} Gemeinden in den Ländern mit Verordnung, stammen aus den Gesetz- und Verordnungsblättern; ihre Länge ist gegen den amtlichen Text gezählt. Städte, die sich die Rechte an ihrem Mietspiegel vorbehalten, respektieren wir: Von ihnen übernehmen wir keinen Wert, sondern verlinken ihren offiziellen Rechner. Einzelheiten stehen in der <a href={route('method', lang)}>Methodik</a>.</p>
+    <h2>Was wir nicht sind</h2>
+    <p>Wir sind kein Mieterverein, keine Kanzlei und kein Inkassodienst für zu viel gezahlte Miete. Wir behalten keinen Anteil an Rückforderungen, vermitteln niemanden und geben keine Rechtsberatung im Einzelfall. Wer streitet, findet Hilfe beim örtlichen Mieterverein, bei öffentlichen Beratungsstellen oder bei einer Anwältin für Mietrecht.</p>
+    <h2>Finanzierung</h2><p>Die Rechner kosten nichts und speichern nichts. Erscheint eines Tages Werbung, dann nie über einem Rechner.</p>
+    <h2>Englische Fassung</h2><p>Jede Seite gibt es auch auf Englisch, für Menschen, die nach Deutschland gezogen sind und ihren ersten deutschen Mietvertrag verstehen wollen.</p>
+    <h2>Fehler melden</h2><p>Hat eine Stadt einen neuen Mietspiegel veröffentlicht oder ein Land eine Verordnung geändert? Schreiben Sie an <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. Siehe auch die <a href={route('editorial', lang)}>Redaktionsrichtlinien</a> und das <a href={route('terms', lang)}>Impressum</a>.</p>
+    <p class="text-sm text-navy-600">Rechtsstand {YEAR}, geprüft am <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'de-DE')}</time>.</p>
+  </div>
+</PageLayout>

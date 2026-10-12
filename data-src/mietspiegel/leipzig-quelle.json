@@ -1,0 +1,23 @@
+{
+ "city": "Leipzig",
+ "edition": "Leipziger Mietspiegel 2025 – 2027",
+ "stichtag": "2024-10-01",
+ "gueltig_ab": "2025-07-01",
+ "gueltig_bis": "2027-06-30",
+ "qualifiziert": true,
+ "herausgeber": "Stadt Leipzig, Sozialamt",
+ "ersteller": "Stadt Leipzig (Sozialamt, Amt für Statistik und Wahlen; eigene Befragung Okt. 2024–Feb. 2025); Arbeitskreis u.a. mit Universität Leipzig (Institut für Empirische Wirtschaftsforschung, Team Statistik), Hochschule Anhalt; anerkannt vom Stadtrat 25.06.2025 sowie Mieterverein Leipzig und Plattform 'wohnen bei uns' (Vermutungswirkung)",
+ "url_seite": "https://www.leipzig.de/leben-in-leipzig/bauen-und-wohnen/wohnen/mietspiegel",
+ "url_pdf": "https://www.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.5_Dez5_Jugend_Soziales_Gesundheit_Schule/50_Sozialamt/Mietspiegel/Broschuere_zum_Leipziger_Mietspiegel_2025-2027_01.pdf",
+ "url_pdf_methodenbericht": "https://www.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.5_Dez5_Jugend_Soziales_Gesundheit_Schule/50_Sozialamt/Mietspiegel/Methodenbericht_zum_Leipziger_Mietspiegel_2025-2027_01.pdf",
+ "url_wohnlage_xlsx": "https://www.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.5_Dez5_Jugend_Soziales_Gesundheit_Schule/50_Sozialamt/Mietspiegel/Wohnlage_zum_Leipziger_Mietspiegel_2025-2027.xlsx",
+ "rights_class": "C",
+ "rights_quote": "Alle Rechte vorbehalten. Es ist nicht gestattet, ohne ausdrückliche Genehmigung des Sozialamtes diese Veröffentlichung oder Teile daraus für gewerbliche Zwecke zu vervielfältigen oder in elektronische Systeme einzuspeichern. Die Vervielfältigung dieser Veröffentlichung oder von Teilen daraus – auch in elektronischen Systemen – ist für nicht gewerbliche Zwecke mit Angabe der Quelle gestattet.",
+ "rights_url": "https://www.leipzig.de/fileadmin/mediendatenbank/leipzig-de/Stadt/02.5_Dez5_Jugend_Soziales_Gesundheit_Schule/50_Sozialamt/Mietspiegel/Broschuere_zum_Leipziger_Mietspiegel_2025-2027_01.pdf (S. 3/4, Abschnitt Online-Mietspiegel-Rechner)",
+ "scheme_type": "regression (generalisiertes multiples lineares Regressionsmodell; Tabellen S. 8–17; Zwei-Drittel-Spannen je Baualtersklasse; Lage-Beurteilung S. 18/19 + Karte/XLSX)",
+ "data": {},
+ "notes": "Eingestuft C, weil gewerbliche Vervielfältigung/Einspeicherung ohne Genehmigung untersagt ist und die Zielseiten werbefinanziert (gewerblich) sind. Nicht-gewerbliche Nutzung mit Quellenangabe wäre erlaubt; eine Genehmigung kann beim Sozialamt Leipzig angefragt werden – dann Schema aus PDF S. 8–19 extrahieren. Schema bewusst nicht extrahiert. Schutzgebühr Druck 5 € (PDF kostenlos). Erhebungsstichtag 1. Oktober 2024.",
+ "kennzahl_wert": null,
+ "kennzahl_text": null,
+ "kennzahl_quelle": null
+}

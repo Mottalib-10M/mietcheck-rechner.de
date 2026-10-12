@@ -1,0 +1,22 @@
+{
+ "city": "Köln",
+ "edition": "Mietspiegel für frei finanzierte Wohnungen in Köln 2025 (26. Auflage)",
+ "stichtag": "Stand April 2025",
+ "gueltig_ab": "2025 (Stand April 2025)",
+ "gueltig_bis": null,
+ "qualifiziert": false,
+ "herausgeber": "Rheinische Immobilienbörse e.V. (Einrichtung bei der IHK Köln) – 'Zusammengestellt bei der Rheinischen Immobilienbörse e.V.'; Arbeitskreis Kölner Mietspiegel (Kölner Haus- und Grundbesitzerverein von 1888, Mieterverein Köln e.V., Stadt Köln Amt für Wohnungswesen, Haus & Grund Köln, köln ag, Gutachterausschuss, IVD West)",
+ "ersteller": "Rheinische Immobilienbörse e.V. (einfacher Mietspiegel, keine wissenschaftliche Erhebung)",
+ "url_seite": "https://www.rheinische-immobilienboerse.de/Mietspiegel_Koeln_2025.AxCMS",
+ "url_pdf": "https://www.rheinische-immobilienboerse.de/upload/Koeln_2025_1621.pdf",
+ "url_pdf_dokumentation": "https://www.rheinische-immobilienboerse.de/upload/2025_Dokumentation_Ko_ln_1622.pdf",
+ "rights_class": "C",
+ "rights_quote": "PDF: 'Schutzgebühr 4,00 Euro zzgl. Versandkosten. Nachdruck und/oder Wiedergabe im Internet und anderen Kommunikationsmitteln nur mit vorheriger Zustimmung.' Impressum RIB: '© Rheinische Immobilienbörse e.V., 2022, Alle Rechte vorbehalten. Die im Mietspiegel per Download dargestellten Inhalte dürfen nicht ohne vorherige ausdrückliche schriftliche Genehmigung des Rheinische Immobilienbörse e.V. anderweitig als über die Website www.rheinische-immobilienboerse.de übermittelt, weiterverbreitet oder verkauft werden. Kopien dieser Inhalte dürfen nicht angefertigt oder die Inhalte auf andere Weise vervielfältigt werden, ...'",
+ "rights_url": "https://www.rheinische-immobilienboerse.de/upload/Koeln_2025_1621.pdf ; https://www.rheinische-immobilienboerse.de/Impressum.AxCMS?ActiveID=1106",
+ "scheme_type": "table (einfacher Tabellenmietspiegel nach Baualter, Wohnlage, Größe, Ausstattung)",
+ "data": {},
+ "notes": "Kein amtliches Werk: Herausgeber ist ein privater Verein (RIB e.V.), nicht die Stadt -> §5 UrhG greift nicht; ausdrücklicher Vorbehalt -> Zahlen NICHT übernehmen, Schema nicht extrahiert. Auf den Gratis-Download bei der RIB verlinken (Link ausdrücklich gestattet: 'Die Einrichtung eines Internet-Links zu www.rheinische-immobilienboerse.de wird hiermit gestattet'). Köln hat keinen qualifizierten Mietspiegel (Stadt Köln Pressemitteilung: 'sogenannte einfache Mietspiegel').",
+ "kennzahl_wert": null,
+ "kennzahl_text": "Kein Durchschnitt zum Mietspiegel (einfacher Mietspiegel der RIB). Die Stadt nennt nur Angebotsmieten (nicht Mietspiegel): 'Die mittlere Angebotsmiete ist 2025 gegenüber dem Vorjahr um +5 Prozent von 14 Euro auf 14,70 Euro Nettokaltmiete pro Quadratmeter (plus 0,70 Euro) gestiegen.' (Kölner Statistische Nachrichten 9/2026)",
+ "kennzahl_quelle": "https://www.stadt-koeln.de/artikel/64274/index.html (Angebotsmiete, nicht als Mietspiegel-Kennzahl verwenden)"
+}

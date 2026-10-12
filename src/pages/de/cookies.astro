@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { CONTACT_EMAIL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'de';
+const updated = '2026-10-12';
+---
+<PageLayout title="Cookies: warum diese Website keine setzt und was sie misst" description="Keine Cookies, kein Banner: der Mietcheck und die Rechner zu Nebenkosten, Kaution und Index speichern nichts. Gemessen wird nur, ob Seiten stabil laden, ohne Cookies." lang={lang} noindex={true} breadcrumbs={[{ label: 'Cookies' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Cookies</h1>
+    <p>Diese Website <strong>setzt keine Cookies</strong>. Deshalb gibt es auch kein Cookie-Banner: Es gibt nichts zuzustimmen. Die Einzelheiten stehen in der <a href={route('privacy', lang)}>Datenschutzerklärung</a>.</p>
+    <h2>Die Rechner merken sich nichts</h2>
+    <p>Ob Sie Ihre Kaltmiete, die Vergleichsmiete Ihrer Berliner Wohnung oder eine Nebenkostenabrechnung prüfen: Die Werte bleiben in Ihrem Browser, werden weder in einem Cookie noch im Browserspeicher abgelegt und sind weg, sobald Sie die Seite schließen.</p>
+    <h2>Gemessen wird nur die Stabilität</h2>
+    <p>Um zu sehen, ob eine Seite abstürzt oder ein Rechner zu lange lädt, nutzen wir Microsoft Clarity im Modus <strong>ohne Cookies</strong>. Erfasst werden Fehler, Ladezeiten, Klicks ins Leere und das Scrollen. Weder Clarity-Cookies (<code>_clck</code>, <code>_clsk</code>) noch Microsoft-Cookies (<code>MUID</code>, <code>CLID</code>) werden gesetzt; jeder Seitenaufruf hat eine eigene Kennung, und Eingaben werden vor dem Senden maskiert.</p>
+    <ul>
+      <li>Anbieter: Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irland;</li>
+      <li>Speicherdauer: 30 Tage für Aufzeichnungen, 13 Monate für zusammengefasste Werte;</li>
+      <li>Rechtsgrundlage: berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO).</li>
+    </ul>
+    <p>Keine Werbung, keine Social-Media-Schaltflächen, keine weiteren Messwerkzeuge.</p>
+    <h2>Eingebundener Rechner</h2>
+    <p>Die iframe-Fassung des Mietchecks für andere Websites lädt Clarity nicht und setzt keine Cookies.</p>
+    <h2>Messung ablehnen</h2>
+    <p>Sperren Sie die Domain clarity.ms in Ihrem Browser oder mit einem Blocker; alles funktioniert weiter. Fragen an <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. Stand: {updated}.</p>
+  </div>
+</PageLayout>

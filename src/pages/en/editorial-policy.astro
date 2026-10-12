@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, REVIEW_CYCLE_MONTHS } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title="Editorial policy: rent indexes, ordinances and checks" description="Where the reference rents, municipality lists and deadlines on this site come from, how we respect cities' rights to their rent indexes and how we correct errors." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Editorial policy and corrections</h1>
+    <p>Rent is a lot of money over many years: an error of one euro per square metre quickly adds up to a thousand euros a year on a family flat. This is how we work.</p>
+    <h2>Responsibility</h2><p>{AUTHOR_NAME} is responsible for content and calculations. Contact: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>Official sources only</h2>
+    <ul>
+      <li>the <strong>Civil Code</strong>, the Service Charges Ordinance, the Heating Costs Ordinance, the Carbon Cost Allocation Act and the Living Space Ordinance as published on gesetze-im-internet.de;</li>
+      <li>the <strong>tenant-protection ordinances of the 16 states</strong>, read in each official gazette;</li>
+      <li>the cities' <strong>rent indexes</strong> as published by the city or the associations;</li>
+      <li>the Federal Statistical Office's <strong>consumer price index</strong> and the Berlin Senate's service-charge overview.</li>
+    </ul>
+    <h2>Cities' rights</h2><p>We only use figures from a rent index when the city publishes them freely or under an open licence, and then always with edition, date and field. We never show a whole table. Where a city reserves its rights, none of its figures appear on this site.</p>
+    <h2>No referrals</h2><p>We earn nothing from refunds, legal-tech services, law firms or agents and name none of them.</p>
+    <h2>Tests</h2><p>Automated tests run before every release: the brochures' worked examples, the municipality lists of the large cities, deadlines and caps. If a value differs, nothing is published.</p>
+    <h2>Review cycle</h2><p>At least every {REVIEW_CYCLE_MONTHS} months, with every new rent index and before each state ordinance expires.</p>
+    <h2>Corrections</h2>
+    <ol><li>Check against the official source.</li><li>Fix the data or code, add a test.</li><li>New date on the page.</li></ol>
+    <p>See also the <a href={route('method', lang)}>method page</a>. Version: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

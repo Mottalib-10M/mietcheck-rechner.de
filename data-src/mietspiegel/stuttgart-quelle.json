@@ -1,0 +1,23 @@
+{
+ "city": "Stuttgart",
+ "edition": "Qualifizierter Mietspiegel 2025/2026 für Stuttgart",
+ "stichtag": "Erhebungsmonat April 2024",
+ "gueltig_ab": "2025-01-01",
+ "gueltig_bis": "2026-12-31",
+ "qualifiziert": true,
+ "herausgeber": "Landeshauptstadt Stuttgart (Statistisches Amt; Amt für Stadtplanung und Wohnen)",
+ "ersteller": "Statistisches Amt und Amt für Stadtplanung und Wohnen der LH Stuttgart (eigene Wohnungsmarktbefragung), Beteiligung Haus & Grund Stuttgart und DMB-Mieterverein Stuttgart; vom Gemeinderat am 6.12.2024 anerkannt",
+ "url_seite": "https://www.stuttgart.de/service/statistik-und-wahlen/mietspiegel/",
+ "url_pdf": "https://www.stuttgart.de/medien/ibs/mietspiegel_2025_2026.pdf",
+ "url_pdf_methodenbericht": "https://www.stuttgart.de/medien/ibs/methodenbericht_mietspiegel_2025-2026.pdf",
+ "url_online_rechner": "https://maps.stuttgart.de/mietspiegel/",
+ "rights_class": "C",
+ "rights_quote": "Copyright bei der Herausgeberin Stuttgart 12/2024. Alle Rechte vorbehalten. Eine Vervielfältigung für den eigenen Gebrauch einschließlich der Weitergabe an Mieter zur Begründung von Mieterhöhungsverlangen ist gestattet. Ansonsten ist es, ohne ausdrückliche Genehmigung der Herausgeberin nicht gestattet, diese Daten oder Teile daraus zu vervielfältigen oder in elektronischen Systemen zu speichern und anzubieten.",
+ "rights_url": "https://www.stuttgart.de/medien/ibs/mietspiegel_2025_2026.pdf (Impressum, S. 3)",
+ "scheme_type": "regression (Basismiete nach Wohnfläche/Baujahr + Zu-/Abschläge; Lagen Nord/Mitte/Filder/Neckar je 1-3 laut Karte)",
+ "data": {},
+ "notes": "Klasse C: Speicherung/Anbieten in elektronischen Systemen ohne Genehmigung ausdrücklich untersagt -> Zahlen NICHT übernehmen, Schema nicht extrahiert; auf den Mietspiegelrechner https://maps.stuttgart.de/mietspiegel/ verlinken (oder Genehmigung beim Statistischen Amt anfragen). Gültig bis 31.12.2026 – ab 01.01.2027 ist mit einem neuen Mietspiegel 2027/2028 zu rechnen (Stand der Seite: 03.06.2026). Druckausgabe Schutzgebühr 7 Euro, PDF kostenlos.",
+ "kennzahl_wert": null,
+ "kennzahl_text": "Keine stadtweite Durchschnittsmiete in Broschüre, Stadtseite oder Methodenbericht gefunden (nur Mittelwerte je Baujahres-/Wohnflächenklasse, z.B. 'bis 1914' 11,43 €).",
+ "kennzahl_quelle": null
+}

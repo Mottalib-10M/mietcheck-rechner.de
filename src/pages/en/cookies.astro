@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { CONTACT_EMAIL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+const updated = '2026-10-12';
+---
+<PageLayout title="Cookies: why this site sets none and what it measures" description="No cookies and no banner: the rent check and the service-charge, deposit and index calculators store nothing. We only measure whether pages load reliably, anonymously and without cookies." lang={lang} noindex={true} breadcrumbs={[{ label: 'Cookies' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Cookies</h1>
+    <p>This website <strong>sets no cookies</strong>, so there is no cookie banner either: there is nothing to accept. Details are in the <a href={route('privacy', lang)}>privacy policy</a>.</p>
+    <h2>The calculators remember nothing</h2>
+    <p>Whether you check your base rent, the reference rent of a Berlin flat or a service-charge statement, the values stay in your browser, are written neither to a cookie nor to browser storage, and disappear when you close the page.</p>
+    <h2>Only stability is measured</h2>
+    <p>To see whether a page crashes or a calculator loads too slowly, we use Microsoft Clarity in <strong>cookie-free</strong> mode. It records errors, loading times, clicks that go nowhere and scrolling. No Clarity cookies (<code>_clck</code>, <code>_clsk</code>) or Microsoft cookies (<code>MUID</code>, <code>CLID</code>) are set; each page view has its own identifier and inputs are masked before sending.</p>
+    <ul>
+      <li>provider: Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland;</li>
+      <li>retention: 30 days for recordings, 13 months for aggregates;</li>
+      <li>legal basis: legitimate interest (Art. 6(1)(f) GDPR).</li>
+    </ul>
+    <p>No advertising, no social media buttons, no other measuring tools.</p>
+    <h2>Embedded calculator</h2>
+    <p>The iframe version of the rent check for other websites does not load Clarity and sets no cookies.</p>
+    <h2>Refusing the measurement</h2>
+    <p>Block the clarity.ms domain in your browser or with a blocker; everything keeps working. Questions: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. Updated: {updated}.</p>
+  </div>
+</PageLayout>

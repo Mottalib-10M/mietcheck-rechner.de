@@ -1,0 +1,1406 @@
+Mietspiegel 2025
+
+1
+Inhalt
+Vorwort 3
+Partner bei der Erstellung des Mietspiegels 4
+Erläuterungen zum Mietspiegel 5
+Einführung 5
+Aufgaben 5
+Geltungsbereich 6
+Rechtsgrundlagen 6
+Die Ermittlung der ortsüblichen Vergleichsmiete 7
+Übersicht 7
+Arbeitsschritt 1: Ermittlung der Basismiete 7
+Arbeitsschritt 2: Ermittlung von Zu- und Abschlägen zur Basismiete 7
+Arbeitsschritt 3: Berechnung der ortsüblichen Vergleichsmiete und der Spanne 11
+Die Einordnung der Wohnung innerhalb der Spanne der 
+ortsüblichen Vergleichsmiete 12
+Berechnungsschema zur Spanneneinordnung 13
+Auszug aus dem Bürgerlichen Gesetzbuch 15
+Service 17
+
+3
+Vorwort
+Liebe Dresdnerinnen und Dresdner, liebe 
+Akteurinnen und Akteure des Dresdner 
+Wohnungsmarkts,
+der neue Mietspiegel bietet allen Interes -
+sierten – sowohl Mieterinnen und Mietern 
+als auch Vermieterinnen und Vermietern – 
+Transparenz, Aufklärung und Orientierung. 
+In bewährter Weise gibt der Mietspiegel 
+Auskunft über die Höhe der ortsüblichen 
+Vergleichsmiete. Sie wird für jede Wohnung 
+in Dresden individuell ermittelt. Das geht in 
+wenigen Schritten sowohl mit der Broschü-
+re als auch mit dem Onlinerechner unter 
+www.dresden.de/mietspiegel.
+Die ortsübliche Vergleichsmiete ist für be -
+stehende Mietverhältnisse von Bedeutung. 
+Sie markiert eine Obergrenze – eine Miet -
+erhöhung darf diese nicht übersteigen. 
+Wird eine Wohnung wieder vermietet, 
+muss in Dresden die sogenannte Mietpreis-
+bremse gemäß der Sächsischen Mietpreis -
+begrenzungsverordnung beachtet werden. 
+Demnach darf die neue Miete, soweit keine 
+Ausnahmen gelten, die ortsübliche Ver -
+gleichsmiete plus zehn Prozent nicht über -
+steigen. Diese Verordnung gilt nach aktuel-
+lem Stand bis 31. Dezember 2025.
+Der Dresdner Mietspiegel 2025 ist ein qua-
+lifizierter Mietspiegel, der aus stadtweit er-
+hobenen Daten erstellt wurde und von den 
+beteiligten Mieter- und Vermieterverbän -
+den anerkannt wurde. Für alle frei finan -
+zierten Wohnungen ist deshalb verbind -
+lich vorgeschrieben, dass Vermietende die 
+Werte des Mietspiegels bei einem Verlan -
+gen auf Mieterhöhung benennen müssen. 
+Das hilft, Streit zwischen den Mietvertrags-
+parteien zu vermeiden. Mieterinnen und 
+Mieter können mithilfe des Mietspiegels 
+die Forderung nach einer höheren Miete 
+überprüfen. Vermietende müssen auf die 
+Angaben des Mietspiegels zurückgreifen. 
+Der Mietspiegel beruht auf einer soliden 
+Datengrundlage. Nach den Vorschriften 
+des Bürgerlichen Gesetzbuchs werden neu 
+vereinbarte und geänderte Mieten der ver-
+gangenen sechs Jahre berücksichtigt. Über 
+6.000 Mieterinnen und Mieter gaben Aus -
+kunft zu ihrer Wohnsituation. Wohnungs -
+unternehmen stellten zusätzlich Daten zu 
+weiteren rund 1.000 Wohnungen zur Ver -
+fügung. Insgesamt flossen mehr als 4.000 
+Wohnungen in die Datenauswertung ein. 
+Das Hamburger ALP-Institut für Wohnen 
+und Stadtentwicklung GmbH hat die Daten 
+erhoben und nach anerkannten wissen -
+schaftlichen Grundsätzen, auf der Grund -
+lage der Mietspiegelverordnung, ausge -
+wertet.
+Ich danke allen, die an der Befragung für 
+den Mietspiegel teilgenommen haben und 
+Daten bereitgestellt haben, sowie den In -
+teressenvertretungen Mieterverein Dres -
+den e. V. und Haus & Grund Dresden, die 
+durch ihr Engagement in der Projektgruppe 
+zum Gelingen des inzwischen 14. Dresdner 
+Mietspiegels beigetragen haben.
+Dr . Kristin Klaudia Kaufmann 
+Bürgermeisterin
+©  Landeshauptstadt Dresden, David Nuglisch
+4
+Partner bei der Erstellung  
+des Mietspiegels
+Für die besondere Unterstützung, die seit 
+vielen Jahren von den Vertretungen der 
+Mieter und Vermieter bei der Erarbeitung 
+des Mietspiegels erfolgt, bedankt sich die 
+Landeshauptstadt Dresden ausdrücklich 
+bei den Vorständen, Geschäftsführungen 
+und der Mitarbeiterschaft dieser Unterneh-
+men. An der Erarbeitung des Mietspiegels 
+sind beteiligt:
+der Mieterverein Dresden  
+und Umgebung e. V.
+der Haus & Grund  
+Dresden e. V.
+die Wohnungsgenossenschaft 
+„Glückauf“ Süd Dresden e.G.
+die Gemeinnützige  
+Wohnungsbau-Genossenschaft 
+Dresden-Ost e.G.
+die Sächsische  
+Wohnungsgenossenschaft 
+Dresden eG
+die Wohnungsgenossenschaft 
+Aufbau Dresden eG
+die Wohnungsgenossenschaft 
+Johannstadt eG
+die Eisenbahner-Wohnungsbau- 
+genossenschaft Dresden eG
+die Wohnungsgenossenschaft 
+Trachau-Nord eG
+die VONOVIA 
+5
+Erläuterungen zum Mietspiegel
+Einführung
+Der vierzehnte Dresdner Mietspiegel ist 
+eine Übersicht über die in Dresden übli -
+cherweise gezahlten Mieten, die in den 
+letzten sechs Jahren vereinbart oder geän -
+dert worden sind.
+Der Mietspiegel wurde von der Landes -
+hauptstadt Dresden erstellt. Er beruht auf 
+einer wissenschaftlichen Auswertung em -
+pirisch erhobener Daten und ist das Ergeb -
+nis der gemeinsamen Arbeit einer Projekt -
+gruppe, in der Interessenvertretungen der 
+Mieter und Vermieter sowie weitere Woh -
+nungsmarktakteure mitgewirkt haben. 
+Mitglieder der Projektgruppe „Dresdner 
+Mietspiegel“ sind:
+ ■ Mieterverein Dresden und Umgebung 
+e. V.
+ ■ Haus & Grund Dresden e. V., Regional-
+verband privater Hauseigentümer und 
+Vermieter  
+ ■ VONOVIA
+ ■ Eisenbahner-Wohnungsbaugenossen-
+schaft Dresden eG als Vertreterin der 
+Dresdner Wohnungsgenossenschaften
+ ■ Landeshauptstadt Dresden
+ ■ Sozialamt, Sozialplanung  
+(federführend)
+ ■ Amt für Stadtplanung und Mobilität
+ ■ Kommunale Statistikstelle
+Der Dresdner Mietspiegel 2025 wurde am 
+22. Oktober 2024 vom Mieterverein Dres -
+den und Umgebung e. V. als Interessenver-
+tretung der Mieter und vom Haus & Grund 
+Dresden e. V. als Interessenvertretung der 
+Vermieter als qualifizierter Mietspiegel an -
+erkannt.
+Für den Mietspiegel 2025 wurden die Da -
+ten erneut über eine Mieterbefragung und 
+eine Datenabfrage bei Vermietern erhoben. 
+Im Ergebnis konnten qualitativ hochwertige 
+Daten für die Auswertung bereitgestellt 
+werden. In die Erstellung des Mietspiegels 
+sind insgesamt 4.051 Datensätze eingegan-
+gen. Erhoben wurden die zum 1. April 2024 
+gezahlten Mieten in Euro.
+Für die wissenschaftliche Begleitung, die 
+Durchführung und Auswertung der Be -
+fragung sowie die Erarbeitung des Re -
+gressionsmietspiegels war das Hamburger 
+Institut ALP Institut für Wohnen und Stadt -
+entwicklung GmbH in Zusammenarbeit mit 
+der Kommunalen Statistikstelle der Landes-
+hauptstadt Dresden verantwortlich. 
+Aufgaben
+Der vorliegende Mietspiegel gibt eine Über-
+sicht über die ortsübliche Vergleichsmiete 
+in der Landeshauptstadt Dresden. Er dient 
+als Instrument zur Begründung oder Prü -
+fung von Mieterhöhungsverlangen und zur 
+Bestimmung der zulässigen Miethöhe bei 
+Mietbeginn. 
+Die ortsübliche Vergleichsmiete einer Woh-
+nung ist die Miete, die üblicherweise für 
+eine Wohnung vergleichbarer Art, Größe, 
+Ausstattung, Beschaffenheit und Lage ein -
+schließlich der energetischen Ausstattung 
+und Beschaffenheit in der Gemeinde oder 
+einer vergleichbaren Gemeinde gezahlt 
+wird. 
+Der § 558a Bürgerliches Gesetzbuch (BGB) 
+erlaubt Mieterhöhungsverlangen begrün -
+det auf
+ ■ einen Mietspiegel  
+(§§ 558c, 558d BGB),
+ ■ eine Auskunft aus einer Mietdaten-
+bank (§ 558e BGB), 
+ ■ ein mit Gründen versehenes Gut-
+achten eines öffentlich bestellten und 
+vereidigten Sachverständigen, 
+ ■ drei vergleichbare Wohnungen.
+Liegt ein qualifizierter Mietspiegel vor, wird 
+laut § 558d Absatz 3 BGB vermutet, dass 
+die angegebenen Entgelte die ortsübliche 
+Vergleichsmiete wiedergeben.
+Um einen qualifizierten Mietspiegel han -
+delt es sich, wenn folgende Voraussetzun -
+gen erfüllt sind:
+ ■ Der Mietspiegel muss nach anerkann -
+ten wissenschaftlichen Grundsätzen, 
+das heißt auf repräsentativer Datenba-
+sis und mit wissenschaftlichen Auswer-
+tungsmethoden, erstellt worden sein. 
+Anforderungen an die wissenschaft -
+lichen Grundsätze sind mit der Miet -
+spiegelverordnung vorgegeben.
+ ■ Er muss von der Landeshauptstadt 
+Dresden oder von den Interessenver -
+tretern der Vermieter und Mieter an -
+erkannt worden sein.
+ ■ Er muss im Abstand von zwei Jahren 
+der Marktentwicklung angepasst wer -
+den. Nach vier Jahren muss er neu er -
+stellt werden.
+Der Dresdner Mietspiegel 2025 erfüllt 
+diese Voraussetzungen eines qualifizier-
+ten Mietspiegels. 
+Er ist somit das vorrangige Begründungs -
+mittel in Mieterhöhungsverfahren in der 
+Landeshauptstadt Dresden.
+Selbst wenn ein Vermieter sein Erhöhungs-
+verlangen auf ein anderes Begründungs -
+mittel nach § 558a BGB stützt, muss er dem 
+Mieter zusätzlich die Angaben des quali -
+fizierten Mietspiegels im Mieterhöhungs -
+schreiben mitteilen (§ 558a Absatz 3).
+Der Mietspiegel ermöglicht den Dresdner 
+Mietern und Vermietern die Ermittlung der 
+ortsüblichen Vergleichsmiete auf relativ un-
+komplizierte und kostensparende Weise.
+Mittels eines Mietspiegels kann im Einzel -
+fall auch festgestellt werden, ob möglicher-
+weise eine Mietpreisüberhöhung nach § 5 
+Wirtschaftsstrafgesetz (WiStG) vorliegt.
+6
+Geltungsbereich
+Dieser Mietspiegel gilt ab dem 1. Januar 
+2025 und ist grundsätzlich für Wohnungen 
+des freien Wohnungsmarktes in Dresden 
+anzuwenden.
+Nicht anzuwenden ist der Mietspiegel bei:
+ ■ vertraglich vereinbartem Ausschluss 
+einer Mieterhöhung,
+ ■ Erhöhungsverlangen innerhalb der 
+Laufzeit von Staffel- und Indexmietver-
+einbarungen (§§ 557a und 557b BGB),
+ ■ Wohnungen, die mit öffentlichen Mit-
+teln errichtet oder saniert wurden und 
+insoweit nach Wohnraumfördergesetz 
+(WoFG) einer Mietpreisbindung unter-
+liegen, 
+ ■ Heimen und heimähnlichen Unter-
+künften unterschiedlicher Art,
+ ■ ganz oder teilweise gewerblich ge-
+nutzten Wohnungen (nicht nur einzel-
+nes Arbeitszimmer),
+ ■ Wohnraum, der nur zum vorüberge-
+henden Gebrauch vermietet ist (§ 549 
+Abs. 2 Nr . 1 BGB),
+ ■ Wohnungen, die von einem anerkann-
+ten Träger oder Beauftragten der 
+Wohlfahrtspflege angemietet wurden, 
+um ihn Personen mit dringendem 
+Wohnungsbedarf zu überlassen (§ 549 
+Abs. 2 Nr . 3 BGB)
+Nicht unmittelbar anwendbar ist der Miet-
+spiegel bei:
+ ■ Wohnungen im betreuten Wohnen, 
+wenn ein Mietvertrag inklusive Be-
+treuungsleistungen vorliegt,
+ ■ Wohnungen mit weniger als  
+25 Quadratmetern oder mehr als  
+150 Quadratmetern Wohnfläche,
+ ■ Wohnungen ohne Badezimmer in  
+der Wohnung
+ ■ Wohnungen ohne Fern-, Block-,  
+Zentral- oder Etagenheizung
+ ■ Wohnungen mit Außen-WC oder 
+innenliegender Trockentoilette,
+ ■ verbilligt gemieteten Dienst- oder 
+Werkswohnungen,
+ ■ Wohnungen, die aus besonderem 
+Grund, z. B. wegen Eigenleistungen 
+oder finanzieller Vorleistungen des 
+Mieters, verbilligt gemietet worden 
+sind,
+ ■ möbliert vermieteten Wohnungen, 
+wenn keine separate Mietzahlung 
+für die Möblierung im Mietvertrag 
+ausgewiesen wird (eine Einbauküche 
+oder Einbauschränke gelten nicht als 
+möbliert), 
+ ■ Untermietverhältnissen,
+ ■ Wohnungen, für die mehr als ein 
+Mietverhältnis vorliegt (es gibt meh-
+rere Mietparteien mit jeweils eigenem 
+Mietvertrag),
+ ■ Wohnungen in Einfamilienhäusern 
+und Zweifamilienhäusern, dazu ge-
+hören auch Reihenhäuser .
+Für diese Wohnungen lagen keine bzw. 
+nicht in ausreichender Anzahl Daten vor, 
+um eine ortsübliche Vergleichsmiete zu er -
+mitteln.
+Der Mietspiegel kann gegebenenfalls für 
+diese Wohnungen als Begründungsmittel 
+für die ortsübliche Vergleichsmiete heran -
+gezogen werden und ein formal wirksames 
+Begründungsmittel darstellen. Für diese 
+Wohnungen gilt jedoch nicht die gesetzli -
+che Vermutung gemäß § 558d Abs. 3 BGB, 
+dass die im qualifizierten Mietspiegel be -
+zeichneten Entgelte die ortsübliche Ver -
+gleichsmiete wiedergeben. Der Mietspiegel 
+gilt hier vielmehr nur als Orientierungshilfe. 
+Es empfiehlt sich, die üblichen Entgelte für 
+weitgehend vergleichbare Wohnungen zu 
+ermitteln und durch angemessene Zu- und 
+Abschläge an die tatsächlichen Gegeben -
+heiten anzupassen.
+Rechtsgrundlagen
+Der Vermieter kann entsprechend § 558 
+BGB vom Mieter die Zustimmung zur Erhö-
+hung der Miete verlangen, wenn
+1. der Mietzins, von Erhöhungen nach 
+den §§ 559 bis 560 BGB (Mieterhö -
+hungen auf Grund von Modernisie -
+rungsmaßnahmen oder Betriebskos -
+tenerhöhungen - d. Red.) abgesehen, 
+seit fünfzehn Monaten unverändert 
+ist. Das Mieterhöhungsverlangen kann 
+frühestens ein Jahr nach der letzten 
+Mieterhöhung geltend gemacht wer -
+den.
+2. der verlangte Mietzins die ortsübliche 
+Vergleichsmiete nicht übersteigt, die 
+in der Gemeinde oder einer vergleich -
+baren Gemeinde für Wohnraum ver -
+gleichbarer Art, Größe, Ausstattung, 
+Beschaffenheit und Lage einschließlich 
+der energetischen Ausstattung und 
+Beschaffenheit in den letzten sechs 
+Jahren vereinbart oder, von Erhöhun -
+gen nach § 560 (Betriebskosten oder 
+Nebenkosten) abgesehen, geändert 
+worden ist.
+3. der Mietzins innerhalb eines Zeitraums 
+von drei Jahren, von Erhöhungen nach 
+den §§ 559 bis 560 BGB abgesehen, 
+sich nicht um mehr als zwanzig vom 
+Hundert erhöht (Kappungsgrenze). 
+Der Prozentsatz beträgt fünfzehn vom 
+Hundert, wenn die ausreichende Ver -
+sorgung der Bevölkerung mit Miet -
+wohnungen zu angemessenen Bedin -
+gungen in einer Gemeinde oder einem 
+Teil einer Gemeinde besonders gefähr-
+det ist und diese Gebiete von der Lan -
+desregierung durch Rechtsverordnung 
+bestimmt sind.
+Hinweise: 
+Die Stadt Dresden wurde mit der Sächsi-
+schen Kappungsgrenzen-Verordnung vom 
+4. Juni 2020 durch die Sächsische Landes -
+regierung als Gemeinde bestimmt, in der 
+eine Kappungsgrenze von 15 Prozent gilt. 
+Die Verordnung gilt bis zum 30. Juni 2025.
+Am 13. Juli 2022 trat die von der Sächsi -
+schen Landesregierung beschlossene Säch-
+sische Mietpreisbegrenzungsverordnung  
+in Kraft. In der Verordnung wird die Stadt 
+Dresden als Gebiet mit angespanntem 
+Wohnungsmarkt im Sinne des § 556d Ab -
+satz 2 BGB festgelegt.
+Grundsätzlich gilt damit für das Stadtge -
+biet der Landeshauptstadt Dresden, dass 
+bei Wiedervermietung einer Wohnung die 
+Miethöhe auf die Höhe der ortsüblichen 
+Vergleichsmiete plus zehn Prozent begrenzt 
+ist (siehe § 556d, Abs. 1 BGB). Ausnahmen 
+regeln die §§ 556e und 556f. Die Verord -
+nung gilt bis zum 31. Dezember 2025.
+Grundlage für die Erarbeitung des Miet -
+spiegels sind die Regelungen der §§ 558c 
+und 558d BGB. Die Anforderungen der 
+am 1. Juli 2022 in Kraft getretenen Miet -
+spiegelverordnung werden beachtet.  
+7
+Die Ermittlung der ortsüblichen 
+Vergleichsmiete 
+Übersicht
+Die Ermittlung der ortsüblichen Vergleichs-
+miete erfolgt in drei Arbeitsschritten.
+Im Arbeitsschritt 1 wird die Basismiete in 
+Euro pro Quadratmeter gemäß der Wohn -
+fläche der Wohnung aus Tabelle 1 auf Seite 
+7 abgelesen und in Tabelle 10 auf Seite 13 
+eingetragen.
+Im Arbeitsschritt 2  werden die Faktoren 
+bzw. die Produkte aus den Faktoren für Zu- 
+und Abschläge hinsichtlich
+ ■ des Baualters, 
+ ■ der Lage, 
+ ■ der Ausstattung und  
+ ■ der energetischen Ausstattung 
+aus den Tabellen 2 bis 8 ermittelt und in Ta-
+belle 9 auf Seite 11 eingetragen.
+Im Arbeitsschritt 3  werden mit Hilfe des 
+Berechnungsschemas in Tabelle 10  auf 
+Seite 11 die durchschnittliche ortsübliche 
+Vergleichsmiete pro Quadratmeter sowie 
+die Spannen, innerhalb derer sich die orts -
+übliche Vergleichsmiete für die Wohnung 
+befindet, ermittelt.
+Arbeitsschritt 1: Ermittlung 
+der Basismiete 
+Aus der Tabelle 1 wird je nach Wohnfläche 
+in Quadratmetern der Wert der Basismiete 
+für die zu bewertende Wohnung entnom -
+men und in Tabelle 10 auf Seite 11 unter 
+(a) eingetragen.
+Hinweis: Bei der Einordnung ist auf volle 
+Quadratmeter auf- oder abzurunden. So 
+ist zum Beispiel bei einer Wohnfläche von 
+50,49 Quadratmeter auf 50 Quadratmeter 
+abzurunden und bei einer Fläche ab 50,50 
+Quadratmeter auf 51 Quadratmeter aufzu-
+runden.  
+Wfl  
+in m²
+ BM  
+in €/m² 
+Wfl  
+in m²
+ BM  
+in €/m² 
+Wfl  
+in m²
+ BM  
+in €/m² 
+Wfl  
+in m²
+ BM  
+in €/m² 
+Wfl  
+in m²
+ BM  
+in €/m² 
+Wfl  
+in m²
+ BM  
+in €/m² 
+25 m2 8,64 € 46 m2 7,29 € 67 m2 7,02 € 88 m2 6,91 € 109 m2 6,76 € 130 m2 6,55 €
+26 m2 8,51 € 47 m2 7,26 € 68 m2 7,02 € 89 m2 6,91 € 110 m2 6,75 € 131 m2 6,53 €
+27 m2 8,38 € 48 m2 7,24 € 69 m2 7,01 € 90 m2 6,90 € 111 m2 6,74 € 132 m2 6,52 €
+28 m2 8,27 € 49 m2 7,22 € 70 m2 7,01 € 91 m2 6,90 € 112 m2 6,73 € 133 m2 6,51 €
+29 m2 8,17 € 50 m2 7,20 € 71 m2 7,00 € 92 m2 6,89 € 113 m2 6,72 € 134 m2 6,50 €
+30 m2 8,08 € 51 m2 7,18 € 72 m2 6,99 € 93 m2 6,88 € 114 m2 6,71 € 135 m2 6,49 €
+31 m2 7,99 € 52 m2 7,17 € 73 m2 6,99 € 94 m2 6,88 € 115 m2 6,70 € 136 m2 6,48 €
+32 m2 7,91 € 53 m2 7,15 € 74 m2 6,98 € 95 m2 6,87 € 116 m2 6,69 € 137 m2 6,47 €
+33 m2 7,84 € 54 m2 7,14 € 75 m2 6,98 € 96 m2 6,86 € 117 m2 6,68 € 138 m2 6,46 €
+34 m2 7,77 € 55 m2 7,13 € 76 m2 6,97 € 97 m2 6,86 € 118 m2 6,67 € 139 m2 6,44 €
+35 m2 7,71 € 56 m2 7,11 € 77 m2 6,97 € 98 m2 6,85 € 119 m2 6,66 € 140 m2 6,43 €
+36 m2 7,66 € 57 m2 7,10 € 78 m2 6,96 € 99 m2 6,84 € 120 m2 6,65 € 141 m2 6,42 €
+37 m2 7,60 € 58 m2 7,09 € 79 m2 6,96 € 100 m2 6,83 € 121 m2 6,64 € 142 m2 6,41 €
+38 m2 7,56 € 59 m2 7,08 € 80 m2 6,95 € 101 m2 6,83 € 122 m2 6,63 € 143 m2 6,40 €
+39 m2 7,51 € 60 m2 7,07 € 81 m2 6,95 € 102 m2 6,82 € 123 m2 6,62 € 144 m2 6,39 €
+40 m2 7,47 € 61 m2 7,07 € 82 m2 6,94 € 103 m2 6,81 € 124 m2 6,61 € 145 m2 6,38 €
+41 m2 7,43 € 62 m2 7,06 € 83 m2 6,94 € 104 m2 6,80 € 125 m2 6,60 € 146 m2 6,37 €
+42 m2 7,40 € 63 m2 7,05 € 84 m2 6,93 € 105 m2 6,80 € 126 m2 6,59 € 147 m2 6,35 €
+43 m2 7,37 € 64 m2 7,04 € 85 m2 6,93 € 106 m2 6,79 € 127 m2 6,58 € 148 m2 6,34 €
+44 m2 7,34 € 65 m2 7,04 € 86 m2 6,92 € 107 m2 6,78 € 128 m2 6,57 € 149 m2 6,33 €
+45 m2 7,31 € 66 m2 7,03 € 87 m2 6,92 € 108 m2 6,77 € 129 m2 6,56 € 150 m2 6,32 €
+ 
+Tabelle 1: Basismiete (BM) in Abhängigkeit von der Wohnfläche (Wfl) 
+Arbeitsschritt 2: Ermittlung 
+von Zu- und Abschlägen zur 
+Basismiete
+Zur ermittelten Basismiete werden je nach 
+Ausprägung der Wohnwertmerkmale 
+Baualter, Wohnlage und Ausstattung ein -
+schließlich energetischer Ausstattung die 
+folgenden Zu- und Abschläge angerech -
+net. Übertragen Sie dazu zunächst aus den 
+folgenden Tabellen 2 und 3  den für die 
+8
+Baujahresklasse und die Wohnlage jeweils 
+zutreffenden Faktor für Ihre Wohnung in 
+Tabelle 9 auf Seite 11.
+Baualter
+Baualtersklasse Zu- oder 
+Abschlag
+Faktor
+bis 1969  0 % 1,00
+1970 bis 1990 - 7 % 0,93
+1991 bis 2009 0 % 1,00
+2010 bis 2015 + 14 % 1,14
+2016 bis 2023 + 23 % 1,23
+Tabelle 2: Faktoren für Zu- und Abschläge in Abhängig -
+keit vom Baualter
+Hinweis: Grundsätzlich ist die Wohnung in 
+die Baualtersklasse einzuordnen, in der das 
+Gebäude errichtet wurde. Bei Wiederauf -
+bau, Wiederherstellung (z. B. bei starker 
+Beschädigung oder Zerstörung durch au -
+ßergewöhnliche Ereignisse u. a. Kriegsein -
+wirkungen), Ausbau und Erweiterung (z. B. 
+Dachgeschossausbau, Aufstockung, Anbau) 
+ist für die Einordnung in eine Baualtersklas-
+se die Bezugsfertigkeit der Wohnung maß -
+gebend. 
+Wohnlage 
+Wohnlage Zu- oder 
+Abschlag
+Faktor
+Einfache  
+Wohnlage - 2 % 0,98
+Mittlere  
+Wohnlage 0 % 1,00
+Gute Wohnlage + 3 % 1,03
+Tabelle 3: Faktoren für Zu- und Abschläge in Abhängig -
+keit von der Wohnlage
+Hinweis: Die Wohnlage einer Adresse kann 
+über das Portal des Online-Mietspiegels der 
+Landeshauptstadt Dresden ( www.dresden.
+de/mietspiegel) und über die Wohnlagekar-
+te im Themenstadtplan ( www.dresden.de/
+Themenstadtplan) abgerufen werden. 
+Erläuterung zur Beurteilung der Wohnlage: 
+In Dresden erfolgt eine Einteilung in drei 
+Wohnlagestufen:
+ ■ einfache Wohnlage,
+ ■ mittlere Wohnlage und
+ ■ gute Wohnlage.
+Die Beurteilung der Wohnlage beruht auf 
+der Auswertung von zehn Kriterien, die 
+ein breites Spektrum von Wohnlagemerk -
+malen abdecken: die Siedlungsstruktur, 
+die Anbindung an Bus und Bahn, die Ver -
+sorgungszentralität, die Versorgung mit 
+Gemeinbedarfseinrichtungen (Grundschu -
+len, Kindertageseinrichtungen (Kitas)), die 
+Nähe zu Grün- und Freiflächen, die Nähe 
+zu stadtbildprägenden Bereichen, die Nähe 
+zu störenden Bereichen, die besondere 
+Wertschätzung von Lagen, das Stadtklima, 
+und der Verkehrslärm (Straßen-, Schienen-, 
+Flugverkehrslärm). 
+Für die Neuerstellung des Dresdner Miet -
+spiegel 2025 wurde die Wohnlagebewer -
+tung aktualisiert. Die Daten der Wohn -
+lagekriterien wurden neu erhoben und 
+bewertet sowie neu errichtete Wohn -
+gebäude in der Wohnlagekarte ergänzt. 
+Darüber hinaus wurde die Datenstruktur 
+und Gewichtung der Wohnlagekriterien 
+angepasst. Die Merkmale Fluglärm und 
+Straßen-/Schienenlärm sind nicht mehr 
+getrennt, sondern zu einem gemeinsamen 
+Indikator Verkehrslärm zusammengefasst. 
+Die Merkmale Nähe zu Grün- und Freiflä -
+chen, Nähe zu stadtbildprägenden Berei -
+Wohnlagebewertung
+einfache Wohnlage
+mittlere Wohnlage
+gute Wohnlage
+Gebäude mit mittlerer Lärmbe-
+lästigung durch Verkehrslärm von 
+mindestens 55 Dezibel (A)
+auf das gesamte Gebäude, Aussagen über 
+einzelne Wohnungen im Objekt können 
+nicht gegeben werden. In der Regel gilt eine 
+Wohnung dann als lärmbelastet, wenn min-
+destens ein Wohnraum der Wohnung zur 
+lärmbelasteten Seite ausgerichtet ist. 
+Ausstattung
+Ermitteln Sie in den folgenden Tabellen 4 
+bis 8  die für Ihre Wohnung zutreffenden 
+Faktoren und übertragen Sie die jeweiligen 
+Produkte ebenfalls in Tabelle 9.
+Wohnlagekarte zum Dresdner Mietspiegel 2025 (Ausschnitt)
+Landeshauptstadt Dresden  
+Städtische Arbeitsgruppe Mietspiegel  
+Sozialamt, Kommunale Statistikstelle, Amt für  
+Stadtplanung und Mobilität  
+Oktober 2024
+9
+chen, Nähe zu störenden Bereichen und 
+besondere Wertschätzung werden separat 
+ausgewiesen. Bis 2023 wurden diese Merk-
+male als sogenannte Nachbarschaftslage 
+zusammengefasst. 
+Die Abbildung auf Seite 8 zeigt einen Aus -
+schnitt aus der Wohnlagekarte. Darin wird 
+die Wohnlagebewertung anhand einer drei-
+stufigen Farbskala dargestellt. Gebäude, die 
+im Einflussbereich des Verkehrslärms ab 55 
+Dezibel (mittlere Belastung) liegen, sind zu-
+sätzlich mit einer schwarzen Umrandung 
+des Gebäudes markiert. Die Information 
+über die Lärmbelastung bezieht sich immer 
+auf das gesamte Gebäude, Aussagen über 
+einzelne Wohnungen im Objekt können 
+nicht gegeben werden. In der Regel gilt eine 
+Wohnung dann als lärmbelastet, wenn min-
+destens ein Wohnraum der Wohnung zur 
+lärmbelasteten Seite ausgerichtet ist. 
+Ausstattung
+Ermitteln Sie in den folgenden Tabellen 4 
+bis 8  die für Ihre Wohnung zutreffenden 
+Faktoren und übertragen Sie die jeweiligen 
+Produkte ebenfalls in Tabelle 9.
+Wohnlagekarte zum Dresdner Mietspiegel 2025 (Ausschnitt)
+Landeshauptstadt Dresden  
+Städtische Arbeitsgruppe Mietspiegel  
+Sozialamt, Kommunale Statistikstelle, Amt für  
+Stadtplanung und Mobilität  
+Oktober 2024
+Bitte beachten Sie: Produkte werden wie im 
+Beispiel ausgeführt auf drei Nachkomma -
+stellen gerundet.
+Hinweis: Angerechnet werden ausschließ -
+lich vom Vermieter gestellte bzw. finan -
+zierte Ausstattungen. Vom Mieter selbst 
+geschaffene und finanzierte Ausstattungen 
+bleiben unberücksichtigt. 
+Ausstattung des Badezimmers
+Merkmal Zu-/Ab-
+schlag
+Faktor Wenn Merkmal vorliegt, 
+Faktor übertragen
+Zweites WC oder zweites Badezimmer mit Wanne oder Dusche innerhalb der 
+Wohnung vorhanden
++ 4 % 1,04
+Hochwertige Sanitärobjekte (z.B. freistehende Wanne, Eckbadewanne, Wanne 
+mit Luftsprudler, Massagedüsen, Regendusche, Bidet, Designerobjekte)
++ 2 % 1,02
+Wände im (Haupt-)Bad im Spritzwasserbereich der Sanitärobjekte 
+(Badewanne, Dusche, Waschbecken, Toilette) nicht mit Fliesen oder anderen 
+wasserfesten Materialien geschützt
+- 2 % 0,98
+Bad mit Handtuchwandheizkörper ausgestattet + 3 % 1,03
+Doppel- oder zwei Waschbecken im Bad + 4 % 1,04
+Kein vom Vermieter gestellter Fußbodenbelag im Bad - 8 % 0,92
+PVC-Boden im Bad - 3 % 0,97
+Produkt aller vorliegenden Faktoren (wenn kein Merkmal vorliegt: 1,00)
+Bsp.: 1,03 x 1,04 x 0,97 ≈ 1,039
+Tabelle 4: Faktoren für die Ausstattung des Badezimmers
+Ausstattung der Küche
+Merkmal Zu-/Ab-
+schlag
+Faktor Wenn Merkmal vorliegt, 
+Faktor übertragen
+Einbauküche mit Herd mit Backofenfunktion, Spülbecken, Arbeitsplatte und 
+Kühlschrank oder Geschirrspülmaschine
++ 3 % 1,03
+Kein vom Vermieter gestellter Fußbodenbelag, Linoleum oder PVC-Boden in 
+der Küche
+- 2 % 0,98
+Produkt aller vorliegenden Faktoren (wenn kein Merkmal vorliegt: 1,00) 
+Bsp.: 1,03 x 0,98 ≈ 1,009
+Tabelle 5: Faktoren für die Ausstattung Küche
+10
+Heizung und Elektrik
+Merkmal Zu-/Ab-
+schlag
+Faktor Wenn Merkmal vorliegt, 
+Faktor übertragen
+Fußbodenheizung in der gesamten Wohnung vorhanden + 6 % 1,06
+Über Putz verlaufende Heizungs-, Wasser- oder Elektroinstallation (unverklei-
+dete oder verkleidete Heizungs-, Wasser- oder Elektroinstallationen.
+Dazu zählen nicht:
+ ■ kurze Zuleitungen von Heizungskörpern oder Gaseinzelöfen innerhalb von 
+Heizkörpernischen
+ ■ Fußboden-, Sockelleisten mit integrierten Leitungskanälen
+ ■ Versorgungsschächte oder Kabel/Leitungskanäle soweit sie vom Boden 
+zur Decke verlaufen und in ihrer Anmutung als integraler Gebäudewand-
+bestandteil erkennbar sind – d.h. sie werden als Teil der Bausubstanz 
+wahrgenommen und die Oberflächengestaltung entspricht der des 
+Raumes.)
+- 3 % 0,97
+Mindestens ein Wohnraum, Küche oder Bad ohne installierte Heizung in Ge-
+bäuden mit Baujahr bis 1969
+- 6 % 0,94
+Produkt aller vorliegenden Faktoren (wenn kein Merkmal vorliegt: 1,00)  
+Bsp.: 1,06 x 0,97 ≈ 1,028
+Tabelle 6: Faktoren für die Ausstattung von Heizung und Elektrik
+Energetische Ausstattung
+Merkmal Zu-/Ab-
+schlag
+Faktor Wenn Merkmal vorliegt, 
+Faktor übertragen
+dreifach(isoliert)verglaste Fenster + 3 % 1,03
+einfach verglaste Fenster oder vor 1990 eingebaute Kastendoppelfenster - 3 % 0,97
+Der folgende Zuschlag gilt für Wohnungen, die bis 1990 bezugsfertig wurden. 
+Welcher Zuschlag zur Anwendung kommt, hängt davon ab, wie viele der 
+nachfolgend aufgeführten Wärmedämmungen vom Vermieter durchgeführt 
+wurden. 
+ ■ Außenwände
+ ■ Dach oder oberste Geschossdecke
+ ■ Kellerdecke/Kellerfußboden
+ ■ Heizungsleitungen
+Anzahl der Dämmungen Zeitraum der Dämmung
+eine Dämmung 2002-2015 + 1 % 1,01
+zwei Dämmungen 2002-2015 + 2 % 1,02
+drei Dämmungen 2002-2015 + 3 % 1,03
+vier Dämmungen 2002-2015 + 4 % 1,04
+eine Dämmung seit 2016 + 2 % 1,02
+zwei Dämmungen seit 2016 + 4 % 1,04
+drei Dämmungen seit 2016 + 7 % 1,07
+vier Dämmungen seit 2016 + 9 % 1,09
+Produkt aller vorliegenden Faktoren (wenn kein Merkmal vorliegt: 1,00)  
+Bsp.: 0,97 x 1,03 ≈ 0,999
+Tabelle 7: Faktoren für die energetische Ausstattung
+11
+Weitere Ausstattungsmerkmale
+Merkmal Zu-/Ab-
+schlag
+Faktor Wenn Merkmal vorliegt, 
+Faktor übertragen
+Maisonette-Wohnung + 4 % 1,04
+Penthouse-Wohnung + 4 % 1,04
+Wohnung verfügt über keine Außenfläche (Balkon, Loggia oder (Dach-)
+Terrasse) mit einer Fläche von mindestens 2 Quadratmeter
+-  4 % 0,96
+(Dach)-Terrasse + 2 % 1,02
+Zweiter Balkon + 3 % 1,03
+Garten zur alleinigen Nutzung + 3 % 1,03
+Holzboden (Parkett-, Dielenboden) in Wohn- und Schlafräumen 
+(überwiegend=mehr als 50 Prozent der Fläche)
++ 2 % 1,02
+Kein vom Vermieter gestellter Fußbodenbelag in Wohn- und Schlafräumen 
+(überwiegend=mehr als 50 Prozent der Fläche)
+- 4 % 0,96
+Aufzug in Gebäuden mit bis zu fünf Obergeschossen: wenn die Wohnung nicht 
+im Erdgeschoss liegt
++ 3 % 1,03
+Aufzug der auch in den Keller fährt + 2 % 1,02
+Gebäude bzw. Fassade steht unter Denkmalschutz (Kulturdenkmal im Sinne 
+des Sächsischen Denkmalschutzgesetzes)
++ 1 % 1,01
+Wohnung verfügt über keine Gegensprechanlage - 5 % 0,95
+Gegensprechanlage mit Videofunktion (Bildübertragung) + 4 % 1,04
+Produkt aller vorliegenden Faktoren (wenn kein Merkmal vorliegt: 1,00)  
+Bsp.: 0,96 x 1,03 ≈ 0,989
+Tabelle 8: Faktoren für weitere Ausstattungsmerkmale
+Arbeitsschritt 3: Berechnung 
+der ortsüblichen Vergleichs-
+miete und der Spanne
+Nachdem Sie in Arbeitsschritt 1 die Basismiete 
+und in Arbeitsschritt 2 den Gesamtfaktor für 
+alle zutreffenden Zu- und Abschläge in Tabel -
+le 10 eingetragen haben, können Sie nun ab -
+schließend die Rechenschritte der Tabelle 10 
+durchführen, um die ortsübliche Vergleichs -
+miete zu bestimmen.
+Berechnung der ortsüblichen Vergleichsmiete
+Basismiete laut  
+Tabelle 1 Basismiete (a) €/m²
+Gesamtfaktor laut  
+Tabelle 9
+Gesamtfaktor (b) 
+(drei Nachkommastellen)
+a x b Durchschnittliche ortsübliche 
+Nettokaltmiete/m² (c) €/m²
+c x 0,86 Unterer Spannenwert €/m²
+c x 1,15 Oberer Spannenwert €/m²
+ Das Ergebnis (durchschnittliche ortsübli -
+che Vergleichsmiete und Spanne) stellt die orts-
+übliche Vergleichsmiete auf der Grundlage, der 
+in den letzten sechs Jahren in Dresden verein -
+barten oder geänderten Mieten für nicht preis-
+gebundenen Wohnraum dar .
+ Die berechnete durchschnittliche ortsübli-
+che Vergleichsmiete ist die Nettokaltmiete. Die-
+ser Betrag enthält keine Entgelte für Heizkosten 
+oder andere Betriebskosten. Vorangegangene 
+Mieterhöhungen auf Grund von durchgeführ -
+ten Modernisierungsmaßnahmen sind Be -
+standteil der Nettokaltmiete. 
+Nachdem die Faktoren bzw. Produkte für alle 
+Faktoren ermittelt und in Tabelle 9 eingetragen 
+wurden, kann in Tabelle 9 der Gesamtfaktor be-
+rechnet und in Tabelle 10 übertragen werden. 
+Bitte beachten Sie: Faktoren gehen mit zwei 
+Nachkommastellen, Produkte von Faktoren ge-
+hen mit drei Nachkommastellen in die Berech -
+nung ein.
+Berechnung Gesamtfaktor
+Merkmalsgruppe Tabelle Ermittelter Faktor
+Baujahresklasse Tabelle 2
+Wohnlage Tabelle 3
+Ausstattung Badezimmer Tabelle 4
+Ausstattung Küche Tabelle 5
+Heizung und Elektrik Tabelle 6
+Energetische Ausstattung Tabelle 7
+Weitere Ausstattungsmerk-
+male
+Tabelle 8
+Gesamtfaktor: Produkt aller vorliegenden Faktoren  
+Bsp.: 1,00 x 1,03 x 1,039 x 1,009 x 1,028 x 0,999 x 
+0,989 ≈ 1,097
+Tabelle 9: Berechnung Gesamtfaktor
+Tabelle 10: Berechnung der ortsüblichen Vergleichsmiete
+12
+Die Einordnung der Wohnung 
+innerhalb der Spanne der ortsüblichen 
+Vergleichsmiete
+Die mit Hilfe der Tabelle 10 ermittelte 
+Nettokaltmiete ist die ortsübliche Ver -
+gleichsmiete, die pro Monat gezahlt wird. 
+Grundsätzlich ist bei der Ermittlung der 
+ortsüblichen Vergleichsmiete von diesem 
+Wert auszugehen.
+Tatsächlich streuen die empirisch erhobe-
+nen Mieten um diesen Wert. Dies liegt an 
+der Streuung der Marktmieten, die dazu 
+führt, dass auch identisch ausgestattete 
+Wohnungen unterschiedliche Miethöhen 
+aufweisen, an Wohnwertmerkmalen, die 
+in zu geringer Fallzahl vorkommen oder 
+Merkmalen, die nicht nach unterschiedlich 
+ausgeprägten Qualitäten erhoben oder gar 
+nicht erhoben werden konnten.
+Um die Spannweite der Mietpreise abzu -
+bilden, wurde eine Spanne ermittelt. Die 
+Spanne beträgt minus 14 Prozent und plus 
+15 Prozent um den Wert der mit Tabelle 10 
+ermittelten ortsüblichen Vergleichsmiete.
+Zur Ermittlung der ortsüblichen Vergleichs-
+miete für eine konkrete Wohnung wird 
+empfohlen, eine angemessene Einordnung 
+innerhalb der betreffenden Mietspreis-
+spanne vorzunehmen. 
+Dazu können die folgenden wohnwertmin -
+dernden und wohnwerterhöhenden Merk -
+male herangezogen werden.
+Die ausgewählten Merkmale gehören nicht 
+zum qualifizierten Teil des Mietspiegels, da 
+sie nicht empirisch erhoben wurden, son -
+dern auf dem Wissen und den Erfahrungen 
+von Akteuren des Dresdner Wohnungs -
+marktes basieren. Die Merkmale entspre-
+chen den Standards eines Mietspiegels 
+nach § 558c BGB (einfacher Mietspiegel).
+Die Aufzählung ist nicht abschließend, 
+sondern kann im konkreten Einzelfall um 
+weitere Merkmale ergänzt werden. Die Ein-
+stufung der individuellen Wohnung muss 
+objektiv erfolgen und als Gesamtbewertung 
+aller wohnwertmindernden und wohn-
+werterhöhenden Merkmale vorgenommen 
+werden. Eine grundsätzliche Orientierung 
+am höchsten Wert der Spanne darf nicht 
+erfolgen.
+Entscheidend ist, dass die Ausstattung vom 
+Vermieter gestellt bzw. finanziert wurde. 
+Ausstattungsmerkmale, die in die Berech-
+nung der durchschnittlichen ortsüblichen 
+Vergleichsmiete eingehen, können nicht 
+mehr als zusätzliches Ausstattungsmerk -
+mal für die Spannenausfüllung verwendet 
+werden.
+Auf folgende wohnwertmindernde und 
+wohnwerterhöhende Merkmale haben sich 
+die Vertreter der Mieter und der Vermieter 
+in der Projektgruppe Mietspiegel geeinigt.
+Wohnwertmindernde Merkmale Wohnwerterhöhende Merkmale 
+kein Zubehörraum außerhalb der 
+Wohnung (Keller, Bodenkammer, etc.)
+Wohnküche größer 14 Quadratmeter
+kein Gemeinschaftsraum im Gebäude 
+oder auf dem Grundstück wie z.B. zum 
+Abstellen von Kinderwagen, Fahrrädern, 
+Rollatoren oder zum Wäschetrocknen
+Verschattungselemente an allen Wohn- 
+und Schlafräumen (Markisen, Rollläden, 
+Fensterläden)
+kein Fenster in  der Küche (bei offener 
+Küche  - kein Fenster in unmittelbarer 
+Nähe zum Kochbereich)
+bodengleiche/ebenerdige Dusche oder 
+Duschwanne max. zwei Zentimeter 
+über/unter Fußboden (oder begehbare 
+Badewanne)
+Einbauküche, die vor 2005 eingebaut 
+wurde, wenn der Zuschlag Einbauküche 
+zur Anwendung kommt
+Balkon, Loggia, (Dach)terrasse jeweils ab 
+zehn Quadratmeter 
+Durchgangszimmer in der Wohnung 
+Ein Durchgangszimmer ist ein Wohnraum, 
+der zum Erreichen eines anderen 
+Wohnraums durchquert werden muss, 
+ausgenommen sind Küche und Flur .
+einbruchhemmende Wohnungs- oder 
+Hauseingangstür (die Tür entspricht 
+mindestens der Widerstandsklasse WK3 
+gemäß der DIN V ENV 1627 bis 08/2011 
+bzw. Widerstandsklasse RC 3 der DIN EN 
+1627)
+kein Geschirrspülmaschinenanschluss mit   
+Stellfläche
+Wohnung ist ohne Überwindung von 
+Stufen zugänglich (Schwellenfreier Zugang 
+von der Straße, Wohnung ist mit Rollstuhl, 
+Rollator, Kinderwagen, etc. mittels Aufzug, 
+Rampen, angemessenen Türbreiten u. Ä. 
+zu erreichen)
+keine zeitgemäße Elektroinstallation  
+(Es können nicht mehrere Haushalts-
+geräte, z.B. Herd, Waschmaschine, 
+Geschirrspüler, Staubsauger gleichzeitig 
+betrieben werden)
+Abstellraum innerhalb der Wohnung 
+(Einbauschränke und Räume mit 
+einer Grundfläche von weniger als 
+ein Quadratmeter zählen nicht dazu.)
+Kein Fenster im (Haupt)Bad bis Baujahr 
+1969 und ab Baujahr 1991
+überdachte verschließbare 
+Abstellmöglichkeit für Fahrräder auf dem 
+Grundstück
+Aufzug hält nicht auf der Geschossebene 
+der Wohnung
+Fenster im (Haupt)Bad in der 
+Baujahresklasse 1970 bis 1990
+Tabelle 11: wohnwertmindernde und wohnwerterhöhende Merkmale zur Einordnung in der Spanne
+13
+Die Merkmale der Tabelle 11 können her -
+angezogen werden, um zu ermitteln, wie 
+weit der Mietpreis für eine konkrete Woh -
+nung von der durchschnittlichen ortsübli -
+chen Vergleichsmiete nach oben oder nach 
+unten in Richtung der Spannengrenzen ab -
+weichen kann.
+Zur Ermittlung der konkreten ortsüblichen 
+Vergleichsmiete wird folgendes Vorgehen 
+vorgeschlagen: Bei einem ausgeglichenen 
+Verhältnis von wohnwertmindernden und 
+wohnwerterhöhenden Merkmalen (oder 
+bei einem Fehlen solcher Merkmale) kann 
+die in Tabelle 10 ermittelte durchschnittli-
+che ortsübliche Vergleichsmiete als ortsüb-
+lich für die konkrete Wohnung angesehen 
+werden. Je mehr die Zahl wohnwerter -
+höhender (-mindernder) Merkmale einer 
+Wohnung überwiegt, desto mehr wird die 
+ortsübliche Miete für die Wohnung vom 
+Durchschnittswert weg in die Nähe der 
+Spannenobergrenze (-untergrenze) rücken.
+Im vorgeschlagenen Berechnungsschema 
+wird davon ausgegangen, dass die Spannen-
+obergrenze (-untergrenze) dann erreicht 
+werden kann, wenn die Zahl der wohn -
+werterhöhenden (-mindernden) Merkmale  
+um neun höher liegt, als die Zahl der wohn-
+wertmindernden (-erhöhenden) Merkma -
+le. Liegen z. B. bei einer Wohnung neun 
+wohnwerterhöhende Merkmale vor, aber 
+kein wohnwertminderndes Merkmal, ent -
+spricht die ortsübliche Vergleichsmiete für 
+diese Wohnung der Spannenobergrenze. 
+Für jedes der Merkmale in der Übersicht 
+wird das gleiche Gewicht angenommen,  
+d. h. ein wohnwertminderndes Merkmal 
+kann ein wohnwerterhöhendes Merkmal 
+ausgleichen und umgekehrt. Dies bedeutet 
+bei maximal neun möglichen Merkmalen, 
+dass jedes Merkmal einen Anteil von gerun-
+det elf Prozent (entspricht einem Multipli -
+kationsfaktor von 0,11 - siehe unter Berech-
+nungsschema zur Spanneneinordnung ) 
+an der Differenz von durchschnittlicher 
+ortsüblicher Vergleichsmiete und Spannen-
+obergrenze hat. Gleiches gilt für die Span -
+nenuntergrenze. 
+Liegen weitere besondere Ausstattungs -
+merkmale wie Whirlpool, Sauna, beson -
+dere Sport- und Freizeitangebote (z. B. 
+Tennisplatz, Kegelbahn) vor, dann können 
+Beispiel B 
+Die Zahl der wohnwerterhöhenden Merkmale überwiegt
+Beispiel C 
+Die Zahl der wohnwertmindernden Merkmale überwiegt
+durchschnittliche ortsübliche Vergleichsmiete 7,00 €/m² durchschnittliche ortsübliche Vergleichsmiete 6,00 €/m²
+Spannenuntergrenze (- 14 %) 6,02 €/m² Spannenuntergrenze (- 14 %) 5,16 €/m²
+Spannenobergrenze (+ 15 %) 8,05 €/m² Spannenobergrenze (+ 15 %) 6,90 €/m²
+Übersicht der wohnwerterhöhenden  
+und - mindernden Merkmale
+Übersicht der wohnwerterhöhenden  
+und -mindernden Merkmale
+Zahl der wohnwerterhöhenden Merkmale 8 Zahl der wohnwerterhöhenden Merkmale 2 
+Zahl der wohnwertmindernden Merkmale  3 Zahl der wohnwertmindernden Merkmale 8 
+Berechnung der ortsüblichen Vergleichsmiete 
+ für Beispiel B
+Berechnung der ortsüblichen Vergleichsmiete  
+für Beispiel C
+Rechenschritt I Rechenschritt I
+Zahl der wohnwerterhöhenden Merkmale 8 Zahl der wohnwertmindernden Merkmale 8
+abzüglich abzüglich
+Zahl der wohnwertmindernden Merkmale 3 Zahl der wohnwerterhöhenden Merkmale 2 
+ist gleich ist gleich
+Differenz 1 5 Differenz 1 6 
+diese unter Berücksichtigung aller weiteren 
+Wohnbedingungen auch zur Überschrei -
+tung der Spannenobergrenze berechtigen.
+Berechnungsschema zur 
+Spanneneinordnung
+Beispiel A: Die Zahl der wohnwerterhö -
+henden Merkmale ist gleich der Zahl der 
+wohnwertmindernden Merkmale (oder 
+beide = 0), dann entspricht die ortsübliche 
+Vergleichsmiete für diese Wohnung der mit 
+Hilfe des Berechnungsschemas auf Seite 11 
+ermittelten durchschnittlichen ortsüblichen 
+Vergleichsmiete.
+Falls sich die Zahl der wohnwerterhöhen -
+den und der wohnwertmindernden Merk -
+male unterscheidet, kommen die folgenden 
+beispielhaft dargestellten Rechenschritte 
+zur Anwendung. Für diese Berechnung kön-
+nen maximal neun wohnwertmindernde 
+und maximal neun wohnwerterhöhende 
+Merkmale herangezogen werden. 
+14
+Berechnung der ortsüblichen Vergleichsmiete 
+ für Beispiel B
+Berechnung der ortsüblichen Vergleichsmiete  
+für Beispiel C
+Rechenschritt II Rechenschritt II
+Differenz 1 5 Differenz 1 6 
+multipliziert mit 0,11 ist gleich multipliziert mit 0,11 ist gleich
+Produkt 1 0,55 Produkt 1 0,66 
+Rechenschritt III Rechenschritt III
+Spannenobergrenze 8,05 €/m² Durchschnittliche ortsübliche Vergleichsmiete 6,00 €/m² 
+abzüglich abzüglich
+Durchschnittliche ortsübliche Vergleichsmiete 7,00 €/m² Spannenuntergrenze 5,16 €/m²
+ist gleich ist gleich
+Differenz 2 1,05 €/m² Differenz 2 0,84 €/m² 
+Rechenschritt IV Rechenschritt IV
+Produkt 1 0,55 Produkt 1 0,66 
+multipliziert mit multipliziert mit
+Differenz 2 1,05 €/m² Differenz 2 0,84 €/m²
+ist gleich ist gleich
+Produkt 2 0,58 €/m² Produkt 2 0,55 €/m² 
+Rechenschritt V Rechenschritt V
+Durchschnittliche ortsübliche Vergleichsmiete 7,00 €/m² Durchschnittliche ortsübliche Vergleichsmiete 6,00 €/m² 
+zuzüglich abzüglich
+Produkt 2 0,58 €/m² Produkt 2 0,55 €/m²
+ist gleich ist gleich
+Ergebnis ortsübliche Vergleichsmiete 7,58 €/m² Ergebnis ortsübliche Vergleichsmiete 5,45 €/m² 
+15
+Auszug aus dem  
+Bürgerlichen Gesetzbuch
+(Stand Oktober 2024)
+§ 558 Mieterhöhung bis zur örtlichen Ver-
+gleichsmiete. 
+(1) Der Vermieter kann die Zustimmung zu 
+einer Erhöhung der Miete bis zur ortsübli -
+chen Vergleichsmiete verlangen, wenn die 
+Miete in dem Zeitpunkt, zu dem die Erhö -
+hung eintreten soll, seit fünfzehn Monaten 
+unverändert ist. Das Mieterhöhungsver -
+langen kann frühestens ein Jahr nach der 
+letzten Mieterhöhung geltend gemacht 
+werden. Erhöhungen nach den §§ 559 bis 
+560 werden nicht berücksichtigt. 
+(2) Die ortsübliche Vergleichsmiete wird 
+gebildet aus den üblichen Entgelten, die in 
+der Gemeinde oder einer vergleichbaren 
+Gemeinde für Wohnraum vergleichbarer 
+Art, Größe, Ausstattung, Beschaffenheit 
+und Lage einschließlich der energetischen 
+Beschaffenheit und Ausstattung in den 
+letzten sechs Jahren vereinbart oder, von 
+Erhöhungen nach § 560 abgesehen, geän -
+dert worden sind. Ausgenommen ist Wohn-
+raum, bei dem die Miethöhe durch Gesetz 
+oder im Zusammenhang mit einer Förder -
+zusage festgelegt worden ist.
+(3) Bei Erhöhungen nach Absatz 1 darf sich 
+die Miete innerhalb von drei Jahren, von 
+Erhöhungen nach den §§ 559 bis 560 ab -
+gesehen, nicht um mehr als zwanzig vom 
+Hundert erhöhen (Kappungsgrenze). Der 
+Prozentsatz nach Satz 1 beträgt 15 vom 
+Hundert, wenn die ausreichende Versor -
+gung der Bevölkerung mit Mietwohnungen 
+zu angemessenen Bedingungen in einer 
+Gemeinde oder einem Teil einer Gemein -
+de besonders gefährdet ist und diese Ge -
+biete nach Satz 3 bestimmt sind. Die Lan -
+desregierungen werden ermächtigt, diese 
+Gebiete durch Rechtsverordnung für die 
+Dauer von jeweils höchstens fünf Jahren zu 
+bestimmen.
+[Hinweis: Die Stadt Dresden wurde 
+mit der Kappungsgrenzen-Verord -
+nung vom 3. Juni 2020 durch die Lan -
+desregierung Sachsen als Gemeinde 
+bestimmt, in der die ausreichende 
+Versorgung der Bevölkerung mit Miet-
+wohnungen zu angemessenen Bedin -
+gungen besonders gefährdet ist. Damit 
+gilt in Dresden eine Kappungsgrenze 
+von fünfzehn Prozent. Die Verordnung 
+gilt bis zum 30. Juni 2025.]
+(4) Die Kappungsgrenze gilt nicht,
+1.  wenn eine Verpflichtung des Mieters 
+zur Ausgleichszahlung nach den Vor -
+schriften über den Abbau der Fehl -
+subventionierung im Wohnungswesen 
+wegen des Wegfalls der öffentlichen 
+Bindung erloschen ist und
+2.  soweit die Erhöhung den Betrag der 
+zuletzt zu entrichtenden Ausgleichs -
+zahlung nicht übersteigt.
+Der Vermieter kann vom Mieter frühestens 
+vier Monate vor dem Wegfall der öffent -
+lichen Bindung verlangen, ihm innerhalb 
+eines Monats über die Verpflichtung zur 
+Ausgleichszahlung und über deren Höhe 
+Auskunft zu erteilen. Satz 1 gilt entspre -
+chend, wenn die Verpflichtung des Mieters 
+zur Leistung einer Ausgleichszahlung nach 
+den §§ 34 bis 37 des Wohnraumförde -
+rungsgesetzes und den hierzu ergangenen 
+landesrechtlichen Vorschriften wegen Weg-
+falls der Mietbindung erloschen ist.
+(5) Von dem Jahresbetrag, der sich bei einer 
+Erhöhung auf die ortsübliche Vergleichs -
+miete ergäbe, sind Drittmittel im Sinne des 
+§ 559 a abzuziehen, im Falle des § 559 a 
+Abs. 1 mit 8 Prozent des Zuschusses.
+(6) Eine zum Nachteil des Mieters abwei -
+chende Vereinbarung ist unwirksam.
+§ 558a Form und Begründung der Miet -
+erhöhung
+(1) Das Mieterhöhungsverlangen nach  
+§ 558 ist dem Mieter in Textform zu erklä -
+ren und zu begründen.
+(2) Zur Begründung kann insbesondere Be -
+zug genommen werden auf
+1.  einen Mietspiegel (§§ 558 c, 558 d),
+2.  eine Auskunft aus einer Mietdaten -
+bank (§ 558 e),
+3.  ein mit Gründen versehenes Gutach -
+ten eines öffentlich bestellten und ver-
+eidigten Sachverständigen,
+4.  entsprechende Entgelte für einzelne 
+vergleichbare Wohnungen; hierbei ge-
+nügt die Benennung von drei Wohnun-
+gen.
+(3) Enthält ein qualifizierter Mietspiegel (§ 
+558 d Abs. 1), bei dem die Vorschrift des 
+§ 558 d Abs. 2 eingehalten ist, Angaben 
+für die Wohnung, so hat der Vermieter in 
+seinem Mieterhöhungsverlangen diese 
+Angaben auch dann mitzuteilen, wenn er 
+die Mieterhöhung auf ein anderes Begrün -
+dungsmittel nach Absatz 2 stützt.
+(4) Bei der Bezugnahme auf einen Miet -
+spiegel, der Spannen enthält, reicht es aus, 
+wenn die verlangte Miete innerhalb der 
+Spanne liegt. Ist in dem Zeitpunkt, in dem 
+der Vermieter seine Erklärung abgibt, kein 
+Mietspiegel vorhanden, bei dem § 558 c 
+Abs. 3 oder § 558 d Abs. 2 eingehalten ist, 
+so kann auch ein anderer, insbesondere ein 
+veralteter Mietspiegel oder ein Mietspiegel 
+einer vergleichbaren Gemeinde verwendet 
+werden.
+(5) Eine zum Nachteil des Mieters abwei -
+chende Vereinbarung ist unwirksam.
+§ 558c Mietspiegel; Verordnungsermäch-
+tigung
+(1) Ein Mietspiegel ist eine Übersicht über 
+die ortsübliche Vergleichsmiete, soweit die 
+Übersicht von der nach Landesrecht zustän-
+digen Behörde oder von Interessenvertre -
+tern der Vermieter und der Mieter gemein-
+sam erstellt oder anerkannt worden ist.
+(2) Mietspiegel können für das Gebiet einer 
+Gemeinde oder mehrerer Gemeinden oder 
+für Teile von Gemeinden erstellt werden.
+16
+(3) Mietspiegel sollen im Abstand von zwei 
+Jahren der Marktentwicklung angepasst 
+werden.
+(4) Die nach Landesrecht zuständigen Be -
+hörden sollen Mietspiegel erstellen, wenn 
+hierfür ein Bedürfnis besteht und dies mit 
+einem vertretbaren Aufwand möglich ist. 
+Für Gemeinden mit mehr als 50.000 Ein -
+wohnern sind Mietspiegel zu erstellen. Die 
+Mietspiegel und ihre Änderungen sind zu 
+veröffentlichen.
+(5) Die Bundesregierung wird ermächtigt, 
+durch Rechtsverordnung mit Zustimmung 
+des Bundesrates Vorschriften zu erlassen 
+über den näheren Inhalt von Mietspiegeln 
+und das Verfahren zu deren Erstellung und 
+Anpassung einschließlich Dokumentation 
+und Veröffentlichung.
+§ 558d Qualifizierter Mietspiegel
+(1) Ein qualifizierter Mietspiegel ist ein 
+Mietspiegel, der nach anerkannten wissen-
+schaftlichen Grundsätzen erstellt und von 
+der nach Landesrecht zuständigen Behörde 
+oder von Interessenvertretern der Vermie -
+ter und der Mieter anerkannt worden ist. 
+Entspricht ein Mietspiegel den Anforde -
+rungen, die eine nach § 558c Absatz 5 er -
+lassene Rechtsverordnung an qualifizierte 
+Mietspiegel richtet, wird vermutet, dass 
+er nach anerkannten wissenschaftlichen 
+Grundsätzen erstellt wurde. Haben die 
+nach Landesrecht zuständige Behörde und 
+Interessenvertreter der Vermieter und der 
+Mieter den Mietspiegel als qualifizierten 
+Mietspiegel anerkannt, so wird vermutet, 
+dass der Mietspiegel anerkannten wissen -
+schaftlichen Grundsätzen entspricht.
+(2) Der qualifizierte Mietspiegel ist im 
+Abstand von zwei Jahren der Marktent -
+wicklung anzupassen. Dabei kann eine 
+Stichprobe oder die Entwicklung des vom 
+Statistischen Bundesamt ermittelten Preis -
+indexes für die Lebenshaltung aller privaten 
+Haushalte in Deutschland zugrunde gelegt 
+werden. Nach vier Jahren ist der qualifi -
+zierte Mietspiegel neu zu erstellen. Maß -
+geblicher Zeitpunkt für die Anpassung nach 
+Satz 1 und für die Neuerstellung nach Satz 
+3 ist der Stichtag, zu dem die Daten für den 
+Mietspiegel erhoben wurden. Satz 4 gilt 
+entsprechend für die Veröffentlichung des 
+Mietspiegels.
+(3) Ist die Vorschrift des Absatzes 2 einge -
+halten, so wird vermutet, dass die im quali-
+fizierten Mietspiegel bezeichneten Entgelte 
+die ortsübliche Vergleichsmiete wiederge -
+ben.
+§ 556d Zulässige Miethöhe bei Mietbe -
+ginn; Verordnungsermächtigung
+(1) Wird ein Mietvertrag über Wohnraum 
+abgeschlossen, der in einem durch Rechts -
+verordnung nach Absatz 2 bestimmten Ge-
+biet mit einem angespannten Wohnungs -
+markt liegt, so darf die Miete zu Beginn 
+des Mietverhältnisses die ortsübliche Ver -
+gleichsmiete (§ 558 Absatz 2) höchstens um 
+zehn Prozent übersteigen.
+(2) Die Landesregierungen werden ermäch-
+tigt, Gebiete mit angespannten Wohnungs-
+märkten durch Rechtsverordnung für die 
+Dauer von jeweils höchstens fünf Jahren 
+zu bestimmen. Gebiete mit angespannten 
+Wohnungsmärkten liegen vor, wenn die 
+ausreichende Versorgung der Bevölkerung 
+mit Mietwohnungen in einer Gemeinde 
+oder einem Teil der Gemeinde zu angemes-
+senen Bedingungen besonders gefährdet 
+ist. Dies kann insbesondere dann der Fall 
+sein, wenn
+ ■ die Mieten deutlich stärker steigen als 
+im bundesweiten Durchschnitt,
+ ■ die durchschnittliche Mietbelastung 
+der Haushalte den bundesweiten 
+Durchschnitt deutlich übersteigt,
+ ■ die Wohnbevölkerung wächst, ohne 
+dass durch Neubautätigkeit insoweit 
+erforderlicher Wohnraum geschaffen 
+wird, oder
+ ■ geringer Leerstand bei großer Nach-
+frage besteht.
+Eine Rechtsverordnung nach Satz 1 muss 
+spätestens mit Ablauf des 31. Dezember 
+2025 außer Kraft treten. Sie muss begrün -
+det werden. Aus der Begründung muss 
+sich ergeben, auf Grund welcher Tatsachen 
+ein Gebiet mit einem angespannten Woh -
+nungsmarkt im Einzelfall vorliegt. Ferner 
+muss sich aus der Begründung ergeben, 
+welche Maßnahmen die Landesregierung 
+in dem nach Satz 1 durch die Rechtsver -
+ordnung jeweils bestimmten Gebiet und 
+Zeitraum ergreifen wird, um Abhilfe zu 
+schaffen.
+Hinweis: Am 13. Juli 2022 trat die von 
+der Sächsischen Landesregierung be -
+schlossene Sächsische Mietpreisbe -
+grenzungsverordnung in Kraft. In der 
+Verordnung wird die Stadt Dresden 
+als Gebiete mit angespanntem Woh -
+nungsmarkt im Sinne des § 556d Ab -
+satz 2 BGB festgelegt.
+Grundsätzlich gilt damit für das Stadt -
+gebiet der Landeshauptstadt Dresden, 
+dass bei Wiedervermietung einer 
+Wohnung die Miethöhe auf die Höhe 
+der ortsüblichen Vergleichsmiete plus 
+zehn Prozent begrenzt ist (siehe § 
+556d, Abs. 1 BGB). Ausnahmen regeln 
+die §§ 556e und 556f. Die Verordnung 
+gilt bis zum 31. Dezember 2025. 
+17
+Service
+Informationen zum Mietspiegel 2025
+Online-Mietspiegelrechner
+www.dresden.de/mietspiegel
+Fragen zum Mietspiegel
+Sozialamt
+Abteilung Interner Service/Grundsatz/
+Sozialplanung
+Sachgebiet Sozialplanung
+Glashütter Straße 51
+01309 Dresden
+Telefon:  (03 51) 4 88 13 04
+Telefax:  (03 51) 4 88 48 13
+E-Mail:  sozialplanung@dresden.de
+Fragen zum statistischen Verfahren
+Kommunale Statistikstelle - Statistischer 
+Informationsdienst
+Ostra-Allee 11
+01069 Dresden
+E-Mail:  statistik@dresden.de
+Fragen zur Wohnlageneinordnung
+Stadtplanungsamt
+Freiberger Straße 39
+01067 Dresden
+Telefon:  (03 51) 4 88 35 93
+Telefax:  (03 51) 4 88 35 43
+E-Mail:  wohnlage@dresden.de
+Hinweis: Die Landeshauptstadt Dresden ist 
+nicht berechtigt, Auskünfte zu Mietrechts-
+fragen zu erteilen.
+Fragen zum Mietrecht
+Mieterverein Dresden und Umgebung e. V.
+Fetscherplatz 3
+01307 Dresden
+Telefon:  (03 51) 86 64 50
+Telefax:  (03 51) 8 66 45 11
+E-Mail:  info@mieterverein-dresden.de
+Haus & Grund Dresden e. V.
+Rähnitzgasse 27
+01097 Dresden
+Telefon:  (03 51) 8 26 02 02
+Telefax:  (03 51) 8 26 02 02
+E-Mail:  info@haus-und-grund-dresden.de
+Hinweis: Rechtsberatung erfolgt nur für 
+Mitglieder des jeweiligen Interessenver-
+bandes.
+Impressum
+Herausgeber:
+Landeshauptstadt Dresden
+Sozialamt, Abteilung Interner Service/Grundsatz/ Sozialplanung
+Telefon (03 51) 4 88 13 04
+Telefax (03 51) 4 88 48 13
+E-Mail sozialplanung@dresden.de
+Amt für Presse-, Öffentlichkeitsarbeit und Protokoll
+Telefon (03 51) 4 88 23 90
+Telefax (03 51) 4 88 22 38
+E-Mail presse@dresden.de
+Postfach 12 00 20
+01001 Dresden
+www.dresden.de
+www.dresden.de/social-media
+Zentraler Behördenruf 115 – Wir lieben Fragen
+Titelfoto:
+Fokussiert – stock.adobe.com
+Gestaltung:
+Hi Agentur e.K.
+Druck:
+Union Druckerei Dresden GmbH
+Dezember 2024
+Schutzgebühr 2,00 Euro  
+Elektronische Dokumente mit qualifizierter elektronischer Signatur 
+können über ein Formular eingereicht werden. Darüber hinaus gibt es die 
+Möglichkeit, E-Mails an die Landeshauptstadt Dresden mit einem S/MIME-
+Zertifikat zu verschlüsseln oder mit DE-Mail sichere E-Mails zu senden. 
+Weitere Informationen hierzu stehen unter www.dresden.de/kontakt. 
+Dieses Informationsmaterial ist Teil der Öffentlichkeitsarbeit der 
+Landeshauptstadt Dresden. Es darf nicht zur Wahlwerbung benutzt werden. 
+Parteien können es jedoch zur Unterrichtung ihrer Mitglieder verwenden.
+www.dresden.de/mietspiegel

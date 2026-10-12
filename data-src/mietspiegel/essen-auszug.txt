@@ -1,0 +1,481 @@
+
+=====PAGE 1=====
+Gültig ab 1. August 2026
+Qualifizierter Mietspiegel 2026
+für nicht preisgebundene Wohnungen in Essen
+=====PAGE 2=====
+Alle Rechte vorbehalten. Vervielfältigung (auch auszugsweise) und Speicherung in elektronische „Systeme“ 
+nur mit ausdrücklicher Genehmigung des Herausgebers.
+Der Mietspiegel wurde sorgfältig erstellt, die Stadt Essen und die beteiligten Stellen übernehmen keine 
+Gewähr für die bereitgestellten Informationen. Sie haften nicht für Schäden, die sich aus der Verwendung 
+des Mietspiegels ergeben.
+  Impressum
+ Herausgeberin  Stadt Essen, Amt für Grundstücksmanagement und 
+  Wohnraumförderung
+ Datenerhebung DOMUS Consult Wirtschaftsberatungsgesellschaft mbH, 
+ und Auswertung Gasstraße 16, 22761 Hamburg
+ Satz  Amt für Geoinformation, Vermessung und Kataster
+ Titelfoto Michael Luhrenberg / Getty Images
+ Stand  Mai 20262
+  Seite
+1. Allgemeine Informationen zum Mietspiegel  ...............................................  3
+2. Rechtliche Grundlagen und Zweck des Mietspiegels  ...............................  4
+3. Anwendungsbereich des Mietspiegels  ..........................................................  4
+4. Mietbegriff  ............................................................................................................  5
+5. Berechnung der ortsüblichen Vergleichsmiete  ..........................................  5
+5.1 Schritt 1: Ermittlung der Basis-Nettomiete .........................................  5
+5.2 Schritt 2: Ermittlung vo n Zu- und Abschlägen ..................................  7
+5.3 Schritt 3: Ermittlung der ortsüblichen Vergleichsmiete ................. 10
+6. Spannbreite  .........................................................................................................  11
+7. Anwendungsbeispiel  ......................................................................................... 12
+8. Download und Online-Mietspiegel  .............................................................. 14
+Inhalt
+=====PAGE 3=====
+3Mietspiegel Essen 2026
+1. Allgemeine Informationen zum Mietspiegel
+Der Mietspiegel Essen 2024 wurde auf der Grundlage einer repräsentativen Stichprobe nicht preisgebundener 
+Wohnungen im Bereich der Stadt Essen erstellt. Er basiert auf Daten, die im Zeitraum von Januar 2024 bis 
+März 2024 bei Vermieterinnen*Vermietern von 17.243 mietspiegelrelevanten Haushalten zum Zwecke der 
+Mietspiegelerstellung erhoben wurden. Die Haushalte wurden zufällig ausgewählt, die Daten mit Hilfe eines 
+standardisierten Fragebogens erhoben. Es wurde eine schriftliche Befragung bei den Vermieterinnen*Vermie-
+tern durchgeführt. 
+Der Mietspiegel wurde nach anerkannten wissenschaftlichen Grundsätzen mit Hilfe der Regressionsmethode 
+errechnet. Bei der Regressionsanalyse wird die Netto-Kaltmiete als eine Funktion von einer Vielzahl von 
+Einflussfaktoren modelliert. Zugleich können wohnwertsteigernde und wohnwertmindernde Einflussfaktoren 
+isoliert und bestimmt werden. Es handelt sich bei dem Regressionsmodell um einen multiplikativ-additiven 
+Ansatz. 
+Anwendung für die Regressionsauswertung findet das „Regensburger Modell“. Bei diesem wird die Netto-
+Kaltmiete eines Mietobjekts über die multiplikative Verknüpfung in einem zweistufigen Verfahren geschätzt. 
+In einem ersten Schritt wird der Einfluss der Wohnfläche berechnet, während im zweiten Schritt Zu- und 
+Abschläge für Baujahresklassen und andere Wohnwertmerkmale berechnet werden.
+An der Erstellung des Mietspiegels hat eine projektbegleitende Arbeitsgruppe mitgewirkt, die sich aus Inter-
+essensvertreterinnen*-vertretern der Mieter*innen, Vermieter*innen sowie sonstigen Mitgliedern zusammen-
+setzt. Die Projektleitung lag beim Amt für Grundstücksmanagement und Wohnraumförderung der Stadt 
+Essen. In der Arbeitsgruppe waren vertreten: 
+Interessensvertreter*innen der Mieter*innen: 
+• Deutscher Mieterbund, Mieterverein Essen e.V.
+• Mieterschutzverein Ruhr e.V.
+Interessensvertreter*innen der Vermieter*innen:
+• Arbeitsgemeinschaft der Wohnungsunternehmen in der Stadt Essen
+• Haus & Grund Haus-, Wohnungs- und Grundeigentümerverein Essen e.V.
+Sonstige Mitglieder:
+• Grundstücksbörse Ruhr e.V., Essen
+• Ring Deutscher Makler, Bezirksverband Essen e.V.
+• Gutachterausschuss für Grundstückswerte in der Stadt Essen
+• Stadt Essen, Amt für Statistik, Stadtforschung und Wahlen
+• Stadt Essen, Amt für Soziales und Wohnen
+• Stadt Essen, Amt für Grundstücksmanagement und Wohnraumförderung 
+Die Auswertung der Daten und die wissenschaftliche Bearbeitung des Mietspiegels erfolgte durch DOMUS 
+Consult Wirtschaftsberatungsgesellschaft mbH (ehemals Analyse & Konzepte immo.consult GmbH), 
+Gasstraße 16, 22761 Hamburg.
+Der Mietspiegel 2024 der Stadt Essen wurde auf Basis des Verbraucherpreisindex für Deutschland (Preisindex 
+für die Lebenshaltung aller privaten Haushalte) gemäß § 558d Abs. 2 BGB als Mietspiegel 2026 fortgeschrie-
+ben. Diese Fortschreibung tritt zum 01.08.2026 für die Dauer von 2 Jahren in Kraft.
+Der Mietspiegel 2026 wurde von den vorgenannten Interessensvertreter*innen der Mieter*innen und 
+Vermieter*innen als qualifizierter Mietspiegel anerkannt.
+=====PAGE 4=====
+4 Mietspiegel Essen 2026
+2. Rechtliche Grundlagen und Zweck des Mietspiegels
+Ein Mietspiegel ist gemäß §§ 558c und 558d des Bürgerlichen Gesetzbuches (BGB) eine Übersicht über die 
+gezahlten Mieten für nicht preisgebundenen Wohnraum vergleichbarer Art, Größe, Ausstattung, Beschaffen-
+heit und Lage (= ortsübliche Vergleichsmiete). Die ortsübliche Vergleichsmiete setzt sich – entsprechend den 
+gesetzlichen Voraussetzungen – aus Mieten zusammen, die in den letzten sechs Jahren neu vereinbart oder, 
+von Betriebskostenerhöhungen abgesehen, geändert worden sind. 
+Der Mietspiegel liefert Informationen über ortsübliche Vergleichsmieten verschiedener Wohnungskategorien. 
+Er trägt dazu bei, das Mietpreisgefüge im nicht preisgebundenen Wohnungsbestand transparent zu machen, 
+Streitigkeiten zwischen Mietvertragsparteien zu vermeiden, Kosten der Beschaffung von Informationen über 
+Vergleichsmieten im Einzelfall zu verringern und den Gerichten die Entscheidung in Streitfällen zu erleich-
+tern. Der Mietspiegel dient ferner der Begründung eines Erhöhungsverlangens zur Anpassung an die orts-
+übliche Vergleichsmiete und der Überprüfung der Angemessenheit gezahlter Mieten. 
+3. Anwendungsbereich des Mietspiegels
+Der Mietspiegel gilt nur für nicht preisgebundenen Wohnraum im Wohnflächenbereich zwischen 25 m2 und 
+160 m2 einschließlich Ein- und Zweifamilienhäusern. Aufgrund von rechtlichen Bestimmungen oder Sonder-
+wohnraumverhältnissen fallen nicht in den Anwendungsbereich des Mietspiegels: 
+• öffentlich geförderter und anderen Preisbindungen unterliegender Wohnraum (beispielsweise Sozial-
+wohnungen mit Berechtigungsschein);
+• Wohnraum, der ganz oder größtenteils gewerblich genutzt wird;
+• Wohnraum in Studentenwohn- und Jugendwohn-, Alten(pflege)-, Obdachlosen- oder in sonstigen Heimen, 
+bei denen die Mietzahlung zusätzliche Leistungen abdeckt (beispielsweise Betreuung und Verpflegung);
+• Untermietverhältnisse; 
+• möbliert oder teilmöbliert vermieteter Wohnraum (ausgenommen Ausstattung mit Einbauküchen und 
+Einbauschränken);
+• Dienst- oder Werkswohnungen, die an ein Beschäftigungsverhältnis gebunden sind.
+=====PAGE 5=====
+5Mietspiegel Essen 2026
+4. Mietbegriff
+Bei den im Mietspiegel ausgewiesenen Mietpreisen handelt es sich um die Netto-Kaltmiete in Euro pro 
+Quadratmeter Wohnfläche. Darunter versteht man den Mietpreis ohne sämtliche Betriebskosten gemäß 
+§ 2 der Verordnung über die Aufstellung von Betriebskosten (Betriebskostenverordnung - BetrKV). 
+Nicht enthalten sein dürfen somit: laufende öffentliche Lasten des Grundstücks (Grundsteuer), Kosten der 
+Wasserversorgung und Entwässerung, der zentralen Heizung und Warmwasserversorgung, des Aufzugs, der 
+Straßenreinigung, der Müllabfuhr, der*des Hausmeisterin*Hausmeisters, der Hausreinigung und der Garten-
+pflege, der Hausbeleuchtung, der Schornsteinreinigung, der hausbezogenen Versicherungen, der laufenden 
+Kosten für Kabelfernsehen beziehungsweise Gemeinschaftsantenne und der sonstigen laufenden Betriebs-
+kosten. 
+Die Miete für eine Garage beziehungsweise einen Stellplatz oder etwaige Möblierungs- und Untermiet-
+zuschläge sind in der Netto-Kaltmiete ebenfalls nicht enthalten.
+Mietverträge sind in der Praxis unterschiedlich gestaltet. Sind Betriebskosten in der Mietzahlung enthalten 
+(= Brutto- / Inklusivmiete oder Teilinklusivmiete), muss der geleistete Mietbetrag vor der Anwendung des 
+Mietspiegels um die entsprechend enthaltenen Betriebskosten bereinigt werden.
+5. Berechnung der ortsüblichen Vergleichsmiete
+Die Berechnung der ortsüblichen Vergleichsmiete für eine konkrete Wohnung erfolgt in drei Schritten: 
+Schritt 1 Im ersten Schritt wird die Basis-Nettomiete (durchschnittliches Mietniveau) in Abhängigkeit von 
+ der Wohnfläche bestimmt.
+Schritt 2 Hier werden prozentuale Zu- und Abschläge auf die Basis-Nettomiete insbesondere aufgrund von 
+ Baujahr, Besonderheiten bei Wohnungs- und Gebäudeausstattung, Energieeffizienz und Wohnlage 
+ ermittelt.
+Schritt 3 Die Ergebnisse aus den Schritten 1 und 2 werden zusammengefasst, um die ortsübliche Vergleichs-
+ miete zu berechnen. 
+5.1 Schritt 1: Ermittlung der Basis-Nettomiete
+Tabelle 1 bildet die Basis des Mietspiegels. Sie gibt die Basis-Nettomiete (durchschnittliches Mietniveau) für 
+bestimmte Wohnflächenklassen in Euro pro Quadratmeter und Monat wieder.
+Bei der Berechnung der Wohnfläche sind folgende Grundsätze zu beachten: 
+• Dachgeschossflächen mit einer lichten Höhe von mindestens einem Meter und weniger als zwei Metern 
+werden zur Hälfte berücksichtigt; nicht berücksichtigt werden Flächen mit einer lichten Höhe von weniger 
+als einem Meter.
+• Die Flächen von Balkonen, Loggien etc. werden nach § 4 Nr. 4 der Verordnung zur Berechnung der Wohn-
+fläche (Wohnflächenverordnung - WoFlV) in der Regel mit einem Viertel und bei hohem Nutzwert maxi-
+mal bis zur Hälfte als Wohnfläche berücksichtigt.
+=====PAGE 6=====
+Wohnfläche Basismiete Wohnfläche Basismiete Wohnfläche Basismiete Wohnfläche Basismiete
+m 2E u r o / m 2m 2E u r o / m 2m 2E u r o / m 2m 2E u r o / m 2
+25 - 26 10,14 59 - 60 6,82 93 - 94 7,15 127 - 128 7,51
+27 - 28 9,53 61 - 62 6,81 95 - 96 7,18 129 - 130 7,51
+29 - 30 9,04 63 - 64 6,81 97 - 98 7,22 131 - 132 7,51
+31 - 32 8,64 65 - 66 6,81 99 - 100 7,25 133 - 134 7,51
+33 - 34 8,29 67 - 68 6,82 101 - 102 7,28 135 - 136 7,50
+35 - 36 8,01 69 - 70 6,83 103 - 104 7,31 137 - 138 7,50
+37 - 38 7,77 71 - 72 6,85 105 - 106 7,33 139 - 140 7,49
+39 - 40 7,57 73 - 74 6,87 107 - 108 7,36 141 - 142 7,48
+41 - 42 7,40 75 - 76 6,89 109 - 110 7,38 143 - 144 7,48
+43 - 44 7,27 77 - 78 6,91 111 - 112 7,40 145 - 146 7,48
+45 - 46 7,16 79 - 80 6,94 113 - 114 7,42 147 - 148 7,48
+47 - 48 7,07 81 - 82 6,96 115 - 116 7,45 149 - 150 7,49
+49 - 50 7,00 83 - 84 7,00 117 - 118 7,47 151 - 152 7,51
+51 - 52 6,93 85 - 86 7,03 119 - 120 7,48 153 - 154 7,53
+53 - 54 6,89 87 - 88 7,06 121 - 122 7,49 155 - 156 7,57
+55 - 56 6,86 89 - 90 7,09 123 - 124 7,50 157 - 158 7,62
+57 - 58 6,83 91 - 92 7,12 125 - 126 7,51 159 - 160 7,69
+6 Mietspiegel Essen 2026
+Tabelle 1: Monatliche Basis-Nettomiete nur in Abhängigkeit von der Wohnfläche
+Anwendungsanleitung für Tabelle 1: 
+1.  Ordnen Sie Ihre Wohnung zunächst nach der Wohnfläche - ohne Berücksichtigung etwaiger 
+Nachkommastellen - in die zutreffende Gruppe ein. Zum Beispiel sind Wohnungen von 27,00 m2 
+bis 28,99 m2 in der Gruppe 27 - 28 m2 einzuordnen.
+2. Für die Berechnung der ortsüblichen Vergleichsmiete übertragen Sie die Wohnfläche in Feld A 
+und die abgelesene Basismiete aus Tabelle 1 in Feld B der Tabelle 3.
+=====PAGE 7=====
+7Mietspiegel Essen 2026
+5.2 Schritt 2: Ermittlung von Zu- und Abschlägen
+Die in Tabelle 1 ermittelte Basis-Nettomiete gibt das durchschnittliche Mietniveau für eine Wohnung in Ab-
+hängigkeit von der Wohnfläche an. Daneben können Besonderheiten bei Baualtersklasse, Wohnungstyp, 
+Wohnungsausstattung, Heizung, Modernisierung, Wohnlage und Ähnliches den Mietpreis einer Wohnung 
+beeinflussen. Die Tabelle 2 weist Zu- und Abschläge zur Basis-Nettomiete aufgrund besonderer Wohn-
+wertmerkmale aus. Sie enthält nur Wohnwertmerkmale, die sich im Rahmen der Auswertungen als signifikant 
+mietpreisbeeinflussend herausgestellt haben und in ausreichender Anzahl für die Auswertung vorlagen. 
+Maßgeblich sind nur Ausstattungen, die von dem*der Vermieter*in gestellt werden. Hat ein*e Mieter*in ein-
+zelne Ausstattungen selbst geschaffen – ohne dass die Kosten von dem*der Vermieter*in erstattet wurden –, 
+so bleiben diese unberücksichtigt. Bei der Höhe der ausgewiesenen Zu- und Abschläge handelt es sich jeweils 
+um durchschnittliche Werte.
+Grundsätzlich ist die Wohnung in die Baualtersklasse einzuordnen, in der das Gebäude fertig erstellt bezie-
+hungsweise die Wohnung bezugsfertig wurde. Wenn durch An- oder Ausbau nachträglich neuer Wohnraum 
+geschaffen wurde (beispielsweise Ausbau einer Dachgeschosswohnung), ist die Baualtersklasse zu verwenden, 
+in der die Baumaßnahme erfolgte. 
+Die Wohnlage eines Gebäudes kann unter www.essen.de/mietspiegel durch Eingabe von Straßenname und 
+Hausnummer abgefragt werden. Die Einstufung in sieben Wohnlagen (I bis VII) basiert auf einem externen 
+geodatenbasierten Wohnlagenmodell. Die Wohnlage ist damit als ein unabhängiges objektives Kriterium in 
+den Mietspiegel eingeflossen. Das Wohnlagenmodell wurde anhand einer Vielzahl adressgenauer, mikrogeo-
+grafischer Gebäudedaten aus dem Jahr 2023 von der infas 360 GmbH, Bonn erstellt. Mit der Klassifizierung 
+ist keine verbindliche Aussage über die Wohnlage und den Mietwohnwert der Einzelwohnung getroffen wor-
+den. Diese kann innerhalb einer Straße und innerhalb eines Hauses variieren und im Zweifel nur im Rahmen 
+eines Mietwertgutachtens festgestellt werden. In der Regel ist aber die hier getroffene Einstufung für die 
+Mehrzahl der Mietwohnungen an der jeweiligen Adresse zutreffend. Die Bereiche, in denen unterschiedliche 
+Wohnlagen zusammentreffen, sind besonders zu würdigen.
+=====PAGE 8=====
+Wohnwertmerkmale Zu- /
+Abschlag
+Übertrag
+Kategorie 1) Baualtersklasse
+Baujahre vor 1919 - 1,7 %
+Baujahre 1919 bis 1948 - 2,2 %
+Baujahre 1949 bis 1976 ± 0,0 %
+Baujahre 1977 bis 1993 + 2,7 %
+Baujahre 1994 bis 2001 + 7,8 %
+Baujahre 2002 bis 2006 + 11,8 %
+Baujahre 2007 bis 2015 + 22,8 %
+Baujahre 2016 bis 2023 + 28,2 %
+Kategorie 2) Wohnungstyp
+Freistehendes Einfamilienhaus oder Doppelhaushälfte mit Garten + 3,1 %
+Dachgeschosswohnung (mit mindestens zwei schrägen Wänden) - 2,3 %
+1-Zimmer-Apartment nur mit Kochnische (ohne eigenständige Küche) - 4,7 %
+Kategorie 3) Wohnungsausstattung
+Die Wohnung verfügt über keine Video- oder Gegensprechanlage (nur in Mehrfamilienhaus). - 3,8 %
+Die Wohnung ist stufenlos erreichbar. + 4,5 %
+Die Wohnung verfügt über eine von dem*der Vermieter*in gestellte Einbauküche mit 
+Schränken und mindestens Spüle, Herd und Kühlschrank. + 8,6 %
+Die Wohnung verfügt über eine von dem*der Vermieter*in gestellte einfache Küchen-
+einrichtung (zum Beispiel Spüle, Herd). + 2,4 %
+Das Bad verfügt über Badewanne und Dusche. + 2,3 %
+Das Bad verfügt über einen Handtuchtrockner-Heizkörper. + 2,6 %
+Das Bad verfügt über eine Fußbodenheizung. + 6,8 %
+Die Wohnung hat keinen von dem*der Vermieter*in gestellten Bodenbelag. - 1,9 %
+Die Wohnung verfügt über einen hochwertigen Bodenbelag 
+(zum Beispiel Echtholzparkett, Dielenböden, Vinyl, Designboden, Keramik, Fliesen, 
+Kachelboden oder Naturstein hohen Standards).
++ 4,1 %
+Die Wohnung verfügt über ein oder mehrere Durchgangszimmer. - 1,2 %
+Die Leitungen liegen offen sichtbar auf Putz. - 5,4 %
+8 Mietspiegel Essen 2026
+Tabelle 2: Zu- und Abschläge auf die Basis-Nettomiete für mietpreisbeeinflussende Wohnwertmerkmale
+Anwendungsanleitung für Tabelle 2: 
+1. Überprüfen Sie, ob die in verschiedenen Kategorien angeführten Wohnwertmerkmale auf die 
+Wohnung zutreffen.
+2. Tragen Sie zutreffende Zu- und / oder Abschläge in das Feld „Übertrag“ am Rand der 
+Tabelle 2 ein. 
+3. Bilden Sie in der Tabelle 2 die Summen der Zu- und Abschläge in den Kategorien 3 und 5.
+4. Zur Ermittlung der ortsüblichen Vergleichsmiete übertragen Sie alle Ergebnisse der einzelnen 
+Kategorien in die Felder C bis H der Tabelle 3. Treffen in den Kategorien 2, 3, 4 und 5 keine    
+Wohnwertmerkmale auf die Wohnung zu, so übertragen Sie bitte in diesem Fall die Zahl 0. 
+=====PAGE 9=====
+Wohnwertmerkmale (Fortsetzung) Zu- /
+Abschlag
+Übertrag
+Die Wohnung verfügt über elektrische Rollläden. + 3,2 %
+Die Wohnung verfügt über eine Wärmeschutzverglasung (U-Wert bis 1,9). + 3,1 %
+Die Wohnung verfügt über keinen Balkon, keine Terrasse und keinen eigenen Garten. - 2,8 %
+Die Wohnung verfügt über einen eigenen Garten (nicht bei freistehendem Einfamilienhaus 
+oder Doppelhaushälfte). + 1,9 %
+Summe Kategorie 3) Wohnungsausstattung
+Kategorie 4) Heizung
+Die Wohnung wird über Zentralheizung beheizt
+(Zuschlag kann nicht mit Zuschlag für Wärmepumpe / Geothermie kombiniert werden). + 2,5 %
+Die Wohnung wird mit Wärmepumpe / Geothermie beheizt 
+(Zuschlag kann nicht mit Zuschlag für Zentralheizung kombiniert werden). + 10,1 %
+Kategorie 5) Modernisierung
+Vollständige Außenwanddämmung ab 2007 bis einschließlich 2015 + 2,2 %
+Vollständige Außenwanddämmung ab 2016 + 7,7 %
+Elektroinstallation in der Wohnung (einschließlich Verkabelung) ab 2016 + 3,4 %
+Sanitärbereich (Fliesen, WC, Badewanne / Duschtasse und Waschbecken) ab 2016 + 4,0 %
+Austausch des Wärmeerzeugers ab 2016 + 1,3 %
+Summe Kategorie 5) Modernisierung
+Kategorie 6) Wohnlage
+I + 13,5 %
+II + 12,4 %
+III + 7,9 %
+IV + 3,0 %
+V ± 0,0 %
+VI - 1,9 %
+VII - 4,8 %
+9Mietspiegel Essen 2026
+=====PAGE 10=====
+Ergebnis Schritt 1
+Wohnfläche [m2] A
+Basis-Nettomiete [Euro/m2] B
+Ergebnis Schritt 2
+Kategorie 1) Baualtersklasse [%] C
+Kategorie 2) Wohnungstyp [%] D
+Kategorie 3) Wohnungsausstattung [%] E
+Kategorie 4) Heizung [%] F
+Kategorie 5) Modernisierung [%] G
+Kategorie 6) Wohnlage [%] H
+Summe der Felder C bis H [%] I
+Summe der Zu- / Abschläge [Euro/m2] Feld B  x  Feld I  /  100 J
+durchschnittliche monatliche ortsübliche 
+Vergleichsmiete [Euro/m2] Feld B  +  Feld J K
+durchschnittliche monatliche ortsübliche 
+Vergleichsmiete [Euro] Feld A  x  Feld K L
+Spannenuntergrenze [Euro/m2] Feld K  x  0,83 M
+Spannenuntergrenze [Euro] Feld M  x  Feld A N
+Spannenobergrenze [Euro/m2] Feld K  x  1,18 O
+Spannenobergrenze [Euro] Feld O  x  Feld A P
+10 Mietspiegel Essen 2026
+Tabelle 3: Berechnungschema zur Ermittlung der ortsüblichen Vergleichsmiete
+Eine Erläuterung der Spannbreite sowie eine Orientierungshilfe zur Einordnung der Wohnung innerhalb 
+der Spanne finden Sie in Kapitel 6.
+5.3 Schritt 3: Ermittlung der ortsüblichen Vergleichsmiete
+Anhand des nachfolgenden Berechnungsschemas wird aus den Ergebnissen der Schritte 1 und 2 die durch-
+schnittliche ortsübliche Vergleichsmiete ermittelt.
+• Bilden Sie die Summe der Felder C bis H und tragen diese in Feld I ein. Diese Summe kann auch einen 
+negativen Wert annehmen, wenn die Abschläge überwiegen. 
+• Rechnen Sie die Zu- und Abschläge in Euro pro Quadratmeter aus (Feld J), indem Sie die Basismiete 
+(Feld B) mit der durch 100 geteilten Summe der Felder C bis H (Feld I) multiplizieren. 
+• Berechnen Sie die durchschnittliche monatliche ortsübliche Vergleichsmiete in Euro pro Quadratmeter 
+(Feld K), indem Sie die Summe aus Basis-Nettomiete (Feld B) und Zu- und Abschlägen (Feld J) bilden. 
+• Berechnen Sie die durchschnittliche monatliche ortsübliche Vergleichsmiete in Euro (Feld L), indem Sie 
+die Wohnfläche der Wohnung (Feld A) mit der durchschnittlichen monatlichen ortsüblichen Vergleichs-
+miete in Euro pro Quadratmeter (Feld K) multiplizieren.
+• Berechnen Sie die Spannenuntergrenze in Euro pro Quadratmeter (Feld M), indem Sie die durchschnitt-
+liche monatliche ortsübliche Vergleichsmiete in Euro pro Quadratmeter (Feld K) mit 0,83 multiplizieren.
+• Berechnen Sie die Spannenuntergrenze in Euro (Feld N), indem Sie die Spannenuntergrenze in Euro pro 
+Quadratmeter (Feld M) mit der Wohnfläche (Feld A) multiplizieren.
+• Berechnen Sie die Spannenobergrenze in Euro pro Quadratmeter (Feld O), indem Sie die durchschnittliche 
+monatliche ortsübliche Vergleichsmiete in Euro pro Quadratmeter (Feld K) mit 1,18 multiplizieren.
+• Berechnen Sie die Spannenobergrenze in Euro (Feld P), indem Sie die Spannenobergrenze in Euro pro 
+Quadratmeter (Feld O) mit der Wohnfläche (Feld A) multiplizieren.
+=====PAGE 11=====
+11Mietspiegel Essen 2026
+6. Spannbreite
+Auf Grundlage der Basismiete und den Zu- und Abschlägen wird die ortsübliche Vergleichsmiete ermittelt, 
+die im Durchschnitt für eine Wohnung mit den vorliegenden Eigenschaften gezahlt wird. Die tatsächlich für 
+eine bestimmte Wohnung gezahlte Miete kann vom Durchschnitt abweichen.
+Gründe für diese Abweichung können unterschiedlichste Ursachen sein. Eine Miete wird zwischen Mieterin-
+nen*Mietern sowie Vermieterinnen*Vermietern vereinbart und bei der Preisbildung können auch Mietdauer 
+und soziale Aspekte eine Rolle spielen. Zudem können Lage- und Ausstattungsmerkmale unterschiedlich 
+ausgeprägt sein. Beispielsweise ist die Einbauküche in einer Wohnung eben nicht genau gleichwertig zur 
+Einbauküche in einer anderen Wohnung. Auch aus diesen Gründen werden unterschiedliche Mieten gezahlt, 
+auch wenn zwei Wohnungen nach den oben genannten Kriterien als gleich anzusehen wären. Für die orts-
+übliche Miete kann also nicht ein bestimmter Wert angegeben werden, der dann genau einzuhalten wäre. 
+Darüber hinaus gibt es Merkmale, die in den Mietzuschlägen und Mietabschlägen (siehe Tabelle 2) nicht be-
+rücksichtigt sind (zum Beispiel weitere Ausstattungsbesonderheiten), welche ebenso auf die Preisbildung 
+wirken können.
+Da Mietspiegel nicht die gesamte Streuung an Merkmalen berücksichtigen können, werden Mieten gewöhn-
+lich als ortsüblich bezeichnet, wenn sie innerhalb einer Spannbreite von Mietpreisen liegen, in der sich drei 
+Viertel aller Mieten dieser Wohnungsklasse befinden. Diese Dreiviertelspanne reicht von - 17 Prozent bis 
++ 18 Prozent bezogen auf die oben ermittelte Durchschnittsmiete in Tabelle 3 (Feld K und L). 
+Nachfolgend sind Beispiele aufgeführt, die eine Veränderung der durchschnittlichen ortsüblichen Vergleichs-
+miete rechtfertigen können. Diese Beispiele sind nicht abschließend. Sie ergänzen den qualifizierten Miet-
+spiegel und dienen als Orientierungshilfe.
+Verminderung der durchschnittlichen ortsüblichen Vergleichsmiete
+• Besondere Wohnlagemerkmale, die nicht im Wohnlagenmodell berücksichtigt sind, zum Beispiel über die 
+generelle Lärmsituation in der Straße (Straßen-, Schienen- und Flugverkehrslärm, Lärm großer Gewerbe- 
+und Industriebetriebe) hinausgehende erhebliche und regelmäßige Beeinträchtigung durch Geräusche bei-
+spielsweise durch Liefer- oder Kundenverkehr; Gerüche (verursacht beispielsweise durch Gewerbe)
+• Keine ausreichende Belichtung der Wohnräume
+• Küche ohne Fenster und ohne ausreichende Entlüftung
+• Keine von dem*der Vermieter*in gestellte Warmwasseraufbereitungsmöglichkeit in der Küche
+• Innenliegendes Bad ohne ausreichende Belüftung
+• Fehlender zusätzlicher Abstellraum im Haus (Kellerraum, Dachbodenverschlag oder Ähnliches)
+Erhöhung der durchschnittlichen ortsüblichen Vergleichsmiete
+• Besondere Wohnlagemerkmale, die nicht im Wohnlagenmodell berücksichtigt sind, zum Beispiel über die 
+generelle Straßengestaltung hinausgehende Gestaltung der Straße (beispielsweise Straße als Allee gestal-
+tet, Stichstraßen in Sackgassenlage), aufwändig gestaltetes Wohnumfeld auf dem Grundstück von Mehr-
+familienhäusern (beispielsweise Sitzbänke, Ruhezonen oder aufwändig gestaltete Spielflächen), kostenfreie 
+Parkmöglichkeiten in ausreichender Anzahl am Haus vorhanden 
+• Heizung unterstützt durch regenerative Energieträger (beispielsweise Solarthermie)
+• Zusätzlicher Kamin oder Kaminofen
+• Gäste-WC
+• Zweites Badezimmer / Badezimmer mit Badewanne und Dusche
+• Einbruchhemmende Wohnungstür (mindestens RC2 N)
+• Zusätzlicher Einbruchschutz an Fenstern und Balkontüren (mindestens RC2 N)
+• moderne Grundrissgestaltung (beispielsweise offener Wohn-Essbereich)
+• Wohnung wurde durch den*die Vermieter*in tapeziert übergeben
+=====PAGE 12=====
+Wohnwertmerkmale (Tabelle 2) Zu- /
+Abschlag
+Übertrag
+Kategorie 1) Baualtersklasse
+Baujahre vor 1919 - 1,7 %
+Baujahre 1919 bis 1948 - 2,2 %
+Baujahre 1949 bis 1976 ± 0,0 %
+Baujahre 1977 bis 1993 + 2,7 % + 2,7
+Baujahre 1994 bis 2001 + 7,8 %
+Baujahre 2002 bis 2006 + 11,8 %
+Baujahre 2007 bis 2015 + 22,8 %
+Baujahre 2016 bis 2023 + 28,2 %
+Kategorie 2) Wohnungstyp
+Freistehendes Einfamilienhaus oder Doppelhaushälfte mit Garten + 3,1 %
+Dachgeschosswohnung (mit mindestens zwei schrägen Wänden) - 2,3 %
+1-Zimmer-Apartment nur mit Kochnische (ohne eigenständige Küche) - 4,7 %
+Kategorie 3) Wohnungsausstattung
+Die Wohnung verfügt über keine Video- oder Gegensprechanlage (nur in Mehrfamilienhaus). - 3,8 %
+Die Wohnung ist stufenlos erreichbar. + 4,5 %
+Die Wohnung verfügt über eine von dem*der Vermieter*in gestellte Einbauküche mit 
+Schränken und mindestens Spüle, Herd und Kühlschrank. + 8,6 %
+Die Wohnung verfügt über eine von dem*der Vermieter*in gestellte einfache Küchen-
+einrichtung (zum Beispiel Spüle, Herd). + 2,4 %
+Das Bad verfügt über Badewanne und Dusche. + 2,3 % + 2,3
+Das Bad verfügt über einen Handtuchtrockner-Heizkörper. + 2,6 % + 2,6
+Das Bad verfügt über eine Fußbodenheizung. + 6,8 %
+Die Wohnung hat keinen von dem*der Vermieter*in gestellten Bodenbelag. - 1,9 %
+12 Mietspiegel Essen 2026
+7. Anwendungsbeispiel
+Zur Veranschaulichung wird die Vorgehensweise an einer fiktiven Wohnung mit folgenden Merkmalen 
+illustriert:
+• Wohnung in einem Mehrfamilienhaus
+• Wohnfläche 55 m2
+• Baujahr 1978
+• Gegensprechanlage vorhanden
+• Badewanne und Dusche
+• Handtuchtrockner-Heizkörper
+• Hochwertiger Bodenbelag
+• Keinen Balkon / keine Terrasse / keinen Garten
+• Vollständige Außenwanddämmung in 2017
+• Wohnlage IV
+=====PAGE 13=====
+Wohnwertmerkmale (Tabelle 2) - Fortsetzung Zu- /
+Abschlag
+Übertrag
+Die Wohnung verfügt über einen hochwertigen Bodenbelag 
+(zum Beispiel Echtholzparkett, Dielenböden, Vinyl, Designboden, Keramik, Fliesen, 
+Kachelboden oder Naturstein hohen Standards).
++ 4,1 % + 4,1
+Die Wohnung verfügt über ein oder mehrere Durchgangszimmer. - 1,2 %
+Die Leitungen liegen offen sichtbar auf Putz. - 5,4 %
+Die Wohnung verfügt über elektrische Rollläden. + 3,2 %
+Die Wohnung verfügt über eine Wärmeschutzverglasung (U-Wert bis 1,9). + 3,1 %
+Die Wohnung verfügt über keinen Balkon, keine Terrasse und keinen eigenen Garten. - 2,8 % - 2,8
+Die Wohnung verfügt über einen eigenen Garten (nicht bei freistehendem Einfamilienhaus 
+oder Doppelhaushälfte). + 1,9 %
+Summe Kategorie 3) Wohnungsausstattung + 6,2
+Kategorie 4) Heizung
+Die Wohnung wird über Zentralheizung beheizt
+(Zuschlag kann nicht mit Zuschlag für Wärmepumpe / Geothermie kombiniert werden). + 2,5 %
+Die Wohnung wird mit Wärmepumpe / Geothermie beheizt 
+(Zuschlag kann nicht mit Zuschlag für Zentralheizung kombiniert werden). + 10,1 %
+Kategorie 5) Modernisierung
+Vollständige Außenwanddämmung ab 2007 bis einschließlich 2015 + 2,2 %
+Vollständige Außenwanddämmung ab 2016 + 7,7 % + 7,7
+Elektroinstallation in der Wohnung (einschließlich Verkabelung) ab 2016 + 3,4 %
+Sanitärbereich (Fliesen, WC, Badewanne / Duschtasse und Waschbecken) ab 2016 + 4,0 %
+Austausch des Wärmeerzeugers ab 2016 + 1,3 %
+Summe Kategorie 5) Modernisierung + 7,7
+Kategorie 6) Wohnlage
+I + 13,5 %
+II + 12,4 %
+III + 7,9 %
+IV + 3,0 % + 3,0
+V ± 0,0 %
+VI - 1,9 %
+VII - 4,8 %
+13Mietspiegel Essen 2026
+=====PAGE 14=====
+Tabelle 1
+Wohnfläche [m2] 55 A
+Basis-Nettomiete [Euro/m2] 6,86 B
+Tabelle 2
+Kategorie 1) Baualtersklasse [%] + 2,7 C
+Kategorie 2) Wohnungstyp [%] ± 0,0 D
+Kategorie 3) Wohnungsausstattung [%] + 6,2 E
+Kategorie 4) Heizung [%] ± 0,0 F
+Kategorie 5) Modernisierung [%] + 7,7 G
+Kategorie 6) Wohnlage [%] + 3,0 H
+Summe der Felder C bis H [%] + 19,6 I
+Summe der Zu- / Abschläge [Euro/m2] Feld B  x  Feld I  /  100
+6,86  x  19,6  /  100 1,34 J
+durchschnittliche monatliche ortsübliche 
+Vergleichsmiete [Euro/m2]
+Feld B  +  Feld J
+6,86  +  1,34 8,20 K
+durchschnittliche monatliche ortsübliche 
+Vergleichsmiete [Euro]
+Feld A  x  Feld K
+55  x  8,20 451,00 L
+Spannenuntergrenze [Euro/m2] Feld K  x  0,83
+8,20  x  0,83 6,81 M
+Spannenuntergrenze [Euro] Feld M  x  Feld A
+6,81  x  55 374,55 N
+Spannenobergrenze [Euro/m2] Feld K  x  1,18
+8,20  x  1,18 9,68 O
+Spannenobergrenze [Euro] Feld O  x  Feld A
+9,68  x  55 532,40 P
+14 Mietspiegel Essen 2026
+Exemplarische Ermittlung der durchschnittlichen ortsüblichen Vergleichsmiete
+8. Download und Online-Mietspiegel
+Der Mietspiegel ist ausschließlich als PDF-Download-Dokument verfügbar. 
+Mietspiegel und Mietspiegelrechner (Online-Mietspiegel) sind auf der Homepage der Stadt Essen unter 
+folgendem Link veröffentlicht:
+www.essen.de/mietspiegel
+=====PAGE 15=====
+15Mietspiegel Essen 2026
+=====PAGE 16=====
+www.essen.de/mietspiegel

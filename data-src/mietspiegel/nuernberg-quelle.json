@@ -1,0 +1,23 @@
+{
+ "city": "Nürnberg",
+ "edition": "Mietenspiegel 2026 (27. fortgeschriebene Ausgabe; Fortschreibung des 2024 neu erstellten Mietenspiegels)",
+ "stichtag": "Stand 01.08.2026 (Erhebung: Wohnungs- und Haushaltserhebung 'Leben in Nürnberg 2025', Befragungszeitraum Oktober bis Dezember 2025)",
+ "gueltig_ab": "2026-08-01 ('27. (fortgeschriebene) Ausgabe, Stand 01.08.2026')",
+ "gueltig_bis": null,
+ "qualifiziert": true,
+ "herausgeber": "Stadt Nürnberg – Stab Wohnen im Geschäftsbereich des Dritten Bürgermeisters; Amt für Stadtforschung und Statistik für Nürnberg und Fürth; gemeinsam mit Haus & Grund Nürnberg e.V., Deutscher Mieterbund Nürnberg und Umgebung e.V., Mieter helfen Mietern – Nürnberger MieterInnengemeinschaft e.V., WBG Nürnberg Gruppe, Vereinigung der Wohnungsunternehmen in Mittelfranken e.V.",
+ "ersteller": "EMA-Institut für empirische Marktanalysen, Regensburg (Datenauswertung, Regression); anerkannt vom Stadtrat und den Interessenvertretungen",
+ "url_seite": "https://www.nuernberg.de/internet/wohnen/mietenspiegel.html",
+ "url_seite_presse": "https://www.nuernberg.de/internet/stadtportal/mietenspiegel_nuernberg.html",
+ "url_pdf": "https://www.nuernberg.de/imperia/md/wohnen/dokumente/mietenspiegel_2026.pdf",
+ "url_pdf_methodenbericht": "https://www.nuernberg.de/imperia/md/wohnen/dokumente/mietspiegel_2026_methodische_und_inhaltliche_erlauterungen_.pdf",
+ "rights_class": "C",
+ "rights_quote": "Das Urheberrecht liegt bei der Stadt Nürnberg. Alle Rechte vorbehalten. Es ist insbesondere nicht gestattet, ohne ausdrückliche Genehmigung der Herausgeberin die Daten des Mietspiegels oder Teile daraus zu vervielfältigen und in elektronischen Systemen zu speichern und anzubieten.",
+ "rights_url": "https://www.nuernberg.de/imperia/md/wohnen/dokumente/mietenspiegel_2026.pdf (S. 1)",
+ "scheme_type": "regression (Tabelle 1 Basis-Nettokaltmiete nach Wohnfläche; Tabelle 2 prozentuale Zu-/Abschläge nach Baujahr und Ausstattung; Spanne +/-23 % um den Mittelwert)",
+ "data": {},
+ "kennzahl_wert": 10.33,
+ "kennzahl_text": "'Der Nürnberger Mietenspiegel 2026 zeigt: Die durchschnittliche Nettokaltmiete liegt bei 10,33 Euro pro Quadratmeter und damit 5,4 Prozent höher als vor zwei Jahren.' / 'durchschnittliche Nettokaltmiete: 10,33 Euro pro Quadratmeter (2024: 9,65 Euro)'",
+ "kennzahl_quelle": "https://www.nuernberg.de/internet/stadtportal/mietenspiegel_nuernberg.html",
+ "notes": "Klasse C: ausdrückliches Verbot der Vervielfältigung und elektronischen Speicherung/Anbietung der Daten -> Zahlen NICHT übernehmen, Schema nicht extrahiert. Allgemeine Fakten (Spanne +/-23 %, Durchschnitt 10,33 €/m²) sind Einzelangaben. Laut Stadtseite: '2028 wird der Mietenspiegel wieder neu erstellt.' Kein Enddatum angegeben (nächste Ausgabe voraussichtlich 01.08.2028)."
+}

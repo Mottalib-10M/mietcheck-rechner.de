@@ -1,0 +1,22 @@
+{
+ "city": "München",
+ "edition": "Mietspiegel für München 2025",
+ "stichtag": "Mieten neu vereinbart/geändert Feb. 2018 – Jan. 2024 (Erhebungszeitraum laut Stadt; kein einzelner Stichtag angegeben)",
+ "gueltig_ab": "2025-03-20 (Veröffentlichung, Sozialausschuss); qualifiziert anerkannt durch Vollversammlung 2025-03-26",
+ "gueltig_bis": null,
+ "qualifiziert": true,
+ "herausgeber": "Landeshauptstadt München, Direktorium – Statistisches Amt, und Sozialreferat",
+ "ersteller": "Kantar GmbH, München (Datenerhebung); Lehrstuhl für Statistik (Prof. Dr. Göran Kauermann), LMU München (Regressionsanalyse)",
+ "url_seite": "https://stadt.muenchen.de/infos/mietspiegel.html",
+ "url_pdf": "https://2025.mietspiegel-muenchen.de/broschueren/Mietspiegel_2025_Broschuere.pdf",
+ "url_online_rechner": "https://2025.mietspiegel-muenchen.de/",
+ "rights_class": "C",
+ "rights_quote": "Urheberrecht: Vervielfältigungen jeder Art, sowie Verkauf und alle sonstigen Rechte am Mietspiegel, der Dokumentation zum Mietspiegel und der Veröffentlichung im Internet bleiben der Landeshauptstadt München vorbehalten.",
+ "rights_url": "https://2025.mietspiegel-muenchen.de/impressum.html (identischer Text im Impressum der Broschüre, PDF S. 2)",
+ "scheme_type": "regression (Tabelle 1 nicht umgelegte Betriebskosten, Tabelle 2 Grundpreis nach Wohnfläche x Baujahr, Tabelle 3 Zu-/Abschläge Lage/Ausstattung/Art, Tabelle 4 Spannen, Tabelle 5 begründete Abweichungen)",
+ "data": {},
+ "notes": "Klasse C: ausdrücklicher Rechtevorbehalt inkl. Vervielfältigung und Verkauf -> Zahlen NICHT übernehmen; Schema bewusst nicht extrahiert. Für einen Rechner: auf den offiziellen Online-Rechner https://2025.mietspiegel-muenchen.de/berechnung.html verlinken. Durchschnitt 15,38 €/m² (Stadtseite) ist eine Einzelangabe/Tatsache. Nächster neu erstellter Mietspiegel: 2027 (Erhebung ab Januar).",
+ "kennzahl_wert": 15.38,
+ "kennzahl_text": "'Der Mietspiegel für München 2025 weist eine durchschnittliche Nettokaltmiete pro Quadratmeter von 15,38 Euro auf. Das bedeutet ein Plus um 5,5 Prozent gegenüber dem letzten neu erstellten Mietspiegel für München 2023, der eine durchschnittliche Nettokaltmiete pro Quadratmeter von 14,58 Euro aufweist'",
+ "kennzahl_quelle": "https://stadt.muenchen.de/infos/mietspiegel.html"
+}

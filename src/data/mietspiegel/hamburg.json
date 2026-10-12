@@ -1,0 +1,1083 @@
+{
+ "stadt": "Hamburg",
+ "ausgabe": "Hamburger Mietenspiegel 2025",
+ "stichtag": "2025-04-01",
+ "gueltig_ab": "2025-12-09",
+ "qualifiziert": true,
+ "herausgeber": "Freie und Hansestadt Hamburg, Behörde für Stadtentwicklung und Wohnen (Amt für Wohnen, Stadterneuerung und Bodenordnung)",
+ "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0",
+ "url_seite": "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-stadtentwicklung-und-wohnen/themen/wohnen/mieten/mietenspiegel",
+ "url_pdf": "https://dokumente.hamburg.de/resource/blob/1125230/3093f3df24f683693c3b5eaac67bedd0/d-mietenspiegel-tabelle-2025-data.pdf",
+ "url_open_data": "https://api.hamburg.de/datasets/v1/mietenspiegel/collections/mietenspiegel_daten/items?f=json&limit=100",
+ "wohnlagen_url": "https://dokumente.hamburg.de/resource/blob/1125236/f99598f302b1a531aa69e7c0ab2b0d92/d-wohnlagenverzeichnis-2025-data.pdf",
+ "baualter": {
+  "C": "bis 31.12.1918",
+  "F": "1.1.1919 bis 20.6.1948",
+  "H": "21.6.1948 bis 1960",
+  "I": "1961 bis 1967",
+  "K": "1968 bis 1977",
+  "L": "1978 bis 1993",
+  "M": "1994 bis 2010",
+  "N": "2011 bis 2015",
+  "O": "2016 bis 2020",
+  "P": "2021 bis 2024"
+ },
+ "felder": [
+  {
+   "feld": "C1",
+   "lage": "normal",
+   "baualter": "C",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 10.81,
+   "mittel": 13.77,
+   "oben": 17.17
+  },
+  {
+   "feld": "F1",
+   "lage": "normal",
+   "baualter": "F",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 9.57,
+   "mittel": 10.49,
+   "oben": 12.88
+  },
+  {
+   "feld": "H1",
+   "lage": "normal",
+   "baualter": "H",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 8.52,
+   "mittel": 9.46,
+   "oben": 12.42
+  },
+  {
+   "feld": "I1",
+   "lage": "normal",
+   "baualter": "I",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 8.01,
+   "mittel": 9.01,
+   "oben": 14.05
+  },
+  {
+   "feld": "K1",
+   "lage": "normal",
+   "baualter": "K",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 8.28,
+   "mittel": 10.26,
+   "oben": 14.16
+  },
+  {
+   "feld": "L1",
+   "lage": "normal",
+   "baualter": "L",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 8.57,
+   "mittel": 11.55,
+   "oben": 14.93
+  },
+  {
+   "feld": "M1",
+   "lage": "normal",
+   "baualter": "M",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 10.17,
+   "mittel": 12.23,
+   "oben": 16.37
+  },
+  {
+   "feld": "N1",
+   "lage": "normal",
+   "baualter": "N",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 16.19,
+   "mittel": 18.5,
+   "oben": 19.66
+  },
+  {
+   "feld": "O1",
+   "lage": "normal",
+   "baualter": "O",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 13.72,
+   "mittel": 16.64,
+   "oben": 18.86
+  },
+  {
+   "feld": "P1",
+   "lage": "normal",
+   "baualter": "P",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 13.05,
+   "mittel": 19.78,
+   "oben": 25.01
+  },
+  {
+   "feld": "C2",
+   "lage": "normal",
+   "baualter": "C",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 9.65,
+   "mittel": 11.5,
+   "oben": 15.0
+  },
+  {
+   "feld": "F2",
+   "lage": "normal",
+   "baualter": "F",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 7.95,
+   "mittel": 9.34,
+   "oben": 12.41
+  },
+  {
+   "feld": "H2",
+   "lage": "normal",
+   "baualter": "H",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 7.7,
+   "mittel": 8.59,
+   "oben": 11.31
+  },
+  {
+   "feld": "I2",
+   "lage": "normal",
+   "baualter": "I",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 7.25,
+   "mittel": 7.56,
+   "oben": 10.82
+  },
+  {
+   "feld": "K2",
+   "lage": "normal",
+   "baualter": "K",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 7.33,
+   "mittel": 9.73,
+   "oben": 13.66
+  },
+  {
+   "feld": "L2",
+   "lage": "normal",
+   "baualter": "L",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 7.69,
+   "mittel": 9.33,
+   "oben": 12.91
+  },
+  {
+   "feld": "M2",
+   "lage": "normal",
+   "baualter": "M",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 9.12,
+   "mittel": 11.35,
+   "oben": 13.72
+  },
+  {
+   "feld": "N2",
+   "lage": "normal",
+   "baualter": "N",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 12.18,
+   "mittel": 15.26,
+   "oben": 18.03
+  },
+  {
+   "feld": "O2",
+   "lage": "normal",
+   "baualter": "O",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 12.18,
+   "mittel": 14.77,
+   "oben": 18.83
+  },
+  {
+   "feld": "P2",
+   "lage": "normal",
+   "baualter": "P",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 12.0,
+   "mittel": 17.41,
+   "oben": 21.15
+  },
+  {
+   "feld": "C3",
+   "lage": "normal",
+   "baualter": "C",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 9.16,
+   "mittel": 11.57,
+   "oben": 15.61
+  },
+  {
+   "feld": "F3",
+   "lage": "normal",
+   "baualter": "F",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 7.81,
+   "mittel": 9.29,
+   "oben": 11.94
+  },
+  {
+   "feld": "H3",
+   "lage": "normal",
+   "baualter": "H",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 7.8,
+   "mittel": 8.5,
+   "oben": 11.13
+  },
+  {
+   "feld": "I3",
+   "lage": "normal",
+   "baualter": "I",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 6.44,
+   "mittel": 6.93,
+   "oben": 10.0
+  },
+  {
+   "feld": "K3",
+   "lage": "normal",
+   "baualter": "K",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 6.25,
+   "mittel": 6.76,
+   "oben": 9.48
+  },
+  {
+   "feld": "L3",
+   "lage": "normal",
+   "baualter": "L",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 7.17,
+   "mittel": 8.59,
+   "oben": 12.32
+  },
+  {
+   "feld": "M3",
+   "lage": "normal",
+   "baualter": "M",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 8.93,
+   "mittel": 10.69,
+   "oben": 13.5
+  },
+  {
+   "feld": "N3",
+   "lage": "normal",
+   "baualter": "N",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 11.95,
+   "mittel": 14.86,
+   "oben": 17.32
+  },
+  {
+   "feld": "O3",
+   "lage": "normal",
+   "baualter": "O",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 12.18,
+   "mittel": 15.28,
+   "oben": 18.44
+  },
+  {
+   "feld": "P3",
+   "lage": "normal",
+   "baualter": "P",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 14.26,
+   "mittel": 17.61,
+   "oben": 21.42
+  },
+  {
+   "feld": "C4",
+   "lage": "normal",
+   "baualter": "C",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 9.49,
+   "mittel": 10.89,
+   "oben": 14.72
+  },
+  {
+   "feld": "F4",
+   "lage": "normal",
+   "baualter": "F",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 8.46,
+   "mittel": 11.94,
+   "oben": 13.37
+  },
+  {
+   "feld": "H4",
+   "lage": "normal",
+   "baualter": "H",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 6.87,
+   "mittel": 11.1,
+   "oben": 14.52
+  },
+  {
+   "feld": "I4",
+   "lage": "normal",
+   "baualter": "I",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 6.92,
+   "mittel": 8.0,
+   "oben": 12.49
+  },
+  {
+   "feld": "K4",
+   "lage": "normal",
+   "baualter": "K",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 6.4,
+   "mittel": 7.73,
+   "oben": 11.18
+  },
+  {
+   "feld": "L4",
+   "lage": "normal",
+   "baualter": "L",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 6.57,
+   "mittel": 8.95,
+   "oben": 11.59
+  },
+  {
+   "feld": "M4",
+   "lage": "normal",
+   "baualter": "M",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 9.62,
+   "mittel": 11.92,
+   "oben": 14.51
+  },
+  {
+   "feld": "N4",
+   "lage": "normal",
+   "baualter": "N",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 12.22,
+   "mittel": 15.17,
+   "oben": 18.32
+  },
+  {
+   "feld": "O4",
+   "lage": "normal",
+   "baualter": "O",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 12.76,
+   "mittel": 14.31,
+   "oben": 18.33
+  },
+  {
+   "feld": "P4",
+   "lage": "normal",
+   "baualter": "P",
+   "flaeche": [
+    91,
+    null
+   ],
+   "unten": 13.5,
+   "mittel": 17.18,
+   "oben": 20.93
+  },
+  {
+   "feld": "C5",
+   "lage": "gut",
+   "baualter": "C",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 6.6,
+   "mittel": 13.02,
+   "oben": 15.3
+  },
+  {
+   "feld": "F5",
+   "lage": "gut",
+   "baualter": "F",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 9.44,
+   "mittel": 12.01,
+   "oben": 14.4
+  },
+  {
+   "feld": "H5",
+   "lage": "gut",
+   "baualter": "H",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 9.48,
+   "mittel": 13.5,
+   "oben": 16.06
+  },
+  {
+   "feld": "I5",
+   "lage": "gut",
+   "baualter": "I",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 11.06,
+   "mittel": 12.89,
+   "oben": 15.66
+  },
+  {
+   "feld": "K5",
+   "lage": "gut",
+   "baualter": "K",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 11.48,
+   "mittel": 13.46,
+   "oben": 17.67
+  },
+  {
+   "feld": "L5",
+   "lage": "gut",
+   "baualter": "L",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 9.24,
+   "mittel": 13.74,
+   "oben": 16.1
+  },
+  {
+   "feld": "M5",
+   "lage": "gut",
+   "baualter": "M",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 12.02,
+   "mittel": 14.19,
+   "oben": 17.11
+  },
+  {
+   "feld": "N5",
+   "lage": "gut",
+   "baualter": "N",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 14.05,
+   "mittel": 15.91,
+   "oben": 19.91
+  },
+  {
+   "feld": "O5",
+   "lage": "gut",
+   "baualter": "O",
+   "flaeche": [
+    0,
+    41
+   ],
+   "unten": 16.77,
+   "mittel": 19.37,
+   "oben": 25.04
+  },
+  {
+   "feld": "C6",
+   "lage": "gut",
+   "baualter": "C",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 10.8,
+   "mittel": 12.93,
+   "oben": 16.56
+  },
+  {
+   "feld": "F6",
+   "lage": "gut",
+   "baualter": "F",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 9.3,
+   "mittel": 11.41,
+   "oben": 14.73
+  },
+  {
+   "feld": "H6",
+   "lage": "gut",
+   "baualter": "H",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 8.34,
+   "mittel": 11.04,
+   "oben": 14.83
+  },
+  {
+   "feld": "I6",
+   "lage": "gut",
+   "baualter": "I",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 7.97,
+   "mittel": 10.48,
+   "oben": 14.02
+  },
+  {
+   "feld": "K6",
+   "lage": "gut",
+   "baualter": "K",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 9.05,
+   "mittel": 12.43,
+   "oben": 16.47
+  },
+  {
+   "feld": "L6",
+   "lage": "gut",
+   "baualter": "L",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 9.06,
+   "mittel": 11.95,
+   "oben": 15.45
+  },
+  {
+   "feld": "M6",
+   "lage": "gut",
+   "baualter": "M",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 10.72,
+   "mittel": 13.78,
+   "oben": 15.76
+  },
+  {
+   "feld": "N6",
+   "lage": "gut",
+   "baualter": "N",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 13.2,
+   "mittel": 16.12,
+   "oben": 18.69
+  },
+  {
+   "feld": "O6",
+   "lage": "gut",
+   "baualter": "O",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 13.17,
+   "mittel": 16.08,
+   "oben": 20.3
+  },
+  {
+   "feld": "P6",
+   "lage": "gut",
+   "baualter": "P",
+   "flaeche": [
+    41,
+    66
+   ],
+   "unten": 15.65,
+   "mittel": 20.24,
+   "oben": 31.65
+  },
+  {
+   "feld": "C7",
+   "lage": "gut",
+   "baualter": "C",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 10.97,
+   "mittel": 13.62,
+   "oben": 17.04
+  },
+  {
+   "feld": "F7",
+   "lage": "gut",
+   "baualter": "F",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 8.53,
+   "mittel": 11.74,
+   "oben": 16.0
+  },
+  {
+   "feld": "H7",
+   "lage": "gut",
+   "baualter": "H",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 8.44,
+   "mittel": 11.42,
+   "oben": 14.96
+  },
+  {
+   "feld": "I7",
+   "lage": "gut",
+   "baualter": "I",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 7.4,
+   "mittel": 9.48,
+   "oben": 13.5
+  },
+  {
+   "feld": "K7",
+   "lage": "gut",
+   "baualter": "K",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 7.83,
+   "mittel": 11.39,
+   "oben": 15.28
+  },
+  {
+   "feld": "L7",
+   "lage": "gut",
+   "baualter": "L",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 8.62,
+   "mittel": 12.04,
+   "oben": 15.92
+  },
+  {
+   "feld": "M7",
+   "lage": "gut",
+   "baualter": "M",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 10.03,
+   "mittel": 13.18,
+   "oben": 16.29
+  },
+  {
+   "feld": "N7",
+   "lage": "gut",
+   "baualter": "N",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 13.63,
+   "mittel": 16.07,
+   "oben": 18.44
+  },
+  {
+   "feld": "O7",
+   "lage": "gut",
+   "baualter": "O",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 13.89,
+   "mittel": 16.43,
+   "oben": 20.25
+  },
+  {
+   "feld": "P7",
+   "lage": "gut",
+   "baualter": "P",
+   "flaeche": [
+    66,
+    91
+   ],
+   "unten": 13.96,
+   "mittel": 18.38,
+   "oben": 24.7
+  },
+  {
+   "feld": "C8",
+   "lage": "gut",
+   "baualter": "C",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 10.47,
+   "mittel": 12.54,
+   "oben": 16.95
+  },
+  {
+   "feld": "F8",
+   "lage": "gut",
+   "baualter": "F",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 8.59,
+   "mittel": 11.5,
+   "oben": 14.8
+  },
+  {
+   "feld": "H8",
+   "lage": "gut",
+   "baualter": "H",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 9.34,
+   "mittel": 13.36,
+   "oben": 15.8
+  },
+  {
+   "feld": "I8",
+   "lage": "gut",
+   "baualter": "I",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 9.62,
+   "mittel": 11.73,
+   "oben": 14.35
+  },
+  {
+   "feld": "K8",
+   "lage": "gut",
+   "baualter": "K",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 9.68,
+   "mittel": 12.51,
+   "oben": 15.68
+  },
+  {
+   "feld": "L8",
+   "lage": "gut",
+   "baualter": "L",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 9.94,
+   "mittel": 12.39,
+   "oben": 14.84
+  },
+  {
+   "feld": "M8",
+   "lage": "gut",
+   "baualter": "M",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 11.59,
+   "mittel": 14.63,
+   "oben": 19.0
+  },
+  {
+   "feld": "N8",
+   "lage": "gut",
+   "baualter": "N",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 12.74,
+   "mittel": 15.58,
+   "oben": 19.09
+  },
+  {
+   "feld": "O8",
+   "lage": "gut",
+   "baualter": "O",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 14.67,
+   "mittel": 16.55,
+   "oben": 20.0
+  },
+  {
+   "feld": "P8",
+   "lage": "gut",
+   "baualter": "P",
+   "flaeche": [
+    91,
+    131
+   ],
+   "unten": 15.66,
+   "mittel": 19.6,
+   "oben": 23.25
+  },
+  {
+   "feld": "C9",
+   "lage": "gut",
+   "baualter": "C",
+   "flaeche": [
+    131,
+    null
+   ],
+   "unten": 10.8,
+   "mittel": 12.92,
+   "oben": 16.25
+  },
+  {
+   "feld": "F9",
+   "lage": "gut",
+   "baualter": "F",
+   "flaeche": [
+    131,
+    null
+   ],
+   "unten": 11.52,
+   "mittel": 14.23,
+   "oben": 16.82
+  },
+  {
+   "feld": "H9",
+   "lage": "gut",
+   "baualter": "H",
+   "flaeche": [
+    131,
+    null
+   ],
+   "unten": 12.24,
+   "mittel": 13.02,
+   "oben": 17.49
+  },
+  {
+   "feld": "K9",
+   "lage": "gut",
+   "baualter": "K",
+   "flaeche": [
+    131,
+    null
+   ],
+   "unten": 11.55,
+   "mittel": 13.04,
+   "oben": 16.24
+  },
+  {
+   "feld": "L9",
+   "lage": "gut",
+   "baualter": "L",
+   "flaeche": [
+    131,
+    null
+   ],
+   "unten": 11.04,
+   "mittel": 14.31,
+   "oben": 17.84
+  },
+  {
+   "feld": "M9",
+   "lage": "gut",
+   "baualter": "M",
+   "flaeche": [
+    131,
+    null
+   ],
+   "unten": 12.06,
+   "mittel": 16.0,
+   "oben": 19.31
+  },
+  {
+   "feld": "N9",
+   "lage": "gut",
+   "baualter": "N",
+   "flaeche": [
+    131,
+    null
+   ],
+   "unten": 15.12,
+   "mittel": 18.19,
+   "oben": 21.45
+  },
+  {
+   "feld": "O9",
+   "lage": "gut",
+   "baualter": "O",
+   "flaeche": [
+    131,
+    null
+   ],
+   "unten": 15.96,
+   "mittel": 19.14,
+   "oben": 24.59
+  },
+  {
+   "feld": "P9",
+   "lage": "gut",
+   "baualter": "P",
+   "flaeche": [
+    131,
+    null
+   ],
+   "unten": 17.43,
+   "mittel": 22.34,
+   "oben": 25.46
+  }
+ ]
+}

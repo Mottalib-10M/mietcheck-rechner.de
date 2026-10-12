@@ -1,0 +1,7 @@
+== dl/sn_mpb.html (SächsMPBVO § 1)
+				Die Landeshauptstadt Dresden und die Kreisfreie Stadt Leipzig sind Gebiete mit angespannten Wohnungsmärkten im Sinne des § 556d Absatz 2 Satz 2 des Bürgerlichen Gesetzbuches, in denen die ausreichende Versorgung der Bevölkerung mit Mietwohnungen zu angemessenen Bedingungen besonders gefährdet ist.
+				Diese Verordnung tritt mit Ablauf des 30. Juni 2027 außer Kraft.
+				Diese Verordnung tritt am 1. Januar 2026 in Kraft.
+== dl/sn_kapp.html (SächsKappGrVO § 1)
+				Die Landeshauptstadt Dresden und die Kreisfreie Stadt Leipzig sind Gemeinden im Sinne von § 558 Absatz 3 Satz 2 des Bürgerlichen Gesetzbuches, in denen die ausreichende Versorgung der Bevölkerung mit Mietwohnungen zu angemessenen Bedingungen besonders gefährdet ist.
+				Diese Verordnung tritt am 1. Juli 2025 in Kraft und mit Ablauf des 30. Juni 2027 außer Kraft.

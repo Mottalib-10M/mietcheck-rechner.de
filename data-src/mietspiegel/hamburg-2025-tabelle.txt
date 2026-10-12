@@ -1,0 +1,972 @@
+SOURCE: https://dokumente.hamburg.de/resource/blob/1125230/3093f3df24f683693c3b5eaac67bedd0/d-mietenspiegel-tabelle-2025-data.pdf (layout extraction)
+
+=====PAGE 1=====
+Mietenspiegel 2025
+der Freien und Hansestadt Hamburg in EURO
+
+
+Behörde für Stadtentwicklung und Wohnen - Amt für Wohnen, Stadterneuerung und Bodenordnung -                                                                                                                       Jede Verwendung dieser Tabelle mit abweichenden Werten ist unzulässig.
+(Erhebungsstichtag 01.04.2025)                                                                                                                                                                                         Diese Tabelle lässt sich nur richtig anwenden, wenn die Erläuterungen
+                                                                                                                                                                                                                 in der Broschüre  „Hamburger Mietenspiegel 2025‟ genau beachtet werden.
+                                                                                       Nettokaltmiete ohne Heizung und ohne Betriebskosten (in EURO/m²)
+        Baualtersklasse/Bezugsfertigkeit                      bis 31.12.1918           1.1.1919 bis          21.6.1948 bis         1961 bis 1967          1968 bis 1977         1978 bis 1993          1994 bis 2010          2011 bis 2015          2016 bis 2020         2021 bis 2024
+                                                                                         20.6.1948                 1960
+                                                                  mit Bad und            mit Bad und            mit Bad und           mit Bad und            mit Bad und           mit Bad und            mit Bad und            mit Bad und            mit Bad und            mit Bad und
+                      Ausstattung                               Sammelheizung          Sammelheizung         Sammelheizung          Sammelheizung          Sammelheizung         Sammelheizung          Sammelheizung          Sammelheizung          Sammelheizung         Sammelheizung
+  Wohnlage            Wohnfläche                                        C                     F                      H                      I                     K                      L                     M                      N                      O                      P
+                                                  Mittelwert         13,77                  10,49                  9,46                   9,01                  10,26                 11,55                  12,23                  18,50                  16,64                  19,78
+                    bis unter 41 m²         1      Spanne         10,81-17,17            9,57-12,88             8,52-12,42            8,01-14,05             8,28-14,16            8,57-14,93            10,17-16,37            16,19-19,66            13,72-18,86            13,05-25,01
+                                                   Anzahl
+                    41 m² bis unter               Mittelwert         11,50                   9,34                  8,59                   7,56                   9,73                  9,33                  11,35                  15,26                  14,77                  17,41
+                          66 m²             2      Spanne          9,65-15,00            7,95-12,41             7,70-11,31            7,25-10,82             7,33-13,66            7,69-12,91             9,12-13,72            12,18-18,03            12,18-18,83            12,00-21,15
+                                                   Anzahl
+                    66 m² bis unter               Mittelwert         11,57                   9,29                  8,50                   6,93                   6,76                  8,59                  10,69                  14,86                  15,28                  17,61
+                          91 m²             3      Spanne          9,16-15,61            7,81-11,94             7,80-11,13            6,44-10,00              6,25-9,48            7,17-12,32             8,93-13,50            11,95-17,32            12,18-18,44            14,26-21,42
+                                                   Anzahl
+                                                  Mittelwert         10,89                  11,94                  11,10                  8,00                   7,73                  8,95                  11,92                  15,17                  14,31                  17,18
+                        ab 91 m²            4      Spanne          9,49-14,72            8,46-13,37             6,87-14,52            6,92-12,49             6,40-11,18            6,57-11,59             9,62-14,51            12,22-18,32            12,76-18,33            13,50-20,93
+                                                   Anzahl
+                                                  Mittelwert         13,02                  12,01                  13,50                 12,89                  13,46                 13,74                  14,19                  15,91                  19,37
+                    bis unter 41 m²         5      Spanne          6,60-15,30            9,44-14,40             9,48-16,06            11,06-15,66           11,48-17,67            9,24-16,10            12,02-17,11            14,05-19,91            16,77-25,04
+                                                   Anzahl                                                                                                                                                     17*                    27*
+                    41 m² bis unter               Mittelwert         12,93                  11,41                  11,04                 10,48                  12,43                 11,95                  13,78                  16,12                  16,08                  20,24
+                          66 m²             6      Spanne         10,80-16,56            9,30-14,73             8,34-14,83            7,97-14,02             9,05-16,47            9,06-15,45            10,72-15,76            13,20-18,69            13,17-20,30            15,65-31,65
+                                                   Anzahl
+                    66 m² bis unter               Mittelwert         13,62                  11,74                  11,42                  9,48                  11,39                 12,04                  13,18                  16,07                  16,43                  18,38
+                          91 m²             7      Spanne         10,97-17,04            8,53-16,00             8,44-14,96            7,40-13,50             7,83-15,28            8,62-15,92            10,03-16,29            13,63-18,44            13,89-20,25            13,96-24,70
+                                                   Anzahl
+                    91 m² bis unter               Mittelwert         12,54                  11,50                  13,36                 11,73                  12,51                 12,39                  14,63                  15,58                  16,55                  19,60
+                         131 m²             8      Spanne         10,47-16,95            8,59-14,80             9,34-15,80            9,62-14,35             9,68-15,68            9,94-14,84            11,59-19,00            12,74-19,09            14,67-20,00            15,66-23,25
+                                                   Anzahl
+                                                  Mittelwert         12,92                  14,23                  13,02                                        13,04                 14,31                  16,00                  18,19                  19,14                  22,34
+                       ab 131 m²            9      Spanne         10,80-16,25           11,52-16,82            12,24-17,49                                  11,55-16,24            11,04-17,84           12,06-19,31            15,12-21,45            15,96-24,59            17,43-25,46
+                                                   Anzahl                                                           17*                                          20*                    25*                                                                                        22*
+Hinweise:
+In dieser Tabelle wird erstmalig der Median als Mittelwert der Tabellenfelder ausgewiesen. Die Mittelwerte der Tabellenfelder sind daher nicht mit den Mittelwerten früherer Mietenspiegel (welche das arithmetische Mittel auswiesen) vergleichbar.
+Bei Leerfeldern können aufgrund einer zu geringen Datenbasis keine statistisch belastbaren Aussagen getroffen werden.
+* Für Felder mit weniger als 30 Datensätzen ist die Aussage eingeschränkt.
+
+SOURCE: Broschuere pages 8-16 (plain extraction)
+=====PAGE 8=====
+6
+5. Ortsübliche Vergleichsmiete
+Ortsüblich ist die Miete, die in Hamburg 
+für unmöblierte Wohnungen vergleich -
+barer Art, Größe, Ausstattung, Be -
+schaffenheit und Lage einschließlich der 
+energetischen Ausstattung und Beschaf-
+fenheit allgemein bezahlt wird . Die in der 
+T abelle angegebenen Mieten stellen die 
+Nettokaltmiete dar, ohne Heizkosten und 
+ohne die übrigen Betriebskosten, die aus 
+Anlage 1 ersichtlich sind  . Sie beruhen 
+auf den zum 1  . April 2025 tatsächlich 
+gezahlten Nettokaltmieten .
+In der T abelle sind der Mittelwert (Medi-
+an) und die Mietspannen angegeben . Als 
+Mittelwert wird in diesem Mietenspiegel 
+erstmalig der Median ausgewiesen  . Da-
+mit sind die Mittelwerte der T abellen -
+felder nicht mit den Mittelwerten früherer 
+Mietenspiegel (welche das arithmetische 
+Mittel auswiesen) vergleichbar .
+Die Mietspannen stellen die höchsten 
+und niedrigsten Werte von zwei Dritteln 
+der Mieten je T abellenfeld als Orientie -
+rungshilfe dar . So wird aufgezeigt, in -
+nerhalb welcher Unter- und Obergrenze 
+der größte T eil aller erhobenen Mietwerte 
+liegt . Die unterschiedlichen Spannweiten 
+in den einzelnen T abellenfeldern ergeben 
+sich insbesondere aus
+	 Wohnwertunterschieden, die in der 
+Feldeinteilung nicht berücksichtigt 
+werden konnten; diese können sich 
+zum Beispiel aus der Ausstattung, 
+dem unterschiedlichen Umfang von 
+Modernisierungen, der Beschaffen-
+heit und der Lage der Wohnung im 
+Gebäude ergeben,
+	 der Einbeziehung von Mieten aus 
+neuen Mietvertragsabschlüssen und 
+gleichzeitig aus älteren Mietverhält-
+nissen,
+	 unterschiedlichen Lagequalitäten, die 
+bei der allgemeinen Wohnlagenein-
+stufung nicht berücksichtigt wurden .
+
+=====PAGE 9=====
+7
+6. Anwendung des Mietenspiegels
+Im Allgemeinen hängt die Höhe der Miete 
+von den Merkmalen Art, Größe, Ausstat-
+tung, Beschaffenheit und Lage ab  . Um 
+die ortsübliche Vergleichsmiete für eine 
+Wohnung zu ermitteln, sollte Folgendes 
+beachtet werden .
+Die Art der Wohnung wird in der Mieten-
+spiegeltabelle nicht ausgewiesen (Hinwei-
+se dazu unter 6 .1) . Das für eine Wohnung 
+in Betracht kommende Mietenspiegel -
+feld der T abelle ist über die vorhandenen 
+Merkmale der Wohnung, nämlich
+	 die Größe,
+	 die Ausstattung mit Bad und 
+ Sammelheizung,
+	die Beschaffenheit (Baualter) und
+	die Wohnlage (normal / gut)
+zu ermitteln . Ergänzend sind die Hinwei-
+se unter 6 .2 bis 6 .5 zu berücksichtigen .
+Dem einschlägigen T abellenfeld können 
+der Mittelwert und die Spanne entnom -
+men werden . Die Einordnung der Woh -
+nung in die Spanne des Feldes erfolgt 
+anhand einer eingehenden Prüfung der 
+nachfolgenden Merkmale (6  .1 bis 6  .5) . 
+Die Miethöhe kann zudem von weiteren 
+Merkmalen abhängig sein, die in dieser 
+Mietenspiegelbroschüre nicht erfasst 
+sind .
+Die Miete einer normalen Wohnung mit 
+Standardausstattung entsprechend ih -
+rem Baualter wird vorwiegend im Bereich 
+des Mittelwerts der Spanne liegen  . Eine 
+schlechter ausgestattete Wohnung wird 
+im unteren, eine besser ausgestattete 
+wie auch eine modernisierte Wohnung im 
+oberen Bereich der Spanne einzuordnen 
+sein .
+Liegen die wesentlichen Ausstattungs -
+merkmale (siehe 6 .3 .1) in einer Wohnung 
+nicht vor, handelt es sich um eine minder-
+ausgestattete Wohnung .
+6.1 Art
+Dieses Vergleichsmerkmal wird vor allem 
+durch die Gebäudeart und die Lage der 
+Wohnung innerhalb des Gebäudes (z  . B . 
+Souterrain-, Dachgeschosswohnungen) 
+bestimmt . Im Mietenspiegel sind nur 
+Mieten von Wohnungen in Mehrfamilien-
+häusern mit drei und mehr Wohnungen 
+berücksichtigt . Hierzu gehören auch ver-
+mietete Eigentumswohnungen in Mehr -
+familienhäusern .
+Wohnhäuser mit geringer Wohnungsan-
+zahl haben in der Regel höhere Mieten, 
+ebenso Wohnungen in oberen Geschos-
+sen von Hochhäusern . Niedrigere Werte 
+können sich z . B . ergeben bei Wohnungen 
+im Dachgeschoss, sofern es sich nicht 
+um neu errichtete Wohnungen handelt, 
+Wohnungen im Souterrain oder oberhalb 
+des sechsten Geschosses, sofern kein 
+Aufzug vorhanden ist .
+6.2 Größe
+Die Miete ist von der Wohnfläche, der 
+Zahl der Zimmer und vom Wohnungstyp 
+abhängig .
+Die Wohnfläche wird in der Regel gemäß 
+Wohnflächenverordnung (WoFlV, sie -
+he Anlage 2) bestimmt, es sei denn der 
+Mietvertrag ist vor dem 1  . Januar 2004 
+abgeschlossen worden, dann ist unter 
+Umständen noch die II . Berechnungsver-
+ordnung zugrunde gelegt worden .
+
+=====PAGE 10=====
+8
+6.3 Ausstattung
+Maßgeblich ist die Ausstattung der Woh-
+nung, wie sie vermieterseitig gestellt 
+wird . Mieterseitig geschaffene Ausstat -
+tungsmerkmale bleiben unberücksichtigt .
+Die T abelle legt folgende Mindestausstat-
+tung zugrunde: Bad und  Sammelheizung .
+Unter einem Bad ist ein Wannen- oder 
+Duschbad in einem besonderen Raum 
+(mit oder ohne WC) in der Wohnung zu 
+verstehen . Ein Bad wird in der Regel dann 
+einen geringeren Mietwert haben, wenn 
+aufgrund der Größe des Bades der Bewe-
+gungsradius erheblich eingeschränkt ist 
+und wenn ein Waschbecken fehlt . 
+Sammelheizungen sind alle Heizungs -
+arten, bei denen die Wärme- und Ener -
+gieversorgung von einer zentralen Stelle 
+aus erfolgt und die sämtliche Wohnräu -
+me sowie Küche und Bad angemessen 
+erwärmen . Baualterstypische Besonder-
+heiten sind zu berücksichtigen .
+Gleichzusetzen sind alle Etagen- und Woh-
+nungsheizungen, die automatisch, also 
+ohne Brennstoffnachfüllung von Hand, 
+arbeiten . Dabei können Nachtstromspei-
+cherheizungen niedriger bewertet werden 
+als andere Zentralheizungsarten .
+Die Wohnfläche umfasst die Summe der 
+Grundflächen der Räume, die  ausschließlich 
+zur Wohnung gehören  . Zur Wohnfläche 
+gehören nicht die Grundflächen von
+	 Zubehörräumen, wie z . B . Kellerräu-
+men, Abstellräumen und Kellerer-
+satzräumen außerhalb der Woh-
+nung, Waschküchen, Bodenräumen, 
+T rockenräumen, Heizungsräumen 
+und Garagen,
+	 Räumen, die nicht den an ihre Nut-
+zung zu stellenden Anforderungen 
+des Bauordnungsrechts der Länder 
+genügen,
+	 Geschäftsräumen .
+Die Grundfläche von Räumen und Raum-
+teilen lässt sich wie folgt ermitteln:
+	 Voll angerechnet werden Grund-
+flächen mit einer lichten Höhe von 
+mindestens zwei Metern .
+	 Nicht angerechnet werden Grund-
+flächen mit einer lichten Höhe von 
+weniger als einem Meter .
+	 Zur Hälfte angerechnet werden 
+Grundflächen mit einer lichten 
+Höhe von mindestens einem Meter 
+und weniger als zwei Metern und 
+von unbeheizbaren Wintergärten, 
+Schwimmbädern und ähnlichen nach 
+allen Seiten geschlossenen Räumen .
+	 Gehören zum Wohnraum Balkone, 
+Loggien, Dachgärten oder T erras-
+sen, so sind deren Grundflächen zur 
+Ermittlung der Wohnfläche in der 
+Regel zu einem Viertel, höchstens 
+jedoch zur Hälfte anzurechnen .
+
+=====PAGE 11=====
+9
+6.3.2  Merkmale besserer Ausstattung sind 
+zum Beispiel:
+1 .  Großzügige Badausstattung, z . B . 
+zusätzliches Duschbad, zweiter 
+Waschplatz, Bidet, aufwändige  
+Fliesen; 
+2  zweites WC (Gäste-WC),
+  Ausnahmen: Wohnungen ab 91 m² 
+in den Spalten M bis P, Wohnungen 
+ab 91 m² in den Spalten K und L in 
+guter Wohnlage sowie in  
+Wohnungen ab 131 m² in guter 
+Wohnlage insgesamt  
+(da Normalausstattung);
+3 . Bad mit Fenster, 
+  Ausnahmen: Wohnungen der 
+Spalten C und F sowie Wohnungen 
+ab 131 m² in guter Wohnlage (da 
+Normalausstattung);
+4 .  zusätzliche Ausstattung der Küche, 
+z . B . Geschirrspüler, Kühlschrank, 
+Tiefkühlschrank, 
+  Ausnahmen: Wohnungen der Spalten 
+N bis P, der Spalte M in guter Wohn-
+lage sowie Wohnungen ab 91 m² 
+der Spalte L in guter Wohnlage (da 
+Normalausstattung);
+5 .  Aufzug bei Wohnungen in bis zu 
+fünfgeschossigen Häusern, 
+  Ausnahmen: Wohnungen der Spal-
+ten N bis P (da Normalausstattung); 
+6 .  Fahrradkeller / überdachter Fahrrad-
+stellplatz, 
+  Ausnahmen: Wohnungen der Spal-
+ten M bis P, Wohnungen ab 66 m² in 
+der Spalte L in guter Wohnlage  
+(da Normalausstattung) .
+6.3.1  Wesentliche Merkmale einer normal 
+ausgestatteten Wohnung sind (neben 
+den in der Mietenspiegeltabelle ge -
+nannten Ausstattungen):
+1 .  Wohnungen der Spalten C bis I: 
+Küche mit einer Mindestausstat-
+tung (Spüle, Herd) und zusätzlichen 
+Stellflächen; bei Wohnungen unter 
+ca . 50 m² sind auch Kochnischen 
+ausreichend; 
+Wohnungen der Spalten K bis P: 
+Einbauküchen
+2 .  Warmwasserversorgung in Bad und 
+Küche;
+3 .  Wohnungskaltwasserzähler – es sei 
+denn, es liegt eine Ausnahmegeneh-
+migung vor;
+4 .  Fußboden aus Dielen, Steinholz 
+oder mit Linoleum, Kunststoff oder 
+gleichwertigem Belag, in Küche, 
+Bad und WC auch aus keramischen 
+Platten oder Steinzeug;
+5 .  Abstellflächen innerhalb und / oder 
+außerhalb der Wohnung;
+6 .  Aufzug in Gebäuden ab dem sechs-
+ten Geschoss;
+7 .  überwiegend Isolierverglasung oder 
+Doppelfenster;
+8 . Kabel- / Satellitenanschluss;
+9 . Gegensprechanlage mit Türöffner;
+10 . Balkon, Loggia oder T errasse .
+Je nach Baualtersklasse können auch Ar-
+beitsfläche und Schrankraum in der Kü -
+che sowie Wandfliesen in Küche, Bad und 
+WC zur Normalausstattung gehören .
+
+=====PAGE 12=====
+10
+6.4 Beschaffenheit
+Dieses Vergleichsmerkmal bezieht sich auf 
+Bauweise, Zuschnitt und baulichen Zu -
+stand (Gesamtbeschaffenheit und Instand-
+haltungsgrad des Gebäudes und / oder der 
+Wohnung) sowie auf das Jahr der Bezugs-
+fertigkeit .
+6.4.1 Baualter
+Das Baualter einer Wohnung soll nicht 
+schematisch berücksichtigt werden  . 
+Im Grenzbereich zwischen zwei Baual -
+tersklassen kann es gerechtfertigt sein, 
+die Wohnung höher oder niedriger einzu-
+gruppieren . 
+Wohnungen, die durch Um- oder Ausbau 
+mit wesentlichem Bauaufwand entspre -
+chend § 4 Abs . 2 Hamburgisches Wohn-
+raumförderungsgesetz in bestehenden 
+Gebäuden neu geschaffen wurden, sind 
+in der Regel der Baualtersklasse des Jah-
+res der Bezugsfertigkeit der Wohnung 
+zuzuordnen . Hierzu zählen z  . B . Wie -
+deraufbauten sowie Dachgeschossauf- 
+und -ausbauten . Eine vom Baualter des 
+Gebäudes abweichende Einordnung in 
+die Baualtersklasse kann im Einzelfall in 
+Anlehnung an § 4 Abs . 2 Hamburgisches 
+Wohnraumförderungsgesetz auch dann 
+gerechtfertigt sein, wenn der durch eine 
+mit wesentlichem Bauaufwand durch -
+geführte Modernisierung geschaffene 
+Wohnwert diese Abweichung rechtfer -
+tigt . Hierbei dürfte in aller Regel eine 
+nicht unwesentliche Veränderung des 
+Grundrisses erforderlich sein  . Kosten, 
+die als Folgen von Instandsetzungsmaß-
+nahmen entstehen, bleiben dabei außer 
+Betracht .
+Tabelle zur Einordnung der energetischen Beschaffenheit
+Energiekennwerte für Verbrauchs­
+ausweise (in kWh/m2 und Jahr)
+Energiekennwerte für Bedarfs­
+ausweise (in kWh/m2 und Jahr)
+Baualtersklassen
+Kleinere Wirt­
+schaftseinheiten 
+mit bis zu neun 
+Wohnungen
+Größere Wirt­
+schaftseinheiten 
+mit zehn Wohnun­
+gen und mehr
+Kleinere Wirt­
+schaftseinheiten 
+mit bis zu neun 
+Wohnungen
+Größere Wirt­
+schaftseinheiten 
+mit zehn Wohnun­
+gen und mehr
+Mittelwert und 
+2/3­ Spanne
+Mittelwert und 
+2/3­ Spanne
+Mittelwert und 
+2/3­ Spanne
+Mittelwert und 
+2/3­ Spanne
+bis 31 . 12 . 1918 154,3 
+(118,0 – 195,3)
+142,0 
+(101,1 – 167,9)
+168,5 
+(138,9 – 226,7)
+156,7 
+(108,6 – 200,0)
+1 . 1 . 1919 bis 
+20 . 6 . 1948
+136,8 
+(113,0 – 198,1)
+139,0 
+(105,0 – 170,5)
+160,1 
+(120,4 – 250,8)
+160,6 
+(110,0 – 248,2)
+21 . 6 . 1948 bis 
+31 . 12 . 1960
+139,3 
+(111,3 – 170,0)
+138,8 
+(111,8 – 172,6)
+127,9 
+(105,3 – 194,9)
+137,6 
+(65,0 – 163,0)
+1961 bis 1967 138,3 
+(115,4 – 158,2)
+133,5 
+(109,7 – 172,0)
+137,8 
+(90,4 – 166,1)
+124,0 
+(80,4 – 180,4)
+1968 bis 1977 137,5 
+(109,4 – 178,21)
+134,3 
+(98,9 – 163,3)
+124,1 
+(77,7 – 156,9)
+112,5 
+(62,2 – 149,0)
+1978 bis 1993 130,0 
+(124,0 – 201,3)
+126,0 
+(102,3 – 161,0)
+106,6* 
+(77,0 – 141,3)
+102,3 
+(83,1 – 187,6)
+1994 bis 2010 114,0 
+(85,8 – 134,0)
+93,3 
+(71,0 – 118,0)
+107,0 
+(89,9 – 113,8)
+74,0 
+(26,5 – 121,2)
+2011 bis 2015 82,8* 
+(58,4 – 116,9)
+67,0 
+(49,2 – 89,0)
+45,5 
+(36,1 – 77,2)
+69,9 
+(46,0 – 95,4)
+2016 bis 2020 41,8* 
+(36,2 – 100,1)
+86,4 
+(46,1 – 113,5)
+47,1 
+(35,2 – 113,3)
+55,5 
+(29,5 – 62,7)
+2021 bis 2024 39,7 
+(22,2 – 43,6)
+44,4 
+(24,3 – 66,6)
+* Eingeschränkte Aussagekraft, da weniger als 30 Fälle
+
+=====PAGE 13=====
+11
+6.4 Beschaffenheit
+Dieses Vergleichsmerkmal bezieht sich auf 
+Bauweise, Zuschnitt und baulichen Zu -
+stand (Gesamtbeschaffenheit und Instand-
+haltungsgrad des Gebäudes und / oder der 
+Wohnung) sowie auf das Jahr der Bezugs-
+fertigkeit .
+6.4.1 Baualter
+Das Baualter einer Wohnung soll nicht 
+schematisch berücksichtigt werden  . 
+Im Grenzbereich zwischen zwei Baual -
+tersklassen kann es gerechtfertigt sein, 
+die Wohnung höher oder niedriger einzu-
+gruppieren . 
+Wohnungen, die durch Um- oder Ausbau 
+mit wesentlichem Bauaufwand entspre -
+chend § 4 Abs . 2 Hamburgisches Wohn-
+raumförderungsgesetz in bestehenden 
+Gebäuden neu geschaffen wurden, sind 
+in der Regel der Baualtersklasse des Jah-
+res der Bezugsfertigkeit der Wohnung 
+zuzuordnen . Hierzu zählen z  . B . Wie -
+deraufbauten sowie Dachgeschossauf- 
+und -ausbauten . Eine vom Baualter des 
+Gebäudes abweichende Einordnung in 
+die Baualtersklasse kann im Einzelfall in 
+Anlehnung an § 4 Abs . 2 Hamburgisches 
+Wohnraumförderungsgesetz auch dann 
+gerechtfertigt sein, wenn der durch eine 
+mit wesentlichem Bauaufwand durch -
+geführte Modernisierung geschaffene 
+Wohnwert diese Abweichung rechtfer -
+tigt . Hierbei dürfte in aller Regel eine 
+nicht unwesentliche Veränderung des 
+Grundrisses erforderlich sein  . Kosten, 
+die als Folgen von Instandsetzungsmaß-
+nahmen entstehen, bleiben dabei außer 
+Betracht .
+6.4.2 Energetische Beschaffenheit
+Für die Beurteilung des energetischen 
+Zustands des Gebäudes kann der übliche 
+Energieverbrauch oder Energiebedarf he-
+rangezogen werden . Ein Gebäude kann 
+mit Hilfe eines Energieverbrauchsaus -
+weises oder eines Energiebedarfsauswei-
+ses nach der Energieeinsparverordnung 
+(EnEV) bzw . dem Gebäudeenergiegesetz 
+(GEG) in die T abelle auf S . 10 eingeordnet 
+werden .
+Der übliche (End-)Energieverbrauch und 
+der übliche (End-)Energiebedarf werden 
+jeweils differenziert nach Gebäudegröße 
+und -alter dargestellt . Es werden zwei Grö-
+ßenklassen gebildet: kleinere Wirtschafts-
+einheiten mit bis zu neun Wohnungen und 
+größere Wirtschaftseinheiten ab zehn 
+Wohnungen, um die unterschiedliche en-
+ergetische Beschaffenheit kleinerer und 
+größerer Wohngebäude zu berücksichti-
+gen . Die Baualtersklassen entsprechen 
+jenen aus der Mietenspiegeltabelle  . Die 
+Werte der T abelle beziehen sich auf Kenn-
+werte mit Warmwasserbereitung  . Für 
+Kennwerte ohne Warmwasserbereitung 
+sind dem Kennwert zunächst 20 kWh/m² 
+und Jahr hinzuzuzählen, um den Wert mit 
+der T abelle vergleichen zu können .
+Wohnungen in Gebäuden, die nach Ein -
+ordnung gemäß Größen- und Baual -
+tersklassen in der T abelle einen Ener -
+giekennwert  unterhalb der 2  / 3-Spanne 
+aufweisen, werden im Rahmen der Span-
+neneinordnung als energetisch beson -
+ders vorteilhaft angesehen  . Entspre -
+chend werden Wohnungen in Gebäuden, 
+deren Energiekennwerte oberhalb der 
+2  / 3-Spanne liegen, als energetisch be -
+sonders nachteilig eingestuft .
+Tabelle zur Einordnung der energetischen Beschaffenheit
+Energiekennwerte für Verbrauchs­
+ausweise (in kWh/m2 und Jahr)
+Energiekennwerte für Bedarfs­
+ausweise (in kWh/m2 und Jahr)
+Baualtersklassen
+Kleinere Wirt­
+schaftseinheiten 
+mit bis zu neun 
+Wohnungen
+Größere Wirt­
+schaftseinheiten 
+mit zehn Wohnun­
+gen und mehr
+Kleinere Wirt­
+schaftseinheiten 
+mit bis zu neun 
+Wohnungen
+Größere Wirt­
+schaftseinheiten 
+mit zehn Wohnun­
+gen und mehr
+Mittelwert und 
+2/3­ Spanne
+Mittelwert und 
+2/3­ Spanne
+Mittelwert und 
+2/3­ Spanne
+Mittelwert und 
+2/3­ Spanne
+bis 31 . 12 . 1918 154,3 
+(118,0 – 195,3)
+142,0 
+(101,1 – 167,9)
+168,5 
+(138,9 – 226,7)
+156,7 
+(108,6 – 200,0)
+1 . 1 . 1919 bis 
+20 . 6 . 1948
+136,8 
+(113,0 – 198,1)
+139,0 
+(105,0 – 170,5)
+160,1 
+(120,4 – 250,8)
+160,6 
+(110,0 – 248,2)
+21 . 6 . 1948 bis 
+31 . 12 . 1960
+139,3 
+(111,3 – 170,0)
+138,8 
+(111,8 – 172,6)
+127,9 
+(105,3 – 194,9)
+137,6 
+(65,0 – 163,0)
+1961 bis 1967 138,3 
+(115,4 – 158,2)
+133,5 
+(109,7 – 172,0)
+137,8 
+(90,4 – 166,1)
+124,0 
+(80,4 – 180,4)
+1968 bis 1977 137,5 
+(109,4 – 178,21)
+134,3 
+(98,9 – 163,3)
+124,1 
+(77,7 – 156,9)
+112,5 
+(62,2 – 149,0)
+1978 bis 1993 130,0 
+(124,0 – 201,3)
+126,0 
+(102,3 – 161,0)
+106,6* 
+(77,0 – 141,3)
+102,3 
+(83,1 – 187,6)
+1994 bis 2010 114,0 
+(85,8 – 134,0)
+93,3 
+(71,0 – 118,0)
+107,0 
+(89,9 – 113,8)
+74,0 
+(26,5 – 121,2)
+2011 bis 2015 82,8* 
+(58,4 – 116,9)
+67,0 
+(49,2 – 89,0)
+45,5 
+(36,1 – 77,2)
+69,9 
+(46,0 – 95,4)
+2016 bis 2020 41,8* 
+(36,2 – 100,1)
+86,4 
+(46,1 – 113,5)
+47,1 
+(35,2 – 113,3)
+55,5 
+(29,5 – 62,7)
+2021 bis 2024 39,7 
+(22,2 – 43,6)
+44,4 
+(24,3 – 66,6)
+* Eingeschränkte Aussagekraft, da weniger als 30 Fälle
+
+=====PAGE 14=====
+12
+Mietenspiegel 2025
+der Freien und Hansestadt Hamburg in EURO
+bis 31.12.1918 1.1.1919 bis 
+20.6.1948
+21.6.1948 bis 
+1960
+1961 bis 1967
+Wohnlage Wohnfläche C F H I
+Mittelwert 13,77 10,49 9,46 9,01
+1 Spanne 10,81-17,17 9,57-12,88 8,52-12,42 8,01-14,05
+Anzahl
+Mittelwert 11,50 9,34 8,59 7,56
+2 Spanne 9,65-15,00 7,95-12,41 7,70-11,31 7,25-10,82
+Anzahl
+Mittelwert 11,57 9,29 8,50 6,93
+3 Spanne 9,16-15,61 7,81-11,94 7,80-11,13 6,44-10,00
+Anzahl
+Mittelwert 10,89 11,94 11,10 8,00
+4 Spanne 9,49-14,72 8,46-13,37 6,87-14,52 6,92-12,49
+Anzahl
+Mittelwert 13,02 12,01 13,50 12,89
+5 Spanne 6,60-15,30 9,44-14,40 9,48-16,06 11,06-15,66
+Anzahl
+Mittelwert 12,93 11,41 11,04 10,48
+6 Spanne 10,80-16,56 9,30-14,73 8,34-14,83 7,97-14,02
+Anzahl
+Mittelwert 13,62 11,74 11,42 9,48
+7 Spanne 10,97-17,04 8,53-16,00 8,44-14,96 7,40-13,50
+Anzahl
+Mittelwert 12,54 11,50 13,36 11,73
+8 Spanne 10,47-16,95 8,59-14,80 9,34-15,80 9,62-14,35
+Anzahl
+Mittelwert 12,92 14,23 13,02
+9 Spanne 10,80-16,25 11,52-16,82 12,24-17,49
+Anzahl 17*
+Hinweise: 
+In dieser Tabelle wird erstmalig der Median als Mittelwert der Tabellenfelder ausgewiesen. Die Mittelwerte der Tabellenfelder sind daher nich
+Bei Leerfeldern können aufgrund einer zu geringen Datenbasis keine statistisch belastbaren Aussagen getroffen werden.
+* Für Felder mit weniger als 30 Datensätzen ist die Aussage eingeschränkt.
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+mit Bad un
+Sammelhei
+ab 91 m²
+bis unter 41 m²
+41 m² bis unter 
+66 m²
+66 m² bis unter 
+91 m²
+91 m² bis unter 
+131 m²
+Gute
+Wohnlage
+ab 131 m²
+Behörde für Stadtentwicklung und Wohnen - Amt für Wohnen, Stadterneuerung und Bodenordnung - 
+(Erhebungsstichtag 01.04.2025)
+Nettokaltmiete ohne Heizung und ohne Betriebskosten (in EURO/m²)
+bis unter 41 m²
+41 m² bis unter 
+66 m²
+66 m² bis unter 
+91 m²
+Baualtersklasse/Bezugsfertigkeit
+Ausstattung
+Normal 
+Wohnlage
+1968 bis 1977 1978 bis 1993 1994 bis 2010 2011 bis 2015 2016 bis 2020 2021 bis 2024
+K L M N O P
+10,26 11,55 12,23 18,50 16,64 19,78
+8,28-14,16 8,57-14,93 10,17-16,37 16,19-19,66 13,72-18,86 13,05-25,01
+9,73 9,33 11,35 15,26 14,77 17,41
+7,33-13,66 7,69-12,91 9,12-13,72 12,18-18,03 12,18-18,83 12,00-21,15
+6,76 8,59 10,69 14,86 15,28 17,61
+6,25-9,48 7,17-12,32 8,93-13,50 11,95-17,32 12,18-18,44 14,26-21,42
+7,73 8,95 11,92 15,17 14,31 17,18
+6,40-11,18 6,57-11,59 9,62-14,51 12,22-18,32 12,76-18,33 13,50-20,93
+13,46 13,74 14,19 15,91 19,37
+11,48-17,67 9,24-16,10 12,02-17,11 14,05-19,91 16,77-25,04
+17* 27*
+12,43 11,95 13,78 16,12 16,08 20,24
+9,05-16,47 9,06-15,45 10,72-15,76 13,20-18,69 13,17-20,30 15,65-31,65
+11,39 12,04 13,18 16,07 16,43 18,38
+7,83-15,28 8,62-15,92 10,03-16,29 13,63-18,44 13,89-20,25 13,96-24,70
+12,51 12,39 14,63 15,58 16,55 19,60
+9,68-15,68 9,94-14,84 11,59-19,00 12,74-19,09 14,67-20,00 15,66-23,25
+13,04 14,31 16,00 18,19 19,14 22,34
+11,55-16,24 11,04-17,84 12,06-19,31 15,12-21,45 15,96-24,59 17,43-25,46
+20* 25* 22*
+t mit den Mittelwerten früherer Mietenspiegel (welche das arithmetische Mittel auswiesen) vergleichbar.
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+d 
+zun
+g
+mit Bad und 
+Sammelheizung
+Jede Verwendung dieser Tabelle mit abweichenden Werten ist unzulässig.
+Diese Tabelle lässt sich nur richtig anwenden, wenn die Erläuterungen
+in der Broschüre  „Hamburger Mietenspiegel 2025‟ genau beachtet werden.
+mit Bad und 
+Sammelheizung
+
+=====PAGE 15=====
+13
+Mietenspiegel 2025
+der Freien und Hansestadt Hamburg in EURO
+bis 31.12.1918 1.1.1919 bis 
+20.6.1948
+21.6.1948 bis 
+1960
+1961 bis 1967 1968 bis 1977 1978 bis 1993 1994 bis 2010 2011 bis 2015 2016 bis 2020 2021 bis 2024
+K L M N O P
+10,26 11,55 12,23 18,50 16,64 19,78
+,05 8,28-14,16 8,57-14,93 10,17-16,37 16,19-19,66 13,72-18,86 13,05-25,01
+9,73 9,33 11,35 15,26 14,77 17,41
+,82 7,33-13,66 7,69-12,91 9,12-13,72 12,18-18,03 12,18-18,83 12,00-21,15
+6,76 8,59 10,69 14,86 15,28 17,61
+,00 6,25-9,48 7,17-12,32 8,93-13,50 11,95-17,32 12,18-18,44 14,26-21,42
+7,73 8,95 11,92 15,17 14,31 17,18
+,49 6,40-11,18 6,57-11,59 9,62-14,51 12,22-18,32 12,76-18,33 13,50-20,93
+13,46 13,74 14,19 15,91 19,37
+,66 11,48-17,67 9,24-16,10 12,02-17,11 14,05-19,91 16,77-25,04
+17* 27*
+12,43 11,95 13,78 16,12 16,08 20,24
+,02 9,05-16,47 9,06-15,45 10,72-15,76 13,20-18,69 13,17-20,30 15,65-31,65
+11,39 12,04 13,18 16,07 16,43 18,38
+,50 7,83-15,28 8,62-15,92 10,03-16,29 13,63-18,44 13,89-20,25 13,96-24,70
+12,51 12,39 14,63 15,58 16,55 19,60
+,35 9,68-15,68 9,94-14,84 11,59-19,00 12,74-19,09 14,67-20,00 15,66-23,25
+13,04 14,31 16,00 18,19 19,14 22,34
+11,55-16,24 11,04-17,84 12,06-19,31 15,12-21,45 15,96-24,59 17,43-25,46
+20* 25* 22*
+t mit den Mittelwerten früherer Mietenspiegel (welche das arithmetische Mittel auswiesen) vergleichbar.
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+nd 
+izung
+ohne Betriebskosten (in EURO/m²)
+mit Bad und 
+Sammelheizung
+Jede Verwendung dieser Tabelle mit abweichenden Werten ist unzulässig.
+Diese Tabelle lässt sich nur richtig anwenden, wenn die Erläuterungen
+in der Broschüre  „Hamburger Mietenspiegel 2025‟ genau beachtet werden.
+mit Bad und 
+Sammelheizung
+Wohnlage Wohnfläche C F H I
+Mittelwert 13,77 10,49 9,46 9,01
+1 Spanne 10,81-17,17 9,57-12,88 8,52-12,42 8,01-14
+Anzahl
+Mittelwert 11,50 9,34 8,59 7,56
+2 Spanne 9,65-15,00 7,95-12,41 7,70-11,31 7,25-10
+Anzahl
+Mittelwert 11,57 9,29 8,50 6,93
+3 Spanne 9,16-15,61 7,81-11,94 7,80-11,13 6,44-10
+Anzahl
+Mittelwert 10,89 11,94 11,10 8,00
+4 Spanne 9,49-14,72 8,46-13,37 6,87-14,52 6,92-12
+Anzahl
+Mittelwert 13,02 12,01 13,50 12,89
+5 Spanne 6,60-15,30 9,44-14,40 9,48-16,06 11,06-15
+Anzahl
+Mittelwert 12,93 11,41 11,04 10,48
+6 Spanne 10,80-16,56 9,30-14,73 8,34-14,83 7,97-14
+Anzahl
+Mittelwert 13,62 11,74 11,42 9,48
+7 Spanne 10,97-17,04 8,53-16,00 8,44-14,96 7,40-13
+Anzahl
+Mittelwert 12,54 11,50 13,36 11,73
+8 Spanne 10,47-16,95 8,59-14,80 9,34-15,80 9,62-14
+Anzahl
+Mittelwert 12,92 14,23 13,02
+9 Spanne 10,80-16,25 11,52-16,82 12,24-17,49
+Anzahl 17*
+Hinweise: 
+In dieser Tabelle wird erstmalig der Median als Mittelwert der Tabellenfelder ausgewiesen. Die Mittelwerte der Tabellenfelder sind daher nich
+Bei Leerfeldern können aufgrund einer zu geringen Datenbasis keine statistisch belastbaren Aussagen getroffen werden.
+* Für Felder mit weniger als 30 Datensätzen ist die Aussage eingeschränkt.
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+mit Bad und 
+Sammelheizung
+mit Bad u
+Sammelhe
+ab 91 m²
+bis unter 41 m²
+41 m² bis unter 
+66 m²
+66 m² bis unter 
+91 m²
+91 m² bis unter 
+131 m²
+Gute
+Wohnlage
+ab 131 m²
+Behörde für Stadtentwicklung und Wohnen - Amt für Wohnen, Stadterneuerung und Bodenordnung - 
+(Erhebungsstichtag 01.04.2025)
+Nettokaltmiete ohne Heizung und 
+bis unter 41 m²
+41 m² bis unter 
+66 m²
+66 m² bis unter 
+91 m²
+Baualtersklasse/Bezugsfertigkeit
+Ausstattung
+Normal 
+Wohnlage
+
+=====PAGE 16=====
+14
+6.5 Wohnlage
+Mit den zwei in der T abelle ausgewie -
+senen Wohnlagenkategorien „normal“ 
+und „gut“ wird das nähere Wohnumfeld 
+beschrieben . Eine Auflistung fast aller 
+Straßenabschnitte in Hamburger Wohn-
+gebieten mit Einstufung in die jeweilige 
+Wohnlagenkategorie ist im Hamburger 
+Wohnlagenverzeichnis zu finden .
+Die Einstufung in die Wohnlagenkatego-
+rien „normal“ und „gut“ erfolgt anhand 
+folgender Merkmale, die im Rahmen ei-
+ner empirischen Untersuchung (siehe 
+Methodenbericht zum Wohnlagenver -
+zeichnis 2025) als Wohnwert bestim -
+mend ermittelt wurden:
+	
+ Bodenrichtwert,
+	Statusindex des Sozialmonitorings,
+	Einwohnerdichte,
+		Lärmbelastung durch Flug- ,  Schienen- , 
+Gewerbe-  und Verkehrslärm,
+		Art der Straße (vier-  und mehrspurig),
+	 Anteil Wasser- und Grünflächen,
+Örtlich enger begrenzten Lagekriterien, 
+die in der allgemeinen Wohnlagenein-
+stufung unberücksichtigt bleiben, kann 
+durch Zu- oder Abschläge innerhalb 
+der Spannen in den einzelnen Mie-
+tenspiegelfeldern Rechnung getragen 
+werden . Hierbei können die nachste -
+hend beispielhaft genannten Kriterien 
+in die Bewertung einbezogen werden  . 
+Zu berücksichtigen ist, dass fast jede 
+Wohnlage Vor- und Nachteile aufweist, 
+die gegeneinander abgewogen werden 
+müssen . Neben den in der rechnerischen 
+Wohnlageneinstufung bereits erfassten 
+Merkmalen können im Einzelfall fol -
+gende weitere Kriterien für die Einord-
+nung innerhalb der Spanne des jeweils 
+einschlägigen Mietenspiegelfeldes be-
+rücksichtigt werden, z . B .
+	 Lage des Wohnquartiers innerhalb 
+des Stadtgebietes (Zentralität),
+	 Erreichbarkeit und Auswahl u .  a . 
+kultureller und gastronomischer 
+Angebote, auch verbunden mit 
+einer Mischung von Wohnen, Kultur, 
+Handel und eingestreutem Gewerbe 
+(Urbanität),
+	umgebende Nutzung,
+	
+Bauweise und Bauform der Gebäude,
+	baulicher Zustand,
+	Naherholungsmöglichkeiten,
+	landschaftlicher Charakter,
+	 Beeinträchtigungen durch Staub, 
+Geruch (Immissionen),
+	 Lärmbeeinträchtigungen durch Klein-
+gewerbe (z . B . im Hinterhof, in den 
+Erdgeschosszonen),
+	 Versorgung mit kleinen Läden, Kitas, 
+Schulen, Sportstätten und sonstigen 
+Infrastruktureinrichtungen,
+	 gepflegtes Straßenbild („Anmutung 
+der Straße“),
+	 straßenbildprägendes 
+Grün / Straßen bäume .
+Grundsätzlich ist zu beachten, dass die 
+Wohnlage innerhalb eines Wohnviertels, 
+einer Straße, aber auch von einer Straßen-
+seite zur anderen wechseln kann . Die all-
+gemeine Attraktivität von Gebieten kann 
+unterschiedlich bewertet werden . Unter -
+schiedlichen Wohnlagequalitäten, z . B . bei 
+Eckbebauungen oder aufgrund des un-
+mittelbaren Wohnumfelds (u  .a . urbaner 
+Charakter des Quartiers, gepflegtes Stra-
+ßenbild, straßenbildprägendes Grün / Stra-
+
+=====PAGE 17=====

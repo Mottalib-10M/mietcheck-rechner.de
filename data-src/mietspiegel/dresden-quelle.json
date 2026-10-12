@@ -1,0 +1,23 @@
+{
+ "city": "Dresden",
+ "edition": "Dresdner Mietspiegel 2025 (qualifiziert; 14. Dresdner Mietspiegel)",
+ "stichtag": "2024-04-01 ('Erhoben wurden die zum 1. April 2024 gezahlten Mieten')",
+ "gueltig_ab": "2025-01-01",
+ "gueltig_bis": "2026-12-31",
+ "qualifiziert": true,
+ "herausgeber": "Landeshauptstadt Dresden, Sozialamt, Abteilung Interner Service/Grundsatz/Sozialplanung (Impressum Broschüre, Dezember 2024)",
+ "ersteller": "ALP Institut für Wohnen und Stadtentwicklung GmbH, Hamburg (Datenerhebung, Auswertung, Erstellung) im Auftrag der LH Dresden; Projektgruppe Dresdner Mietspiegel mit Mieterverein Dresden und Umgebung e.V. und Haus & Grund Dresden e.V. (anerkannt durch die Verbände)",
+ "url_seite": "https://www.dresden.de/de/leben/wohnen/wohnungsmarkt/mietspiegel.php",
+ "url_pdf": "https://www.dresden.de/media/pdf/sozialamt/Mietspiegel_Dresden_2025.pdf",
+ "url_pdf_dokumentation": "https://www.dresden.de/media/pdf/sozialamt/mietspiegel-dokumentation-2025.pdf",
+ "url_online_rechner": "https://www.dresden.de/de/leben/wohnen/wohnungsmarkt/online-mietspiegel",
+ "rights_class": "B",
+ "rights_quote": "Kein Urheber-/Nachdruck-/Lizenzvermerk gefunden. Impressum Broschüre nennt nur Herausgeber und: 'Schutzgebühr 2,00 Euro' sowie 'Dieses Informationsmaterial ist Teil der Öffentlichkeitsarbeit der Landeshauptstadt Dresden. Es darf nicht zur Wahlwerbung benutzt werden.' Impressum dresden.de: nur Haftungsausschluss, kein Nutzungsvorbehalt; Seitenfuß '© Landeshauptstadt Dresden'. Kein Datensatz auf GovData/opendata.dresden.de gefunden.",
+ "rights_url": "https://www.dresden.de/media/pdf/sozialamt/Mietspiegel_Dresden_2025.pdf (Impressum, letzte Seite) ; https://www.dresden.de/de/sonstiges/impressum.php",
+ "scheme_type": "regression (Basismiete nach Wohnfläche, Tabelle 1; multiplikative Faktoren Baualter/Lage/Ausstattung/Energie Tabellen 2–8; Gesamtfaktor Tabelle 9; Spanne c x 0,86 bis c x 1,15)",
+ "data": {},
+ "kennzahl_wert": 7.33,
+ "kennzahl_text": "Pressemitteilung: 'Die durchschnittliche Miete aller Dresdner Haushalte liegt derzeit bei 7,33 Euro pro Quadratmeter. Das hat die Mietspiegelbefragung im Jahr 2024 ergeben. Dies ist eine Steigerung von 3,8 Prozent gegenüber der letzten Befragung von 2022.' Amtsblatt 48/2024: 'Die durchschnittliche Miete der erhobenen Daten liegt bei 7,33 Euro pro Quadratmeter.'",
+ "kennzahl_quelle": "https://www.dresden.de/de/rathaus/aktuelles/pressemitteilungen/02/pm_015.php ; https://dresden.de/media/pdf/amtsblatt/2024/gedruckte-ausgabe/dresdner-amtsblatt-2024-48.pdf",
+ "notes": "Klasse B: kein Vorbehalt, aber auch keine Lizenz. Nur Amtsblatt-Artikel (29.11.2024) über den Mietspiegel, nicht der Mietspiegel selbst als Bekanntmachung -> §5 UrhG unsicher. Schema nicht extrahiert (nur Klasse A). Empfehlung: Online-Rechner verlinken oder Freigabe beim Sozialamt (sozialplanung@dresden.de) anfragen. Laut Stadtseite: Ab 2027 neuer Mietspiegel (Amtsblatt: 'Zum 1. Januar 2027 wird der Mietspiegel fortgeschrieben'). Mietpreisbremse/Kappungsgrenze Sachsen laut Stadtseite verlängert bis 30.06.2027 (Broschüre nennt noch 31.12.2025)."
+}

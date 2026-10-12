@@ -1,0 +1,184 @@
+SOURCE: https://frankfurt.de/-/media/frankfurtde/service-und-rathaus/verwaltung/aemter-und-institutionen/amt-fuer-wohnungswesen/pdf/64_s1/64_s1_frankfurter_mietspiegel_2026.pdf via web.archive.org, pages 2,4,5 (plain)
+=====PAGE 2=====
+Mietspiegel 2026, erste Auflage, Juni 2026 | Herausgeber:  Magistrat der Stadt Frankfurt am Main,  
+Amt für Wohnungswesen, Adickesallee 67-69, 60322 Frankfurt am Main, © Alle Rechte vorbehalten  
+Bildnachweis: Umschlagbild © Stadtvermessungsamt Frankfurt am Main, Schrägluftbilder Stand 2024  
+(Frankfurt-Heddernheim); Portrait Gwechenberger © Stadt Frankfurt am Main, Foto: Peter Jülich; Sonstige 
+Bilder © Amt für Wohnungswesen | Gestaltung: SINNBILD Design, Frankfurt am Main, Simone Göttler, 
+SINNBILD-Design.de | Druck: Druck- und Verlagshaus Zarbock GmbH & Co. KG, Frankfurt am Main, zarbock.de
+2
+Inhalt
+Impressum
+Inhalt   2
+Impressum   2
+Grußwort   3
+Erläuterungen zum Frankfurter Mietspiegel 2026   4
+Aufgabe und Funktion des Mietspiegels   4
+Grundlage des Mietspiegels   4
+ Mietspiegel-Kommission und Anerkennung   5
+ Laufzeit   5
+ Anwendungsbereich   5
+  Anwendung des Mietspiegels bei möbliertem Wohnraum   6
+ Informationen zur Anwendung   6
+  Mieterhöhungen   6
+  Mietpreisbremse   7
+  Mietpreisüberhöhung und Mietwucher   7
+  Teilinklusiv-Mieten und Betriebskosten   7
+  Tabelle Betriebskosten   8
+  Teilinklusiv-Mieten und KFZ-Stellplatzmieten   8
+ Informationen zu Baualtersklassen im Mietspiegel 2026   9
+ Informationen zu Merkmalen der energetischen Ausstattung und Beschaffenheit   9
+ Informationen zu Wohnlagen   9
+  Wie wurden die Lage-Kategorien ermittelt?   10
+Tabelle 1: Durchschnittliche Basis-Netto-Miete in € / m² und Monat nach Wohnungsgröße   10
+ Zwischenwerte berechnen (Interpolation)   10
+Tabelle 2: Durchschnittliche Zuschläge und Abschläge   12
+ Baualter und energetische Merkmale   13
+ Art der Wohnung und Grundrisse   14
+ Fußboden und Altbauten   16
+ Leitungen und Heizung   18
+ Ausstattung   19
+ Bad- und Sanitär-Ausstattung   20
+ Freisitze   21
+ Wohnlagen   22
+Tabelle 3: Berechnung der ortsüblichen Vergleichsmiete in € / m² und Monat   23
+ Spannen   23
+Übersichtskarte der Wohnlagen   24
+Auskünfte & Hilfen   26
+ Hilfen beim Amt für Wohnungswesen der Stadt Frankfurt am Main   26
+ Hilfen bei Verbänden und Vereinen   26
+ Die Arbeitsbereiche des Amtes für Wohnungswesen   27
+WoFlV   29
+BtrKV   30
+Hinweise: GIMA, Klimabonus, Modernisierungsbonus, Wohngeld, Mietrechtliche Beratung,
+Stabsstelle Mieterschutz, Schlauvermieter, Frankfurt Fairmieten   32
+ 
+
+=====PAGE 3=====
+Grußwort
+Sehr geehrte Leser:innen, liebe Frankfurter:innen,
+der qualifizierte Mietspiegel 2026 bietet Mieter:innen und Vermieter:innen 
+eine verlässliche Orientierung zur ortsüblichen Vergleichsmiete in Frankfurt 
+am Main. Er hilft dabei, die Angemessenheit von Mieten transparent und 
+nachvollziehbar einzuordnen und schafft damit eine wichtige Grundlage für 
+faire und rechtssichere Mietverhältnisse. 
+In Frankfurt bleibt die Versorgung mit Wohnraum weiter angespannt, viele 
+Menschen können sich die steigenden Mieten nur noch schwer leisten. Es ist 
+daher wichtig, dass mit dem Mietspiegel ein transparentes Instrument zur 
+Ermittlung der Miete vorliegt.
+Der Mietspiegel 2026 bringt verschiedene Veränderungen mit sich: Erstmals kamen für diese Mietspiegel-Neu -
+erstellung neue gesetzliche Vorgaben zur Anwendung. Dazu zählen unter anderem die gesetzliche Auskunfts -
+pflicht für Eigentümer:innen, Vermieter:innen und Mieter:innen, klare Regelungen zur Datenverarbeitung sowie 
+methodische Vorgaben aus der Mietspiegelverordnung des Bundes – etwa zur Berücksichtigung der Wohnlage 
+bei der Miethöhe. Diese Neuerungen haben zu einer besseren Datengrundlage und insgesamt zu einem noch 
+aussagekräftigeren Mietspiegel geführt.
+Uns ist bewusst, dass steigende Mieten für viele Menschen in Frankfurt schon heute eine große Belastung sind. 
+Wenn Sie Unterstützung benötigen, kann das Wohngeld eine spürbare Entlastung bieten. Weitere Informationen 
+finden Sie unter frankfurt.de/wohngeld.
+Zudem stellt die Stadt Frankfurt in eigenen Programmen Fördermittel bereit, mit denen bezahlbarer und preis -
+gebundener Wohnraum für Haushalte mit niedrigen und mittleren Einkommen geschaffen wird. Über den 
+Moder ni sierungsbonus für Bestandsgebäude gibt es außerdem die Möglichkeit für Vermieter:innen, sozial -
+verträg liche Modernisierungen durchzuführen. Auch kommunale Akteure leisten einen Beitrag zur Dämpfung 
+der Miet entwicklung: Die ABG FRANKFURT HOLDING hat sich einem Mietenstopp verpflichtet. 
+Für faire Mieten sind aber auch Sie als Mieter:innen und Vermieter:innen gefragt: Prüfen Sie bei Wieder -
+vermietung einer Wohnung, ob die Mietpreisbremse einzuhalten ist. Bei bestehenden Mietverhältnissen gilt die 
+ortsübliche Vergleichsmiete grundsätzlich als Obergrenze für Mieterhöhungen.
+Bei mietrechtlichen Fragen können Sie sich an die jeweiligen Interessenverbände wenden. Für eine erste  
+Orientierung steht Ihnen auch die Mietrechtliche Beratung des Amtes für Wohnungswesen zur Verfügung. Die 
+Kontaktdaten finden Sie ab ►Seite 26 im Abschnitt „Auskünfte & Hilfen“.
+Nutzen Sie die vielfältigen Beratungs- und Unterstützungsangebote in unserer Stadt.
+Mit freundlichen Grüßen
+Stadtrat Marcus Gwechenberger
+Dezernent für Planen und Wohnen, Stadt Frankfurt am Main
+3
+
+=====PAGE 4=====
+4
+Erläuterungen zum Frankfurter Mietspiegel 2026
+Aufgabe und Funktion des Mietspiegels
+Der Frankfurter Mietspiegel 2026 gibt Auskunft über die „ortsübliche Vergleichsmiete“ im gesamten Frankfurter 
+Stadtgebiet. Mit dem Mietspiegel lässt sich so für die Mehrzahl der freifinanzierten Frankfurter Wohnungen 
+abhängig von ihrer Art, Größe, Lage und (energetischen) Ausstattung sowie Beschaffenheit ermitteln, welche 
+Mieten üblicherweise bezahlt werden.
+Der Mietspiegel hat den Zweck, am Mietwohnungsmarkt Transparenz zu schaffen und Rechtsstreitigkeiten zu 
+vermeiden. An den Mietspiegel knüpfen zahlreiche Vorschriften an, die Rechte und Pflichten von Mieter:innen 
+und Vermieter:innen regeln. Indirekt dient der Mietspiegel damit mehreren Zwecken:
+• Für Mieter:innen bietet er Schutz vor ungerechtfertigten Mieterhöhungen bei bestehenden Mietverträgen. 
+Verlangen Vermieter:innen mehr als die ortsübliche Vergleichsmiete, können Mieter:innen die Zustimmung 
+verweigern. Bei Neuvermietungen hilft der Mietspiegel, die zulässige Miete bei Neuvermietung zu prüfen, die 
+mit der Mietpreisbremse festgelegt wurde.
+• Für Vermieter:innen stellt der Mietspiegel eine rechtssichere Grundlage dar, um Mieterhöhungen zu begrün-
+den oder Miethöhen bei Neuvermietungen festzulegen. Wer seine Miete anheben oder bestimmen möchte, 
+kann sich auf den Mietspiegel berufen – das reduziert Streit und schafft Klarheit.
+Auch Behörden, Gerichte und Gutachter:innen nutzen Mietspiegel als anerkannte Grundlage.
+Grundlage des Mietspiegels
+Der Frankfurter Mietspiegel ist ein qualifizierter Mietspiegel im Sinne des § 558d Bürgerliches Gesetzbuch 
+(BGB). Gemeinden mit mehr als 50.000 Einwohner:innen sind seit der Mietspiegelreform 2021 gesetzlich ver -
+pflichtet, einen Mietspiegel zu erstellen – Frankfurt am Main kommt dieser Pflicht mit dem vorliegenden quali -
+fizierten Mietspiegel nach. Er wurde nach anerkannten wissenschaftlichen Grundsätzen erstellt und von der 
+Stadt Frankfurt am Main anerkannt. Als qualifizierter Mietspiegel genießt er vor Gericht eine besondere Beweis-
+kraft.
+Um einen Mietspiegel zu erstellen, werden – vereinfacht gesprochen – Mieter:innen und Vermieter:innen dazu 
+befragt, wie viel Miete für eine Wohnung gezahlt wird und welche Merkmale diese Wohnung hat. Die Antworten 
+werden dann statistisch ausgewertet. Das Verfahren folgt dabei gesetzlichen Vorgaben und wissenschaftlichen 
+Grundsätzen. Wichtig bei der Mietspiegel-Erstellung ist der Merkmal-Mietpreis-Zusammenhang: Nur wenn sich 
+ein Wohnungsmerkmal im Rahmen der Mietspiegel-Erhebung als nachweislich mietpreisbeeinflussend gezeigt 
+hat, kann es als Zu- oder Abschlag im Mietspiegel ausgewiesen werden. Die Merkmale und die Werte des Miet-
+spiegels werden also nicht willkürlich festgelegt, sondern leiten sich aus den Erhebungsergebnissen ab. 
+Grundlage des Mietspiegels 2026 ist eine repräsentative Befragung von zufällig ausgewählten Mieter:innen so -
+wie deren Vermieter:innen in Frankfurt. Erfasst wurden ausschließlich Merkmale und Mieten frei finanzierter 
+Wohnungen, die in den vergangenen sechs Jahren bei Neuvermietung vereinbart oder durch Mieterhöhung neu 
+festgelegt wurden (§ 558 Abs. 2 BGB). Aus den erhobenen Daten wurde mithilfe einer Regressions  analyse er-
+mittelt, wie sich Größe, Ausstattung, Beschaffenheit und Lage einer Wohnung auf die Miete auswirken. Das 
+Ergebnis ist die ortsübliche Vergleichsmiete, ausgewiesen als Netto-Kalt-Miete pro Quadratmeter – ohne Be -
+triebskosten. Die genaue Methodik ist in der Dokumentation nachvollziehbar dargelegt. Die Dokumentation 
+samt der verwendeten Fragebögen finden Sie unter „Downloads“ auf der Webseite frankfurt.de/mietspiegel. 
+Die wissenschaftliche Bearbeitung und die Durchführung der Datenerhebung erfolgte durch das Institut  
+Wohnen und Umwelt (IWU), Rheinstraße 65, 64295 Darmstadt und die IFAK Institut GmbH & Co. KG, Georg-
+Ohm-Straße 1, 65232 Taunusstein. 
+
+=====PAGE 5=====
+5
+Mietspiegel-Kommission und Anerkennung
+Der Magistrat der Stadt Frankfurt am Main hat den Mietspiegel 2026 mit Unterstützung der Mietspiegelkommis-
+sion erstellt. In der Mietspiegelkommission, unter der Leitung des Frankfurter Amtes für Wohnungswesen, sind 
+vertreten:
+• der Verein Haus & Grund Bergen-Enkheim und Umgebung e. V.,
+• der Verein Haus & Grund Frankfurt am Main e. V.,
+• der Verband der Südwestdeutschen Wohnungswirtschaft e. V.,
+• der DMB Mieterbund Frankfurt e. V.,
+• der DMB Mieterschutzverein Frankfurt am Main e. V.,
+• der Interessenverband Mieterschutz e. V. – Geschäftsstelle Frankfurt am Main,
+• der Verein Mieter helfen Mietern Frankfurt e. V., 
+• der Gutachterausschuss für Immobilienwerte für den Bereich der Stadt Frankfurt am Main (ohne Stimmrecht).
+Das Amt für Wohnungswesen hat die Anerkennung des Mietspiegels empfohlen. Den Mietspiegel 2026 aner -
+kannt haben
+• der DMB Mieterbund Frankfurt e. V.,
+• der DMB Mieterschutzverein Frankfurt am Main e. V.
+Den Mietspiegel 2026 nicht anerkannt haben
+• der Verein Haus & Grund Bergen-Enkheim und Umgebung e. V.,
+• der Verein Haus & Grund Frankfurt am Main e. V.,
+• der Verband der Südwestdeutschen Wohnungswirtschaft e. V.,
+• der Interessenverband Mieterschutz e. V. – Geschäftsstelle Frankfurt am Main,
+• der Verein Mieter helfen Mietern Frankfurt e. V. 
+Der Mietspiegel 2026 wurde von der Gemeinde am 25.06.2026 anerkannt.
+Laufzeit
+Erhebungsstichtag für den Mietspiegel 2026 war der 01.07.2025. Der Mietspiegel 2026 läuft vom 25.06.2026 bis 
+zum 31.05.2028.
+Anwendungsbereich
+Der Frankfurter Mietspiegel 2026 ist grundsätzlich für freifinanzierte Wohnungen im Frankfurter Stadtgebiet 
+anzuwenden. Aus gesetzlichen Gründen kann der Mietspiegel jedoch nicht angewendet  werden auf  
+• Mietverhältnisse, die keine Wohnraum-Mietverhältnisse darstellen, beispielsweise (teilweise) gewerblich ge -
+nutzte Wohnräume,
+• öffentlich geförderte Wohnungen, beispielsweise Sozialwohnungen (§ 558 Abs. 2 Satz 2 BGB),
+• Mietverhältnisse, die nur zum zeitlich und inhaltlich bestimmten, vorübergehenden Gebrauch der Wohnung 
+eingegangen wurden (§ 549 Abs. 2 Nr. 1 BGB),
+• möblierten Wohnraum in der von Vermieter:innen selbst bewohnten Wohnung (§ 549 Abs. 2 Nr. 2 BGB),
+• Wohnraum, der von einer öffentlichen oder gemeinnützigen Institution angemietet und Mieter:innen wegen 
+eines dringenden Wohnungsbedarfs überlassen wurde (§ 549 Abs. 2 Nr. 3 BGB),
+• Wohnraum in Studierenden- und Jugendwohnheimen (§ 549 Abs. 3 BGB).
+
+=====PAGE 6=====
+
+SOURCE: Wayback snapshot 20260824113808 of mietspiegel page
+Frankfurter Mietspiegel Qualifizierter Mietspiegel zur Ermittlung der ortsüblichen Vergleichsmiete in Frankfurt am Main HINWEIS: Die gedruckten Mietspiegel-Broschüren liegen aktuell noch nicht vor. Bitte nutzen Sie aktuell die online verfügbare PDF-Version (im Downloadbereich am Ende der Seite) oder den Online-Mietspiegel-Rechner (Link in der Box am rechten Seitenrand). Mietspiegel geben Auskunft über die ortsübliche Vergleichsmiete. Sie zeigen Mietenden und Vermietenden, welche Miethöhe angemessen ist. Die Frankfurter Mietspiegel sind qualifiziert im Sinne des § 558 d Bürgerliches Gesetzbuch (BGB). Der Frankfurter Mietspiegel 2026 gilt seit dem 25.06.2026. Sie können die ortsübliche Vergleichsmiete mit der Broschüre (gedruckt/PDF) und mit dem Online-Mietspiegel-Rechner ermitteln. Die Gemeinde hat den Mietspiegel nach § 558d Abs. 1 BGB anerkannt. Damit gilt der Mietspiegel als qualifizierter Mietspiegel. Mit dem Mietspiegel 2026 der Stadt Frankfurt am Main lässt sich die ortsübliche Vergleichsmiete ermitteln. © Stadt Frankfurt am Main, Foto: JS ALLGEMEINE INFORMATIONEN ZUM MIETSPIEGEL Sie sind Mieter:in einer Wohnung in Frankfurt am Main oder und fragen sich, ob die Höhe einer Mieterhöhung stimmt? auf der Suche nach einer Wohnung zur Miete in Frankfurt am Main und fragen sich, ob die Miete angemessen ist und die Mietpreisbremse eingehalten wird? Vermieter:in und fragen sich, welche Miethöhe für Ihre Wohnung in Frankfurt am Main rechtlich zulässig ist? Der Frankfurter Mietspiegel hilft Ihnen, diese Fragen zu beant

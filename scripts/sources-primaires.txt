@@ -1,0 +1,5 @@
+# Domaines de sources officielles du site (check-regles.py)
+gesetze-im-internet.de
+destatis.de
+berlin.de
+mietspiegel.berlin.de

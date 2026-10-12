@@ -1,0 +1,19 @@
+{
+ "city": "Berlin",
+ "edition": "Berliner Mietspiegel 2026",
+ "stichtag": "2025-09-01",
+ "gueltig_ab": "2026-05-28",
+ "gueltig_bis": null,
+ "qualifiziert": true,
+ "herausgeber": "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen",
+ "ersteller": "ALP Institut für Wohnen und Stadtentwicklung GmbH, Hamburg (Datenerhebung und Tabellenanalyse)",
+ "url_seite": "https://mietspiegel.berlin.de/",
+ "url_pdf": "https://mietspiegel.berlin.de/wp-content/uploads/2026/05/mietspiegel2026.pdf",
+ "url_online_rechner": "https://mietspiegel.berlin.de/",
+ "rights_class": "B",
+ "rights_quote": "Kein Urheberrechts- oder Nachdruckvorbehalt in Broschüre, Mietspiegeltabelle und Website; Herausgeberin ist die Senatsverwaltung, das Straßenverzeichnis ist im Amtsblatt vom 28.05.2026 veröffentlicht. Mietspiegel sind nach § 558c Abs. 4 Satz 3 BGB zu veröffentlichen (amtliches Werk im Sinne von § 5 Abs. 2 UrhG vertretbar).",
+ "rights_url": "https://mietspiegel.berlin.de/wp-content/uploads/2026/05/mietspiegel2026.pdf (Impressum S. 28)",
+ "kennzahl_wert": 7.71,
+ "kennzahl_text": "Das durchschnittliche Mietniveau im Mietspiegel 2026 liegt bei 7,71 €/m² (Median der Nettokaltmieten aller erhobenen Datensätze).",
+ "kennzahl_quelle": "https://www.berlin.de/sen/sbw/presse/pressemeldungen/pressemitteilung.1674998.php"
+}

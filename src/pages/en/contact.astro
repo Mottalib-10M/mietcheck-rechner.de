@@ -1,0 +1,23 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, REVIEW_CYCLE_MONTHS } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title="Contact: report a new rent index or a calculator error" description="Write to us when a city publishes a new rent index, a state changes its ordinance or a calculator gets something wrong. We do not advise on individual tenancies." lang={lang} noindex={true} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Contact</h1>
+    <p>We read every message: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>What helps us most</h2>
+    <p>A link to the official source: your city's new rent index PDF, the gazette with an amended municipality list, or the section of the Civil Code that makes you doubt a result. For a calculation, please include the address from your browser bar; it carries your inputs but no name or address. Every confirmed error is fixed and added as a test case, as the <a href={route('editorial', lang)}>editorial policy</a> describes.</p>
+    <h2>Embedding the rent check</h2>
+    <p>Tenant associations, advice centres, property managers and newsrooms can embed the rent check free of charge: the code is on the <a href={route('widget', lang)}>embed page</a>.</p>
+    <h2>What we do not do</h2>
+    <p>We do not review leases or letters, draft complaints or refer anyone to law firms. For your own case, the local tenants' association, your city's tenant advice service or a lawyer can help.</p>
+    <h2>Response time</h2><p>Usually within five working days, new rent indexes and ordinances first. We check every value at least every {REVIEW_CYCLE_MONTHS} months and whenever the rules change.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+    <p>See the <a href={route('terms', lang)}>legal notice</a>. Responsible: {AUTHOR_NAME}. As of: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

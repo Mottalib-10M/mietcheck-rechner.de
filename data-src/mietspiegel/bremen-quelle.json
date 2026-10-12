@@ -1,0 +1,22 @@
+{
+ "city": "Bremen",
+ "edition": "Qualifizierter Mietspiegel für die Stadtgemeinde Bremen 2026 (erste Fortschreibung des Mietspiegels 2024 per Verbraucherpreisindex)",
+ "stichtag": "Erhebungsstand: 1. März 2023; Fortschreibung auf den 1. März 2025",
+ "gueltig_ab": "2026-01-01",
+ "gueltig_bis": "2027-12-31",
+ "qualifiziert": true,
+ "herausgeber": "Die Senatorin für Bau, Mobilität und Stadtentwicklung der Freien Hansestadt Bremen; Projektkoordination BAB – Die Förderbank für Bremen und Bremerhaven",
+ "ersteller": "Neitzel Consultants GmbH im Auftrag der InWIS Forschung & Beratung GmbH, Bochum (Datenerhebung, -analyse, -auswertung, Fortschreibung); Arbeitskreis Mietspiegel (Bremer Mieterschutzbund, DMB Mieterverein Bremen, Haus & Grund Bremen und Bremen-Nord, vdw, Gutachterausschuss u.a.) – Fortschreibung von allen Verbänden anerkannt",
+ "url_seite": "https://www.bab-bremen.de/de/page/programm/mietspiegel/ (Weiterleitung von www.bremer-mietspiegel.de)",
+ "url_pdf": "https://www.bab-bremen.de/sixcms/media.php/49/Broschuere_Mietspiegel_2026_Web.pdf",
+ "url_pdf_dokumentation": "https://www.bab-bremen.de/sixcms/media.php/49/2026_Mietspiegel%20Bremen-Dokumentation.pdf",
+ "rights_class": "B",
+ "rights_quote": "Kein Urheber-/Nachdruck-/Lizenzvermerk gefunden. Impressum der Broschüre nennt nur Herausgeberin, Projektkoordination, Erstellung, Gestaltung, Druck, Illustrationen. BAB-Impressum und 'Rechtliches' ohne Nutzungsvorbehalt (Disclaimer-Seite liefert 404). Kein Open-Data-Datensatz gefunden.",
+ "rights_url": "https://www.bab-bremen.de/sixcms/media.php/49/Broschuere_Mietspiegel_2026_Web.pdf (Impressum S. 45) ; https://www.bab-bremen.de/de/page/impressum ; https://www.bab-bremen.de/de/page/rechtliches",
+ "scheme_type": "regression/table (Tabelle 1 Basismiete nach Wohnfläche; prozentuale Zu-/Abschläge für Baujahr, Gebäude-/Wohnungsart, Bad/Küche, Ausstattung, Wohnlage; Spanne -11,9 % bis +11,7 % um den errechneten Mietwert)",
+ "data": {},
+ "kennzahl_wert": null,
+ "kennzahl_text": null,
+ "kennzahl_quelle": null,
+ "notes": "Achtung: kennzahl_wert 7,37 gehört zur Ausgabe 2024 (Erhebung 2023), nicht zur gültigen Fortschreibung 2026; ein 2026-Wert (7,37 x 1,0439 ≈ 7,69) wäre nur abgeleitet, nicht amtlich – nicht so veröffentlichen. Klasse B: Schema nicht extrahiert; Online-Rechner auf bremer-mietspiegel.de verlinken oder Freigabe bei mietspiegel@bab-bremen.de anfragen. Neuerstellung mit neuer Erhebung per 01.01.2028 (Grußwort)."
+}

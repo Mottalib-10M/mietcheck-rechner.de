@@ -1,0 +1,441 @@
+{
+ "_lisezmoi": "Tous les paramètres légaux du site (RECETTE §4). Chaque valeur est relue sur la source citée ; retrieved_at = date de lecture. Les Mietspiegel sont dans src/data/mietspiegel/, les Verordnungen des Länder dans src/data/laender.json.",
+ "year": 2026,
+ "retrieved_at": "2026-10-12",
+ "valid_from": "2026-01-01",
+ "valid_to": "2026-12-31",
+ "mpb": {
+  "aufschlag": 0.1,
+  "neubau_nach": "2014-10-01",
+  "ruege_monate": 30,
+  "vo_spaetestens_bis": "2029-12-31",
+  "modernisierung_jahre": 3
+ },
+ "erhoehung": {
+  "kappung": 0.2,
+  "kappung_angespannt": 0.15,
+  "kappung_jahre": 3,
+  "sperrfrist_monate": 15,
+  "wartefrist_monate": 12,
+  "zustimmung_kalendermonate": 2,
+  "wirkung_kalendermonat": 3,
+  "klagefrist_monate": 3,
+  "vo_kappung_max_jahre": 5
+ },
+ "modernisierung": {
+  "umlage": 0.08,
+  "kappung_m2": 3,
+  "kappung_m2_niedrig": 2,
+  "niedrig_unter_m2": 7,
+  "kappung_jahre": 6,
+  "heizung_kappung_m2": 0.5,
+  "umlage_559e": 0.1,
+  "erhaltung_pauschal_559e": 0.15,
+  "vereinfacht_bis": 10000,
+  "vereinfacht_pauschale": 0.3,
+  "vereinfacht_sperre_jahre": 5
+ },
+ "kaution": {
+  "faktor": 3,
+  "raten": 3,
+  "verzug_kuendigung_monatsmieten": 2
+ },
+ "index": {
+  "min_monate": 12
+ },
+ "staffel": {
+  "min_monate": 12,
+  "kuendigungsausschluss_jahre": 4
+ },
+ "betriebskosten": {
+  "abrechnung_monate": 12,
+  "einwendung_monate": 12,
+  "anpassung_naechster_monat": 2
+ },
+ "heizkosten": {
+  "verbrauch_min": 0.5,
+  "verbrauch_max": 0.7,
+  "kuerzung_pauschal": 0.15,
+  "kuerzung_info": 0.03
+ },
+ "co2": {
+  "kuerzung": 0.03,
+  "denkmal_halbierung": 0.5,
+  "stufen": [
+   {
+    "bis": 12,
+    "mieter": 1.0
+   },
+   {
+    "bis": 17,
+    "mieter": 0.9
+   },
+   {
+    "bis": 22,
+    "mieter": 0.8
+   },
+   {
+    "bis": 27,
+    "mieter": 0.7
+   },
+   {
+    "bis": 32,
+    "mieter": 0.6
+   },
+   {
+    "bis": 37,
+    "mieter": 0.5
+   },
+   {
+    "bis": 42,
+    "mieter": 0.4
+   },
+   {
+    "bis": 47,
+    "mieter": 0.3
+   },
+   {
+    "bis": 52,
+    "mieter": 0.2
+   },
+   {
+    "bis": null,
+    "mieter": 0.05
+   }
+  ],
+  "behg_preis": {
+   "2021": 25,
+   "2022": 30,
+   "2023": 30,
+   "2024": 45,
+   "2025": 55
+  },
+  "behg_2026_min": 55,
+  "behg_2026_max": 65
+ },
+ "kuendigung": {
+  "karenz_werktage": 3,
+  "mieter_monate": 3,
+  "vermieter_stufen": [
+   {
+    "ab_jahren": 0,
+    "monate": 3
+   },
+   {
+    "ab_jahren": 5,
+    "monate": 6
+   },
+   {
+    "ab_jahren": 8,
+    "monate": 9
+   }
+  ]
+ },
+ "woflv": {
+  "voll_ab_m": 2.0,
+  "halb_ab_m": 1.0,
+  "balkon_regel": 0.25,
+  "balkon_max": 0.5,
+  "wintergarten_unbeheizt": 0.5
+ },
+ "berlin_bk": {
+  "jahr": 2024,
+  "kalt_m2": 1.93,
+  "warm_m2": 1.5,
+  "gebaeude_kalt": 1700,
+  "gebaeude_warm": 1300
+ },
+ "vpi": {
+  "basis": "2020=100",
+  "stand": "2026-09-10",
+  "werte": {
+   "2021-01": 101.0,
+   "2021-02": 101.6,
+   "2021-03": 102.1,
+   "2021-04": 102.4,
+   "2021-05": 102.6,
+   "2021-06": 102.9,
+   "2021-07": 103.4,
+   "2021-08": 103.5,
+   "2021-09": 103.8,
+   "2021-10": 104.3,
+   "2021-11": 104.5,
+   "2021-12": 104.7,
+   "2022-01": 105.2,
+   "2022-02": 106.0,
+   "2022-03": 108.1,
+   "2022-04": 108.8,
+   "2022-05": 109.8,
+   "2022-06": 109.8,
+   "2022-07": 110.3,
+   "2022-08": 110.7,
+   "2022-09": 112.7,
+   "2022-10": 113.5,
+   "2022-11": 113.7,
+   "2022-12": 113.2,
+   "2023-01": 114.3,
+   "2023-02": 115.2,
+   "2023-03": 116.1,
+   "2023-04": 116.6,
+   "2023-05": 116.5,
+   "2023-06": 116.8,
+   "2023-07": 117.1,
+   "2023-08": 117.5,
+   "2023-09": 117.8,
+   "2023-10": 117.8,
+   "2023-11": 117.3,
+   "2023-12": 117.4,
+   "2024-01": 117.6,
+   "2024-02": 118.1,
+   "2024-03": 118.6,
+   "2024-04": 119.2,
+   "2024-05": 119.3,
+   "2024-06": 119.4,
+   "2024-07": 119.8,
+   "2024-08": 119.7,
+   "2024-09": 119.7,
+   "2024-10": 120.2,
+   "2024-11": 119.9,
+   "2024-12": 120.5,
+   "2025-01": 120.3,
+   "2025-02": 120.8,
+   "2025-03": 121.2,
+   "2025-04": 121.7,
+   "2025-05": 121.8,
+   "2025-06": 121.8,
+   "2025-07": 122.2,
+   "2025-08": 122.3,
+   "2025-09": 122.6,
+   "2025-10": 123.0,
+   "2025-11": 122.7,
+   "2025-12": 122.7,
+   "2026-01": 122.8,
+   "2026-02": 123.1,
+   "2026-03": 124.5,
+   "2026-04": 125.2,
+   "2026-05": 125.0,
+   "2026-06": 124.6,
+   "2026-07": 125.6,
+   "2026-08": 125.8
+  }
+ },
+ "sources": {
+  "bgb556d": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__556d.html",
+   "label": {
+    "de": "§ 556d BGB: zulässige Miete bei Mietbeginn (Mietpreisbremse)",
+    "en": "Section 556d BGB: permitted rent at the start of a tenancy (rent brake)"
+   }
+  },
+  "bgb556e": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__556e.html",
+   "label": {
+    "de": "§ 556e BGB: Vormiete und vorherige Modernisierung",
+    "en": "Section 556e BGB: previous rent and prior modernisation"
+   }
+  },
+  "bgb556f": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__556f.html",
+   "label": {
+    "de": "§ 556f BGB: Ausnahmen Neubau und umfassende Modernisierung",
+    "en": "Section 556f BGB: exemptions for new builds and full modernisation"
+   }
+  },
+  "bgb556g": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__556g.html",
+   "label": {
+    "de": "§ 556g BGB: Auskunft, Rüge und Rückforderung",
+    "en": "Section 556g BGB: disclosure, complaint and repayment"
+   }
+  },
+  "bgb557a": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__557a.html",
+   "label": {
+    "de": "§ 557a BGB: Staffelmiete",
+    "en": "Section 557a BGB: graduated rent"
+   }
+  },
+  "bgb557b": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__557b.html",
+   "label": {
+    "de": "§ 557b BGB: Indexmiete",
+    "en": "Section 557b BGB: index-linked rent"
+   }
+  },
+  "bgb558": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__558.html",
+   "label": {
+    "de": "§ 558 BGB: Mieterhöhung bis zur ortsüblichen Vergleichsmiete, Kappungsgrenze",
+    "en": "Section 558 BGB: increase up to the local reference rent, increase cap"
+   }
+  },
+  "bgb558a": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__558a.html",
+   "label": {
+    "de": "§ 558a BGB: Form und Begründung der Mieterhöhung",
+    "en": "Section 558a BGB: form and justification of a rent increase"
+   }
+  },
+  "bgb558b": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__558b.html",
+   "label": {
+    "de": "§ 558b BGB: Zustimmung zur Mieterhöhung",
+    "en": "Section 558b BGB: consent to a rent increase"
+   }
+  },
+  "bgb558d": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__558d.html",
+   "label": {
+    "de": "§ 558d BGB: qualifizierter Mietspiegel",
+    "en": "Section 558d BGB: qualified rent index"
+   }
+  },
+  "bgb559": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__559.html",
+   "label": {
+    "de": "§ 559 BGB: Mieterhöhung nach Modernisierung",
+    "en": "Section 559 BGB: rent increase after modernisation"
+   }
+  },
+  "bgb559c": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__559c.html",
+   "label": {
+    "de": "§ 559c BGB: vereinfachtes Verfahren",
+    "en": "Section 559c BGB: simplified procedure"
+   }
+  },
+  "bgb559e": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__559e.html",
+   "label": {
+    "de": "§ 559e BGB: Mieterhöhung nach Einbau einer Heizungsanlage",
+    "en": "Section 559e BGB: rent increase after a new heating system"
+   }
+  },
+  "bgb551": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__551.html",
+   "label": {
+    "de": "§ 551 BGB: Mietsicherheit (Kaution)",
+    "en": "Section 551 BGB: rental deposit"
+   }
+  },
+  "bgb536": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__536.html",
+   "label": {
+    "de": "§ 536 BGB: Mietminderung bei Sach- und Rechtsmängeln",
+    "en": "Section 536 BGB: rent reduction for defects"
+   }
+  },
+  "bgb556": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__556.html",
+   "label": {
+    "de": "§ 556 BGB: Betriebskosten, Abrechnungs- und Einwendungsfrist",
+    "en": "Section 556 BGB: service charges, statement and objection deadlines"
+   }
+  },
+  "bgb556a": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__556a.html",
+   "label": {
+    "de": "§ 556a BGB: Umlageschlüssel der Betriebskosten",
+    "en": "Section 556a BGB: how service charges are split"
+   }
+  },
+  "bgb560": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__560.html",
+   "label": {
+    "de": "§ 560 BGB: Anpassung von Pauschale und Vorauszahlungen",
+    "en": "Section 560 BGB: adjusting flat rates and advance payments"
+   }
+  },
+  "bgb573c": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__573c.html",
+   "label": {
+    "de": "§ 573c BGB: Fristen der ordentlichen Kündigung",
+    "en": "Section 573c BGB: notice periods"
+   }
+  },
+  "bgb569": {
+   "url": "https://www.gesetze-im-internet.de/bgb/__569.html",
+   "label": {
+    "de": "§ 569 BGB: fristlose Kündigung, Kautionsverzug",
+    "en": "Section 569 BGB: termination without notice, deposit arrears"
+   }
+  },
+  "betrkv": {
+   "url": "https://www.gesetze-im-internet.de/betrkv/__2.html",
+   "label": {
+    "de": "Betriebskostenverordnung (BetrKV) § 2: Aufstellung der Betriebskosten",
+    "en": "Service Charges Ordinance (BetrKV) Section 2: list of service charges"
+   }
+  },
+  "betrkv1": {
+   "url": "https://www.gesetze-im-internet.de/betrkv/__1.html",
+   "label": {
+    "de": "BetrKV § 1: Verwaltungs- und Instandhaltungskosten sind keine Betriebskosten",
+    "en": "BetrKV Section 1: management and repair costs are not service charges"
+   }
+  },
+  "heizkostenv7": {
+   "url": "https://www.gesetze-im-internet.de/heizkostenv/__7.html",
+   "label": {
+    "de": "Heizkostenverordnung § 7: Verteilung der Heizkosten",
+    "en": "Heating Costs Ordinance Section 7: splitting heating costs"
+   }
+  },
+  "heizkostenv12": {
+   "url": "https://www.gesetze-im-internet.de/heizkostenv/__12.html",
+   "label": {
+    "de": "Heizkostenverordnung § 12: Kürzungsrecht",
+    "en": "Heating Costs Ordinance Section 12: right to deduct"
+   }
+  },
+  "co2kostaufg": {
+   "url": "https://www.gesetze-im-internet.de/co2kostaufg/anlage.html",
+   "label": {
+    "de": "Kohlendioxidkostenaufteilungsgesetz (CO2KostAufG), Anlage: Stufenmodell",
+    "en": "Carbon Cost Allocation Act (CO2KostAufG), annex: ten-step model"
+   }
+  },
+  "co2kostaufg7": {
+   "url": "https://www.gesetze-im-internet.de/co2kostaufg/__7.html",
+   "label": {
+    "de": "CO2KostAufG § 7: Ermittlung und Kürzungsrecht 3 Prozent",
+    "en": "CO2KostAufG Section 7: calculation and 3 per cent deduction"
+   }
+  },
+  "behg10": {
+   "url": "https://www.gesetze-im-internet.de/behg/__10.html",
+   "label": {
+    "de": "Brennstoffemissionshandelsgesetz (BEHG) § 10: CO2-Preis",
+    "en": "Fuel Emissions Trading Act (BEHG) Section 10: CO2 price"
+   }
+  },
+  "woflv": {
+   "url": "https://www.gesetze-im-internet.de/woflv/__4.html",
+   "label": {
+    "de": "Wohnflächenverordnung (WoFlV) § 4: Anrechnung der Grundflächen",
+    "en": "Living Space Ordinance (WoFlV) Section 4: counting floor areas"
+   }
+  },
+  "vpi": {
+   "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/Tabellen/Verbraucherpreise-12Kategorien.html",
+   "label": {
+    "de": "Statistisches Bundesamt: Verbraucherpreisindex für Deutschland, 2020 = 100",
+    "en": "Federal Statistical Office: consumer price index for Germany, 2020 = 100"
+   }
+  },
+  "berlinMs": {
+   "url": "https://mietspiegel.berlin.de/",
+   "label": {
+    "de": "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen: Berliner Mietspiegel 2026",
+    "en": "Berlin Senate Department for Urban Development, Building and Housing: Berlin rent index 2026"
+   }
+  },
+  "berlinBk": {
+   "url": "https://www.berlin.de/sen/wohnen/service/betriebskostenuebersicht/",
+   "label": {
+    "de": "Senatsverwaltung Berlin: Berliner Betriebskostenübersicht 2026 (Abrechnungsjahr 2024)",
+    "en": "Berlin Senate: Berlin service-charge overview 2026 (charges for 2024)"
+   }
+  }
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "city": "Dortmund",
+ "edition": "Mietspiegel Dortmund 2025/2026 für nicht preisgebundene Wohnungen (Fortschreibung des Mietspiegels 2023/2024)",
+ "stichtag": "2024-05-01 ('Die Angaben des Mietspiegels entsprechen dem Stand Mai 2024'; Open-Data: 'Stichtag der Erhebung: 1. Mai 2024')",
+ "gueltig_ab": "2025-01-01",
+ "gueltig_bis": "2026-12-31",
+ "qualifiziert": true,
+ "herausgeber": "Stadt Dortmund, Amt für Wohnen (veröffentlicht als Sonderdruck der Dortmunder Bekanntmachungen – Amtsblatt der Stadt Dortmund Nr. 53 vom 20.12.2024; Herausgeberin: Stadt Dortmund, Der Oberbürgermeister)",
+ "ersteller": "Stadt Dortmund, Amt für Wohnen (eigene repräsentative Eigentümerbefragung, Auswertung mit Dortmunder Statistik), begleitet von InWIS Forschung & Beratung GmbH; Arbeitskreis: Haus & Grund Dortmund, DMB Mieterbund Dortmund, Mieterverein Dortmund und Umgebung, Arbeitsgemeinschaft Dortmunder Wohnungsunternehmen, Gutachterausschuss. Anerkannt von allen außer DMB Mieterbund Dortmund e.V.",
+ "url_seite": "https://www.dortmund.de/themen/wohnen/mietspiegel/",
+ "url_pdf": "https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/amt-fuer-wohnen/downloads/mietspiegel/mietspiegel-dortmund-2025_2026.pdf",
+ "url_pdf_alt": "https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/amt-fuer-wohnen/downloads/mietspiegel/mietspiegel-dortmund-2025_2026-2.pdf",
+ "url_pdf_dokumentation": "https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/amt-fuer-wohnen/downloads/mietspiegel/dokumentation-mietspiegel-fortschreibung.pdf",
+ "url_open_data": "https://open-data.dortmund.de/explore/dataset/fb64-mietspiegel-2025-2026/",
+ "url_gebietskarte": "https://geoweb1.digistadtdo.de/doris_gdi/mapapps4/resources/apps/mietspiegel/index.html",
+ "url_open_data_gebiete": "https://open-data.dortmund.de/explore/dataset/mietspiegelgrenzen/",
+ "rights_class": "A",
+ "rights_quote": "Open-Data-Portal Dortmund, Datensatz 'Mietspiegel 2025-2026 - Fortschreibung' (publisher: Stadt Dortmund; attributions: 'Amt für Wohnen', 'InWIS Forschung & Beratung GmbH'): license 'Datenlizenz Deutschland - Zero- Version 2.0' (https://www.govdata.de/dl-de/zero-2-0). Ebenso Datensatz 'Mietspiegelgrenzen': 'Datenlizenz Deutschland - Zero- Version 2.0'. Der Mietspiegel selbst ist als amtliche Bekanntmachung im Amtsblatt veröffentlicht ('Dortmunder Bekanntmachungen – Amtsblatt der Stadt Dortmund Nr. 53 – 80. Jahrgang Freitag, 20. Dezember 2024', Sonderdruck); im PDF kein Urheber-/Nachdruckvorbehalt gefunden.",
+ "rights_url": "https://open-data.dortmund.de/api/v2/catalog/datasets/fb64-mietspiegel-2025-2026 ; https://www.govdata.de/dl-de/zero-2-0 ; https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/amt-fuer-wohnen/downloads/mietspiegel/mietspiegel-dortmund-2025_2026.pdf",
+ "rights_note": "Der Open-Data-Datensatz enthält die 2.443 Erhebungsfälle (Nettokaltmiete €/m² mit Merkmalen), nicht die Tabelle selbst; die Tabelle/Zu-/Abschläge stehen im Amtsblatt-Sonderdruck (amtliche Bekanntmachung, §5 Abs. 1 UrhG) ohne Vorbehalt. Damit Wiederverwendung zulässig; Quellenangabe empfohlen: 'Stadt Dortmund, Amt für Wohnen – Mietspiegel Dortmund 2025/2026 (Dortmunder Bekanntmachungen Nr. 53 v. 20.12.2024)'. Vorgänger-Datensatz 2023-2024 unter dl-de/by-2.0.",
+ "scheme_type": "table + Zu-/Abschläge (Basismiete nach Baujahresklasse für 60,01–80 m², additive Zu-/Abschläge in €/m²)",
+ "data": {
+  "einheit": "EUR/m² Wohnfläche monatlich, Nettokaltmiete (ohne Heiz- und Betriebskosten)",
+  "mittelwert_art": "arithmetisches Mittel; Spanne = Zwei-Drittel-Spanne (je ein Sechstel der Fälle oben/unten entfernt)",
+  "geltungsbereich": "nicht preisgebundene Wohnungen in Gebäuden mit 3+ Wohnungen, 20–145 m², Baujahr bis 2019; nicht für Ein-/Zweifamilienhäuser, möblierte Wohnungen, Substandard ohne WC",
+  "referenz_wohnflaeche": "60,01 bis 80,00 m²",
+  "anwendung": "Zu- und Abschläge werden auf Mittelwert UND Spannenwerte addiert bzw. abgezogen (Punkt 5). Ausstattung nur, wenn vom Vermieter eingebracht.",
+  "basistabelle": [
+   {
+    "baujahr": "bis 1909",
+    "untergrenze": 4.73,
+    "mittelwert": 5.9,
+    "obergrenze": 7.16
+   },
+   {
+    "baujahr": "1910–1934",
+    "untergrenze": 4.61,
+    "mittelwert": 5.73,
+    "obergrenze": 6.83
+   },
+   {
+    "baujahr": "1935–1959",
+    "untergrenze": 5.23,
+    "mittelwert": 6.29,
+    "obergrenze": 7.41
+   },
+   {
+    "baujahr": "1960–1969",
+    "untergrenze": 5.43,
+    "mittelwert": 6.3,
+    "obergrenze": 7.18
+   },
+   {
+    "baujahr": "1970–1981",
+    "untergrenze": 4.98,
+    "mittelwert": 6.0,
+    "obergrenze": 6.96
+   },
+   {
+    "baujahr": "1982–1994",
+    "untergrenze": 5.45,
+    "mittelwert": 6.5,
+    "obergrenze": 7.68
+   },
+   {
+    "baujahr": "1995–2009",
+    "untergrenze": 5.72,
+    "mittelwert": 6.83,
+    "obergrenze": 7.94
+   },
+   {
+    "baujahr": "2010–2014",
+    "untergrenze": 5.8,
+    "mittelwert": 7.37,
+    "obergrenze": 8.99
+   },
+   {
+    "baujahr": "2015–2019",
+    "untergrenze": 8.1,
+    "mittelwert": 10.19,
+    "obergrenze": 12.67
+   }
+  ],
+  "zuschlaege_eur_m2": {
+   "5.1 Wohnungsgröße": {
+    "20,00 bis 25 m²": 1.74,
+    "25,01 bis 30 m²": 1.29,
+    "30,01 bis 35 m²": 1.28,
+    "35,01 bis 40 m²": 0.92,
+    "40,01 bis 45 m²": 0.57,
+    "45,01 bis 50 m²": 0.44,
+    "50,01 bis 60 m²": 0.2,
+    "60,01 bis 80 m²": 0.0,
+    "80,01 bis 110 m²": -0.05,
+    "110,01 bis 145 m²": -0.13
+   },
+   "5.1 Wohnungstyp": {
+    "Appartement (abgeschlossene Einzimmerwohnung mit Bad/Dusche, WC, ausgestatteter Kochnische, bis 50,00 m²; kombinierbar mit Kleinwohnungszuschlag)": 0.54,
+    "Maisonette- oder Galerie-Wohnung": 0.07,
+    "Dachgeschoss-Wohnung": 0.05,
+    "Souterrain-Wohnung": -0.09
+   },
+   "5.2 Bad-Ausstattung (Standard: Bad mit WC und Badewanne)": {
+    "Zusätzliches, zweites WC (Gäste-WC)": 0.22,
+    "Badezimmer mit Dusche (auch mit zusätzlicher Badewanne)": 0.16,
+    "Zweites Badezimmer mit WC": 0.29,
+    "Kein Badezimmer in der Wohnung": -0.7
+   },
+   "5.3 Bodenbeläge (Standard: Laminat/Teppich/einfaches PVC)": {
+    "Parkettboden oder aufgearbeitete Hobeldielen": 0.54,
+    "Keramik-/Natursteinboden": 0.17,
+    "Hochwertiger PVC-Bodenbelag (fest verklebter Designboden/Vinylboden)": 0.21,
+    "Ohne Oberböden vermietet": -0.11
+   },
+   "5.4 Beheizungsart (Standard: Zentralheizung)": {
+    "Etagenheizung": 0.03,
+    "Fernwärmeheizung": -0.07,
+    "Einzelöfen (Gas, Kohle, Öl) oder Heizung nicht vom Vermieter gestellt": -0.51
+   },
+   "5.5 Verglasung (Standard: Isolierverglasung)": {
+    "Doppelkastenfenster": -0.18,
+    "Wärmeschutzverglasung (U-Wert 1,1 bis 1,9)": 0.03,
+    "Höherwertige Wärmeschutzverglasung (U-Wert 1,0 und darunter)": 0.42
+   },
+   "5.5 Außenflächen (Standard: Balkon/Loggia/Terrasse)": {
+    "Kein Balkon, keine Loggia und keine Terrasse (ohne Garten) zur alleinigen Nutzung oder nur Austritt": -0.04,
+    "Garten zur alleinigen Nutzung durch die Mietpartei": 0.44
+   },
+   "5.5 Aufzug und Barrierefreiheit": {
+    "Wohnung über einen Aufzug erreichbar (Gebäude bis einschl. fünf bewohnte Geschosse)": 0.23,
+    "Barrierearme Erstellung oder Modernisierung (mind. 2 von: bodengleiche Dusche, Bewegungsflächen, Türbreiten ≥ 90 cm)": 0.43
+   },
+   "5.5 Weitere sonstige Merkmale": {
+    "Fußbodenheizung": 0.12,
+    "Elektrisch betriebene Rollläden/Fensterläden an überwiegend allen Fenstern": 0.34,
+    "Offene Küche": 0.08,
+    "Einen oder mehrere gefangene Räume bzw. Durchgangszimmer": -0.09,
+    "Keine Gegensprechanlage mit Türöffnerfunktion vorhanden": -0.13,
+    "Warmwasser zusätzlich über Boiler/Untertischgerät/Durchlauferhitzer (Strom)": -0.08
+   },
+   "5.6 Modernisierung (nur Gebäude vor 1980 errichtet, vom Vermieter durchgeführt)": {
+    "Erneuerung/Austausch der gesamten Heizungsanlage 2009 und danach": 0.34,
+    "Baderneuerung/-modernisierung 2009 bis 2014": 0.08,
+    "Baderneuerung/-modernisierung 2015 und danach": 0.18,
+    "Erneuerung/Modernisierung der Fenster 2015 und danach": 0.13,
+    "Vollständige Erneuerung der Elektroinstallation 2009 und danach": 0.07,
+    "Erneuerung/Austausch des Fußbodenbelages bzw. Aufbereitung Parkett/Hobeldielen 2009 und danach": 0.04,
+    "Nachträgliche Dämmung Außenwände, Dach/oberste Geschossdecke und Kellerdecke 1995 bis 2014": 0.15,
+    "Nachträgliche Dämmung Außenwände, Dach/oberste Geschossdecke und Kellerdecke 2015 und danach": 0.3
+   },
+   "5.7 Gebietseinteilung/Wohnumfeld": {
+    "Innenstadt-Mitte (1)": 0.91,
+    "Innenstadt-Nord (2)": 0.09,
+    "Dortmund-West (3)": 0.0,
+    "Dortmund-Nord (4)": 0.04,
+    "Dortmund-Ost (5)": 0.28,
+    "Dortmund-Süd (6)": 0.65,
+    "Hörde (7)": 0.64
+   }
+  },
+  "ohne_einfluss": "Zweites Bad ohne WC, BHKW/Nahwärme, Nachtstromspeicher/Elektroheizung, Wärmeschutzverglasung mit Schallschutz, Schallschutzfenster, Wasserzähler, Austausch nur des Heizkessels: kein Zu-/Abschlag; Lärm > 65 dB(A): kein eindeutiger Einfluss, ggf. Abschlag innerhalb der Spanne",
+  "betriebskosten_umrechnung_eur_m2": {
+   "Entwässerung": 0.41,
+   "Straßenreinigung": 0.05,
+   "Müllabfuhr": 0.31,
+   "Sach- und Haftpflichtversicherungen": 0.42
+  },
+  "beispiel": "Baujahr 1950, 63 m²: Mittelwert 6,29 (5,23–7,41); Zuschläge Dusche 0,16 + hochwertiger PVC 0,21 + Wärmeschutzverglasung 0,03 + Aufzug 0,23 + gefangener Raum -0,09 + Baderneuerung ab 2015 0,18 + Innenstadt-Nord 0,09 = 0,81 €/m² -> ortsübliche Vergleichsmiete 7,10 €/m², Spanne 6,04–8,22 €/m² (Rechnung geprüft: 6,29+0,81=7,10; 5,23+0,81=6,04; 7,41+0,81=8,22)"
+ },
+ "kennzahl_wert": null,
+ "kennzahl_text": "Keine stadtweite Durchschnittsmiete in €/m² angegeben. Pressemitteilung: 'Die ortsübliche Vergleichsmiete in Dortmund ist im Vergleich zum bisherigen Spiegel um insgesamt 5,01 Prozent gestiegen.'",
+ "kennzahl_quelle": "https://www.dortmund.de/newsroom/presse-mitteilungen/neuer-mietspiegel-2025-26-in-dortmund-sind-die-mieten-um-rund-fuenf-prozent-gestiegen.html",
+ "notes": "Werte gegen Rohtext (pypdf) beider PDF-Versionen geprüft (Textinhalt identisch). Druckfehler im Original-Beispiel: Zwischensumme einmal 0,81, einmal '0,77 €/m²' – korrekte Summe 0,81. Tabelle Punkt 5.1: '20,00 bis 25 m²', im Beispiel '20,01 bis 25 m²'. Laufzeit bis 31.12.2026 -> ab 2027 neuer (voraussichtlich neu erstellter) Mietspiegel zu erwarten; Seite ab Jan. 2027 neu prüfen."
+}

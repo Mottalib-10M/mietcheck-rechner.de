@@ -1,0 +1,4 @@
+== landesrecht.sachsen-anhalt.de (Chrome, 12.10.2026)
+Suche "Mietpreisbegrenzung": 0 Treffer. Suche "Kappungsgrenzenverordnung": 0 Treffer.
+Suche "angespannten Wohnungsmärkten": 7 Treffer, nur Gerichtsentscheidungen (SGB II) und MietwohnungsbauRL – keine Landesnorm nach § 556d / § 558 Abs. 3 BGB.
+Suche "Kappungsgrenze": 110 Treffer, erste 25 nach Relevanz ausschließlich Gerichtsentscheidungen (in TH stand die VO bei gleicher Suche auf Platz 1).

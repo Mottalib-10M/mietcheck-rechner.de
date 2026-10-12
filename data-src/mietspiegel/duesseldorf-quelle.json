@@ -1,0 +1,21 @@
+{
+ "city": "Düsseldorf",
+ "edition": "Mietspiegel für die Landeshauptstadt Düsseldorf, gültig ab 1. August 2026",
+ "stichtag": null,
+ "gueltig_ab": "2026-08-01",
+ "gueltig_bis": null,
+ "qualifiziert": false,
+ "herausgeber": "Haus und Grund Düsseldorf und Umgebung e.V. und Mieterverein Düsseldorf e.V.",
+ "ersteller": "Haus und Grund Düsseldorf und Umgebung e.V. und Mieterverein Düsseldorf e.V. (laut Stadt Düsseldorf: 'Der Mietspiegel wird vom Mieterverein Düsseldorf e.V. sowie Haus und Grund Düsseldorf und Umgebung e.V. erstellt.')",
+ "url_seite": "https://miete-duesseldorf.de/",
+ "url_pdf": "https://hausundgrundddf.de/wp-content/uploads/2026/08/Mietspiegel-Duesseldorf-08-2026_web_s.pdf",
+ "rights_class": "C",
+ "rights_quote": "Jede PDF-Seite: '© 2026 urheberrechtlich geschützt, Abdruck verboten' ; S. 6: 'Schutzgebühr 4,00 €'. Impressum miete-duesseldorf.de: 'Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.'",
+ "rights_url": "https://hausundgrundddf.de/wp-content/uploads/2026/08/Mietspiegel-Duesseldorf-08-2026_web_s.pdf ; https://miete-duesseldorf.de/impressum/",
+ "scheme_type": "table (Baujahr x Wohnlage einfach/mittel/gut, Spanne + Mittelwert, plus €/%-Zu-/Abschläge)",
+ "data": {},
+ "notes": "Privates Werk zweier Vereine, kein amtliches Werk; ausdrücklicher Vorbehalt -> Zahlen NICHT übernehmen, Schema nicht extrahiert. Kein Hinweis auf Qualifizierung im PDF gefunden (einfacher Mietspiegel); Stadt verweist auf www.miete-duesseldorf.de. Kein Stichtag im PDF angegeben.",
+ "kennzahl_wert": null,
+ "kennzahl_text": "Kein Durchschnitt angegeben (privater Mietspiegel von Haus und Grund/Mieterverein; Seite und PDF ohne Gesamtmittel).",
+ "kennzahl_quelle": null
+}

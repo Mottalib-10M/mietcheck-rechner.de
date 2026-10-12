@@ -1,0 +1,973 @@
+{
+ "city": "Hamburg",
+ "edition": "Hamburger Mietenspiegel 2025",
+ "stichtag": "2025-04-01",
+ "gueltig_ab": "2025-12-09",
+ "gueltig_bis": null,
+ "qualifiziert": true,
+ "herausgeber": "Freie und Hansestadt Hamburg, Behörde für Stadtentwicklung und Wohnen (Amt für Wohnen, Stadterneuerung und Bodenordnung)",
+ "ersteller": "ALP Institut für Wohnen und Stadtentwicklung GmbH (Datenerhebung), unter Leitung der BSW mit Arbeitskreis (Mieter-/Vermieterverbände, Richter, ÖRA)",
+ "url_seite": "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-stadtentwicklung-und-wohnen/themen/wohnen/mieten/mietenspiegel",
+ "url_pdf": "https://dokumente.hamburg.de/resource/blob/1125230/3093f3df24f683693c3b5eaac67bedd0/d-mietenspiegel-tabelle-2025-data.pdf",
+ "url_pdf_broschuere": "https://dokumente.hamburg.de/resource/blob/1125234/4c27733314ff7c3144a31415cea3924c/d-mietenspiegel-broschuere-2025-data.pdf",
+ "url_open_data": "https://api.hamburg.de/datasets/v1/mietenspiegel/collections/mietenspiegel_daten/items?f=json&limit=100",
+ "rights_class": "A",
+ "rights_quote": "Transparenzportal Hamburg, Datensatz 'Hamburger Mietenspiegel' (Herausgeber BSW, Stand 2025-04-01 laut API-Metadaten): Lizenz 'dl-de-by-2.0 Datenlizenz Deutschland - Namensnennung - 2.0' (http://www.govdata.de/dl-de/by-2-0). Tabelle selbst: 'Jede Verwendung dieser Tabelle mit abweichenden Werten ist unzulässig.' Portal-Impressum hamburg.de (allgemein): 'Die Seiten dürfen nur zum privaten Gebrauch vervielfältigt, Änderungen nicht vorgenommen und Vervielfältigungsstücke ohne Genehmigung nicht verbreitet werden.'",
+ "rights_url": "https://suche.transparenz.hamburg.de/dataset/hamburger-mietenspiegel35 ; https://www.hamburg.de/politik-und-verwaltung/behoerden/senatskanzlei/impressum-fhh-31974",
+ "rights_note": "Die Tabellenwerte sind als offene Daten unter DL-DE-BY-2.0 veröffentlicht (WFS/OGC-API, CSV/JSON) -> Wiederverwendung mit Namensnennung 'Freie und Hansestadt Hamburg, Behörde für Stadtentwicklung und Wohnen, Hamburger Mietenspiegel 2025, Datenlizenz Deutschland – Namensnennung – Version 2.0'. Die allgemeine Urheberrechtsklausel des Portals betrifft Layout/Beiträge der Webseiten; für den Datensatz gilt die spezielle offene Lizenz. Werte nur unverändert verwenden (Tabellenhinweis). Keine Veröffentlichung im Amtlichen Anzeiger gefunden.",
+ "scheme_type": "table",
+ "data": {
+  "einheit": "EUR/m² Nettokaltmiete monatlich, ohne Heizung und ohne Betriebskosten",
+  "mittelwert_art": "Median (erstmals 2025; nicht mit arithmetischen Mitteln früherer Mietenspiegel vergleichbar)",
+  "spanne_definition": "Die Mietspannen stellen die höchsten und niedrigsten Werte von zwei Dritteln der Mieten je Tabellenfeld als Orientierungshilfe dar.",
+  "ausstattung": "alle Spalten: mit Bad und Sammelheizung (Wohnungen ohne Bad/Sammelheizung/WC sind nicht erfasst)",
+  "spalten_baualter": {
+   "C": "bis 31.12.1918",
+   "F": "1.1.1919 bis 20.6.1948",
+   "H": "21.6.1948 bis 1960",
+   "I": "1961 bis 1967",
+   "K": "1968 bis 1977",
+   "L": "1978 bis 1993",
+   "M": "1994 bis 2010",
+   "N": "2011 bis 2015",
+   "O": "2016 bis 2020",
+   "P": "2021 bis 2024"
+  },
+  "zeilen": {
+   "1": "normale Wohnlage, bis unter 41 m²",
+   "2": "normale Wohnlage, 41 bis unter 66 m²",
+   "3": "normale Wohnlage, 66 bis unter 91 m²",
+   "4": "normale Wohnlage, ab 91 m²",
+   "5": "gute Wohnlage, bis unter 41 m²",
+   "6": "gute Wohnlage, 41 bis unter 66 m²",
+   "7": "gute Wohnlage, 66 bis unter 91 m²",
+   "8": "gute Wohnlage, 91 bis unter 131 m²",
+   "9": "gute Wohnlage, ab 131 m²"
+  },
+  "felder": [
+   {
+    "feld": "C1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "C",
+    "mittelwert": 13.77,
+    "spanne_min": 10.81,
+    "spanne_max": 17.17
+   },
+   {
+    "feld": "F1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "F",
+    "mittelwert": 10.49,
+    "spanne_min": 9.57,
+    "spanne_max": 12.88
+   },
+   {
+    "feld": "H1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "H",
+    "mittelwert": 9.46,
+    "spanne_min": 8.52,
+    "spanne_max": 12.42
+   },
+   {
+    "feld": "I1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "I",
+    "mittelwert": 9.01,
+    "spanne_min": 8.01,
+    "spanne_max": 14.05
+   },
+   {
+    "feld": "K1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "K",
+    "mittelwert": 10.26,
+    "spanne_min": 8.28,
+    "spanne_max": 14.16
+   },
+   {
+    "feld": "L1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "L",
+    "mittelwert": 11.55,
+    "spanne_min": 8.57,
+    "spanne_max": 14.93
+   },
+   {
+    "feld": "M1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "M",
+    "mittelwert": 12.23,
+    "spanne_min": 10.17,
+    "spanne_max": 16.37
+   },
+   {
+    "feld": "N1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "N",
+    "mittelwert": 18.5,
+    "spanne_min": 16.19,
+    "spanne_max": 19.66
+   },
+   {
+    "feld": "O1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "O",
+    "mittelwert": 16.64,
+    "spanne_min": 13.72,
+    "spanne_max": 18.86
+   },
+   {
+    "feld": "P1",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "P",
+    "mittelwert": 19.78,
+    "spanne_min": 13.05,
+    "spanne_max": 25.01
+   },
+   {
+    "feld": "C2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "C",
+    "mittelwert": 11.5,
+    "spanne_min": 9.65,
+    "spanne_max": 15.0
+   },
+   {
+    "feld": "F2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "F",
+    "mittelwert": 9.34,
+    "spanne_min": 7.95,
+    "spanne_max": 12.41
+   },
+   {
+    "feld": "H2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "H",
+    "mittelwert": 8.59,
+    "spanne_min": 7.7,
+    "spanne_max": 11.31
+   },
+   {
+    "feld": "I2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "I",
+    "mittelwert": 7.56,
+    "spanne_min": 7.25,
+    "spanne_max": 10.82
+   },
+   {
+    "feld": "K2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "K",
+    "mittelwert": 9.73,
+    "spanne_min": 7.33,
+    "spanne_max": 13.66
+   },
+   {
+    "feld": "L2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "L",
+    "mittelwert": 9.33,
+    "spanne_min": 7.69,
+    "spanne_max": 12.91
+   },
+   {
+    "feld": "M2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "M",
+    "mittelwert": 11.35,
+    "spanne_min": 9.12,
+    "spanne_max": 13.72
+   },
+   {
+    "feld": "N2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "N",
+    "mittelwert": 15.26,
+    "spanne_min": 12.18,
+    "spanne_max": 18.03
+   },
+   {
+    "feld": "O2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "O",
+    "mittelwert": 14.77,
+    "spanne_min": 12.18,
+    "spanne_max": 18.83
+   },
+   {
+    "feld": "P2",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "P",
+    "mittelwert": 17.41,
+    "spanne_min": 12.0,
+    "spanne_max": 21.15
+   },
+   {
+    "feld": "C3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "C",
+    "mittelwert": 11.57,
+    "spanne_min": 9.16,
+    "spanne_max": 15.61
+   },
+   {
+    "feld": "F3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "F",
+    "mittelwert": 9.29,
+    "spanne_min": 7.81,
+    "spanne_max": 11.94
+   },
+   {
+    "feld": "H3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "H",
+    "mittelwert": 8.5,
+    "spanne_min": 7.8,
+    "spanne_max": 11.13
+   },
+   {
+    "feld": "I3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "I",
+    "mittelwert": 6.93,
+    "spanne_min": 6.44,
+    "spanne_max": 10.0
+   },
+   {
+    "feld": "K3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "K",
+    "mittelwert": 6.76,
+    "spanne_min": 6.25,
+    "spanne_max": 9.48
+   },
+   {
+    "feld": "L3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "L",
+    "mittelwert": 8.59,
+    "spanne_min": 7.17,
+    "spanne_max": 12.32
+   },
+   {
+    "feld": "M3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "M",
+    "mittelwert": 10.69,
+    "spanne_min": 8.93,
+    "spanne_max": 13.5
+   },
+   {
+    "feld": "N3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "N",
+    "mittelwert": 14.86,
+    "spanne_min": 11.95,
+    "spanne_max": 17.32
+   },
+   {
+    "feld": "O3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "O",
+    "mittelwert": 15.28,
+    "spanne_min": 12.18,
+    "spanne_max": 18.44
+   },
+   {
+    "feld": "P3",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "P",
+    "mittelwert": 17.61,
+    "spanne_min": 14.26,
+    "spanne_max": 21.42
+   },
+   {
+    "feld": "C4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "C",
+    "mittelwert": 10.89,
+    "spanne_min": 9.49,
+    "spanne_max": 14.72
+   },
+   {
+    "feld": "F4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "F",
+    "mittelwert": 11.94,
+    "spanne_min": 8.46,
+    "spanne_max": 13.37
+   },
+   {
+    "feld": "H4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "H",
+    "mittelwert": 11.1,
+    "spanne_min": 6.87,
+    "spanne_max": 14.52
+   },
+   {
+    "feld": "I4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "I",
+    "mittelwert": 8.0,
+    "spanne_min": 6.92,
+    "spanne_max": 12.49
+   },
+   {
+    "feld": "K4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "K",
+    "mittelwert": 7.73,
+    "spanne_min": 6.4,
+    "spanne_max": 11.18
+   },
+   {
+    "feld": "L4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "L",
+    "mittelwert": 8.95,
+    "spanne_min": 6.57,
+    "spanne_max": 11.59
+   },
+   {
+    "feld": "M4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "M",
+    "mittelwert": 11.92,
+    "spanne_min": 9.62,
+    "spanne_max": 14.51
+   },
+   {
+    "feld": "N4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "N",
+    "mittelwert": 15.17,
+    "spanne_min": 12.22,
+    "spanne_max": 18.32
+   },
+   {
+    "feld": "O4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "O",
+    "mittelwert": 14.31,
+    "spanne_min": 12.76,
+    "spanne_max": 18.33
+   },
+   {
+    "feld": "P4",
+    "wohnlage": "normal",
+    "wohnflaeche_m2": "ab 91",
+    "spalte": "P",
+    "mittelwert": 17.18,
+    "spanne_min": 13.5,
+    "spanne_max": 20.93
+   },
+   {
+    "feld": "C5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "C",
+    "mittelwert": 13.02,
+    "spanne_min": 6.6,
+    "spanne_max": 15.3
+   },
+   {
+    "feld": "F5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "F",
+    "mittelwert": 12.01,
+    "spanne_min": 9.44,
+    "spanne_max": 14.4
+   },
+   {
+    "feld": "H5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "H",
+    "mittelwert": 13.5,
+    "spanne_min": 9.48,
+    "spanne_max": 16.06
+   },
+   {
+    "feld": "I5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "I",
+    "mittelwert": 12.89,
+    "spanne_min": 11.06,
+    "spanne_max": 15.66
+   },
+   {
+    "feld": "K5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "K",
+    "mittelwert": 13.46,
+    "spanne_min": 11.48,
+    "spanne_max": 17.67
+   },
+   {
+    "feld": "L5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "L",
+    "mittelwert": 13.74,
+    "spanne_min": 9.24,
+    "spanne_max": 16.1
+   },
+   {
+    "feld": "M5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "M",
+    "mittelwert": 14.19,
+    "spanne_min": 12.02,
+    "spanne_max": 17.11,
+    "anzahl_unter_30": 17
+   },
+   {
+    "feld": "N5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "N",
+    "mittelwert": 15.91,
+    "spanne_min": 14.05,
+    "spanne_max": 19.91,
+    "anzahl_unter_30": 27
+   },
+   {
+    "feld": "O5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "O",
+    "mittelwert": 19.37,
+    "spanne_min": 16.77,
+    "spanne_max": 25.04
+   },
+   {
+    "feld": "P5",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "bis unter 41",
+    "spalte": "P",
+    "leer": true
+   },
+   {
+    "feld": "C6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "C",
+    "mittelwert": 12.93,
+    "spanne_min": 10.8,
+    "spanne_max": 16.56
+   },
+   {
+    "feld": "F6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "F",
+    "mittelwert": 11.41,
+    "spanne_min": 9.3,
+    "spanne_max": 14.73
+   },
+   {
+    "feld": "H6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "H",
+    "mittelwert": 11.04,
+    "spanne_min": 8.34,
+    "spanne_max": 14.83
+   },
+   {
+    "feld": "I6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "I",
+    "mittelwert": 10.48,
+    "spanne_min": 7.97,
+    "spanne_max": 14.02
+   },
+   {
+    "feld": "K6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "K",
+    "mittelwert": 12.43,
+    "spanne_min": 9.05,
+    "spanne_max": 16.47
+   },
+   {
+    "feld": "L6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "L",
+    "mittelwert": 11.95,
+    "spanne_min": 9.06,
+    "spanne_max": 15.45
+   },
+   {
+    "feld": "M6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "M",
+    "mittelwert": 13.78,
+    "spanne_min": 10.72,
+    "spanne_max": 15.76
+   },
+   {
+    "feld": "N6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "N",
+    "mittelwert": 16.12,
+    "spanne_min": 13.2,
+    "spanne_max": 18.69
+   },
+   {
+    "feld": "O6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "O",
+    "mittelwert": 16.08,
+    "spanne_min": 13.17,
+    "spanne_max": 20.3
+   },
+   {
+    "feld": "P6",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "41 bis unter 66",
+    "spalte": "P",
+    "mittelwert": 20.24,
+    "spanne_min": 15.65,
+    "spanne_max": 31.65
+   },
+   {
+    "feld": "C7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "C",
+    "mittelwert": 13.62,
+    "spanne_min": 10.97,
+    "spanne_max": 17.04
+   },
+   {
+    "feld": "F7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "F",
+    "mittelwert": 11.74,
+    "spanne_min": 8.53,
+    "spanne_max": 16.0
+   },
+   {
+    "feld": "H7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "H",
+    "mittelwert": 11.42,
+    "spanne_min": 8.44,
+    "spanne_max": 14.96
+   },
+   {
+    "feld": "I7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "I",
+    "mittelwert": 9.48,
+    "spanne_min": 7.4,
+    "spanne_max": 13.5
+   },
+   {
+    "feld": "K7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "K",
+    "mittelwert": 11.39,
+    "spanne_min": 7.83,
+    "spanne_max": 15.28
+   },
+   {
+    "feld": "L7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "L",
+    "mittelwert": 12.04,
+    "spanne_min": 8.62,
+    "spanne_max": 15.92
+   },
+   {
+    "feld": "M7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "M",
+    "mittelwert": 13.18,
+    "spanne_min": 10.03,
+    "spanne_max": 16.29
+   },
+   {
+    "feld": "N7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "N",
+    "mittelwert": 16.07,
+    "spanne_min": 13.63,
+    "spanne_max": 18.44
+   },
+   {
+    "feld": "O7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "O",
+    "mittelwert": 16.43,
+    "spanne_min": 13.89,
+    "spanne_max": 20.25
+   },
+   {
+    "feld": "P7",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "66 bis unter 91",
+    "spalte": "P",
+    "mittelwert": 18.38,
+    "spanne_min": 13.96,
+    "spanne_max": 24.7
+   },
+   {
+    "feld": "C8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "C",
+    "mittelwert": 12.54,
+    "spanne_min": 10.47,
+    "spanne_max": 16.95
+   },
+   {
+    "feld": "F8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "F",
+    "mittelwert": 11.5,
+    "spanne_min": 8.59,
+    "spanne_max": 14.8
+   },
+   {
+    "feld": "H8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "H",
+    "mittelwert": 13.36,
+    "spanne_min": 9.34,
+    "spanne_max": 15.8
+   },
+   {
+    "feld": "I8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "I",
+    "mittelwert": 11.73,
+    "spanne_min": 9.62,
+    "spanne_max": 14.35
+   },
+   {
+    "feld": "K8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "K",
+    "mittelwert": 12.51,
+    "spanne_min": 9.68,
+    "spanne_max": 15.68
+   },
+   {
+    "feld": "L8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "L",
+    "mittelwert": 12.39,
+    "spanne_min": 9.94,
+    "spanne_max": 14.84
+   },
+   {
+    "feld": "M8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "M",
+    "mittelwert": 14.63,
+    "spanne_min": 11.59,
+    "spanne_max": 19.0
+   },
+   {
+    "feld": "N8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "N",
+    "mittelwert": 15.58,
+    "spanne_min": 12.74,
+    "spanne_max": 19.09
+   },
+   {
+    "feld": "O8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "O",
+    "mittelwert": 16.55,
+    "spanne_min": 14.67,
+    "spanne_max": 20.0
+   },
+   {
+    "feld": "P8",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "91 bis unter 131",
+    "spalte": "P",
+    "mittelwert": 19.6,
+    "spanne_min": 15.66,
+    "spanne_max": 23.25
+   },
+   {
+    "feld": "C9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "C",
+    "mittelwert": 12.92,
+    "spanne_min": 10.8,
+    "spanne_max": 16.25
+   },
+   {
+    "feld": "F9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "F",
+    "mittelwert": 14.23,
+    "spanne_min": 11.52,
+    "spanne_max": 16.82
+   },
+   {
+    "feld": "H9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "H",
+    "mittelwert": 13.02,
+    "spanne_min": 12.24,
+    "spanne_max": 17.49,
+    "anzahl_unter_30": 17
+   },
+   {
+    "feld": "I9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "I",
+    "leer": true
+   },
+   {
+    "feld": "K9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "K",
+    "mittelwert": 13.04,
+    "spanne_min": 11.55,
+    "spanne_max": 16.24,
+    "anzahl_unter_30": 20
+   },
+   {
+    "feld": "L9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "L",
+    "mittelwert": 14.31,
+    "spanne_min": 11.04,
+    "spanne_max": 17.84,
+    "anzahl_unter_30": 25
+   },
+   {
+    "feld": "M9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "M",
+    "mittelwert": 16.0,
+    "spanne_min": 12.06,
+    "spanne_max": 19.31
+   },
+   {
+    "feld": "N9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "N",
+    "mittelwert": 18.19,
+    "spanne_min": 15.12,
+    "spanne_max": 21.45
+   },
+   {
+    "feld": "O9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "O",
+    "mittelwert": 19.14,
+    "spanne_min": 15.96,
+    "spanne_max": 24.59
+   },
+   {
+    "feld": "P9",
+    "wohnlage": "gut",
+    "wohnflaeche_m2": "ab 131",
+    "spalte": "P",
+    "mittelwert": 22.34,
+    "spanne_min": 17.43,
+    "spanne_max": 25.46,
+    "anzahl_unter_30": 22
+   }
+  ],
+  "leerfelder_hinweis": "Bei Leerfeldern können aufgrund einer zu geringen Datenbasis keine statistisch belastbaren Aussagen getroffen werden. (P5, I9)",
+  "sternchen_hinweis": "Für Felder mit weniger als 30 Datensätzen ist die Aussage eingeschränkt. (anzahl_unter_30 = angegebene Fallzahl)",
+  "spanneneinordnung": {
+   "regel": "Normale Wohnung mit Standardausstattung entsprechend Baualter -> vorwiegend im Bereich des Mittelwerts; schlechter ausgestattet -> unterer Bereich; besser ausgestattet/modernisiert -> oberer Bereich der Spanne. Keine € oder %-Werte für Zu-/Abschläge (qualitative Orientierungshilfe, nicht Teil des qualifizierten Mietenspiegels).",
+   "normalausstattung_6_3_1": [
+    "Spalten C-I: Küche mit Mindestausstattung (Spüle, Herd) + Stellflächen (unter ca. 50 m² auch Kochnische); Spalten K-P: Einbauküche",
+    "Warmwasserversorgung in Bad und Küche",
+    "Wohnungskaltwasserzähler (außer Ausnahmegenehmigung)",
+    "Fußboden aus Dielen, Steinholz oder Linoleum/Kunststoff/gleichwertig; in Küche, Bad, WC auch keramische Platten/Steinzeug",
+    "Abstellflächen innerhalb und/oder außerhalb der Wohnung",
+    "Aufzug in Gebäuden ab dem sechsten Geschoss",
+    "überwiegend Isolierverglasung oder Doppelfenster",
+    "Kabel-/Satellitenanschluss",
+    "Gegensprechanlage mit Türöffner",
+    "Balkon, Loggia oder Terrasse"
+   ],
+   "bessere_ausstattung_6_3_2": [
+    "Großzügige Badausstattung (zusätzliches Duschbad, zweiter Waschplatz, Bidet, aufwändige Fliesen)",
+    "zweites WC (Gäste-WC) – Ausnahmen (Normalausstattung): ab 91 m² in Spalten M-P; ab 91 m² in K und L in guter Lage; ab 131 m² in guter Lage insgesamt",
+    "Bad mit Fenster – Ausnahmen: Spalten C und F; ab 131 m² in guter Lage",
+    "zusätzliche Küchenausstattung (Geschirrspüler, Kühlschrank, Tiefkühlschrank) – Ausnahmen: Spalten N-P; Spalte M in guter Lage; ab 91 m² Spalte L in guter Lage",
+    "Aufzug bei bis zu fünfgeschossigen Häusern – Ausnahmen: Spalten N-P",
+    "Fahrradkeller/überdachter Fahrradstellplatz – Ausnahmen: Spalten M-P; ab 66 m² Spalte L in guter Lage"
+   ],
+   "art_6_1": "Wenige Wohnungen im Haus / obere Geschosse von Hochhäusern eher höher; Dachgeschoss (nicht neu errichtet), Souterrain, oberhalb 6. Geschoss ohne Aufzug eher niedriger.",
+   "energie_6_4_2": {
+    "regel": "Energiekennwert unterhalb der 2/3-Spanne der Tabelle -> energetisch besonders vorteilhaft (oberer Bereich); oberhalb -> besonders nachteilig. Kennwerte ohne Warmwasser: +20 kWh/m²a vor Vergleich.",
+    "tabelle_kwh_m2a": {
+     "_spalten": [
+      "Verbrauch <=9 WE",
+      "Verbrauch >=10 WE",
+      "Bedarf <=9 WE",
+      "Bedarf >=10 WE"
+     ],
+     "bis 31.12.1918": [
+      "154,3 (118,0–195,3)",
+      "142,0 (101,1–167,9)",
+      "168,5 (138,9–226,7)",
+      "156,7 (108,6–200,0)"
+     ],
+     "1.1.1919-20.6.1948": [
+      "136,8 (113,0–198,1)",
+      "139,0 (105,0–170,5)",
+      "160,1 (120,4–250,8)",
+      "160,6 (110,0–248,2)"
+     ],
+     "21.6.1948-31.12.1960": [
+      "139,3 (111,3–170,0)",
+      "138,8 (111,8–172,6)",
+      "127,9 (105,3–194,9)",
+      "137,6 (65,0–163,0)"
+     ],
+     "1961-1967": [
+      "138,3 (115,4–158,2)",
+      "133,5 (109,7–172,0)",
+      "137,8 (90,4–166,1)",
+      "124,0 (80,4–180,4)"
+     ],
+     "1968-1977": [
+      "137,5 (109,4–178,21)",
+      "134,3 (98,9–163,3)",
+      "124,1 (77,7–156,9)",
+      "112,5 (62,2–149,0)"
+     ],
+     "1978-1993": [
+      "130,0 (124,0–201,3)",
+      "126,0 (102,3–161,0)",
+      "106,6* (77,0–141,3)",
+      "102,3 (83,1–187,6)"
+     ],
+     "1994-2010": [
+      "114,0 (85,8–134,0)",
+      "93,3 (71,0–118,0)",
+      "107,0 (89,9–113,8)",
+      "74,0 (26,5–121,2)"
+     ],
+     "2011-2015": [
+      "82,8* (58,4–116,9)",
+      "67,0 (49,2–89,0)",
+      "45,5 (36,1–77,2)",
+      "69,9 (46,0–95,4)"
+     ],
+     "2016-2020": [
+      "41,8* (36,2–100,1)",
+      "86,4 (46,1–113,5)",
+      "47,1 (35,2–113,3)",
+      "55,5 (29,5–62,7)"
+     ],
+     "2021-2024": [
+      "39,7 (22,2–43,6)",
+      "44,4 (24,3–66,6)",
+      null,
+      null
+     ]
+    },
+    "hinweis_extraktion": "Zeile 2021-2024 hat im Text nur zwei Wertepaare; Zuordnung zu den Verbrauchsspalten ist eine Annahme (Seitenlayout nicht eindeutig) – vor Verwendung im PDF S. 10 prüfen."
+   }
+  },
+  "wohnlage": {
+   "kategorien": [
+    "normal",
+    "gut"
+   ],
+   "definition": "Einstufung je Straßenabschnitt anhand Bodenrichtwert, Statusindex Sozialmonitoring, Einwohnerdichte, Lärmbelastung (Flug-, Schienen-, Gewerbe-, Verkehrslärm), Art der Straße (vier- und mehrspurig), Anteil Wasser-/Grünflächen.",
+   "verzeichnis_pdf": "https://dokumente.hamburg.de/resource/blob/1125236/f99598f302b1a531aa69e7c0ab2b0d92/d-wohnlagenverzeichnis-2025-data.pdf",
+   "online_abfrage": "www.hamburg.de/mietenspiegel (Spanne je Adresse)"
+  }
+ },
+ "notes": "Alle 88 belegten Felder mit der offiziellen OGC-API (api.hamburg.de) abgeglichen: 87 identisch; Abweichung Feld C9 (gut, ab 131 m², bis 1918): Mittelwert PDF-Tabelle und Broschüre = 12,92, API = 12,62 (Spannen identisch). PDF-Wert 12,92 übernommen (amtliches PDF); Diskrepanz melden/prüfen. Leerfelder P5 und I9 durch Spaltenposition im Layout-Text bestimmt und durch API bestätigt (keine Datensätze). Nächste Ausgabe: 2027.",
+ "kennzahl_wert": 9.94,
+ "kennzahl_text": "Dokumentation Hamburger Mietenspiegel 2025 (S. ~40): 'Der Mittelwert auf Grundlage des Medians im Hamburger Mietenspiegel 2025 beträgt 9,94 €/m². Im Hamburger Mietenspiegel 2023 beruhte der Mittelwert auf dem arithmetischen Mittel und ist dadurch nicht vergleichbar. Der Mittelwert lag bei 9,83 €/m².' (Median, nicht arithmetisches Mittel)",
+ "kennzahl_quelle": "https://dokumente.hamburg.de/resource/blob/1159942/200b462dac3c64f2a0b8681de8fb30d0/d-mietenspiegel-methodenbericht-2025-data.pdf"
+}

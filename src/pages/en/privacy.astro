@@ -1,0 +1,28 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { CONTACT_EMAIL, LEGAL, SITE_URL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+const updated = '2026-10-12';
+---
+<PageLayout title="Privacy policy: what this German rent site processes" description="Privacy under the GDPR: the rent check and tenancy calculators run in your browser, no cookies, server logs at the host, cookie-free stability measurement and your rights." lang={lang} noindex={true} breadcrumbs={[{ label: 'Privacy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Privacy policy</h1>
+    <p>This policy describes how personal data is processed on {SITE_URL}, under Articles 12 to 14 of the General Data Protection Regulation (GDPR).</p>
+    <h2>1. Controller</h2>
+    <LegalIdentity lang={lang} />
+    <p>Contact: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. No data protection officer is appointed, as the conditions of Article 37 GDPR are not met.</p>
+    <h2>2. What you type into the calculators</h2>
+    <p>Rent, floor area, year built, municipality or service charges: everything you enter is processed in your browser and <strong>never sent to a server</strong>. We cannot see which flat you are checking. Once you change a value, the calculator writes your inputs into the address bar so the link can be shared; we do not store that link anywhere.</p>
+    <h2>3. Processing</h2>
+    <h3>Server logs at the host</h3><p>For every page request the host processes technically necessary data: IP address, date and time, page, browser and referrer, for security and troubleshooting, based on legitimate interest (Art. 6(1)(f) GDPR). Retention follows the host's (GitHub's) rules.</p>
+    <h3>No cookies</h3><p>The site sets no cookies and stores nothing in your browser, including your calculator inputs.</p>
+    <h3>Stability measurement with Microsoft Clarity, without cookies</h3><p>To spot pages or calculators that fail to load, we record errors, loading times, clicks that lead nowhere and scrolling, anonymously, with Microsoft Clarity in cookie-free mode: no cookies such as <code>_clck</code>, <code>_clsk</code>, <code>MUID</code> or <code>CLID</code> are set, each page view has its own identifier, visits are not linked, and page content and inputs are masked in the browser. Provider: Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Legal basis: legitimate interest in working tools (Art. 6(1)(f) GDPR). Retention: 30 days for recordings, 13 months for aggregates. To object, block the clarity.ms domain or write to us; every calculator keeps working.</p>
+    <h2>4. Recipients</h2><p>We sell no data and pass none to law firms, insurers or other third parties. The host, GitHub, and Microsoft, for the anonymous stability measurement, have access as processors under Article 28 GDPR.</p>
+    <h2>5. Transfers outside the EU</h2><p>GitHub, Inc. is based in the United States; server logs may be processed there under the EU-US Data Privacy Framework and the European Commission's standard contractual clauses. Clarity technical data may be transferred to Microsoft Corporation in the United States, certified under the same framework (<a href="https://privacy.microsoft.com/privacystatement" rel="nofollow noopener" target="_blank">Microsoft privacy statement</a>). Blocking clarity.ms prevents this transfer.</p>
+    <h2>6. Your rights</h2><p>You have the rights of access, rectification, erasure, restriction, objection and portability (Articles 15 to 22 GDPR). Write to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>; we reply within a month. You may complain to a supervisory authority, for example the {LEGAL.supervisoryAuthority} (<a href={LEGAL.supervisoryAuthorityUrl} rel="nofollow noopener" target="_blank">{LEGAL.supervisoryAuthorityUrl}</a>) or the data protection authority of the German state where you live.</p>
+    <h2>7. No automated decision</h2><p>A calculator result is a calculation made at your request with no legal effect, not an automated decision under Article 22 GDPR.</p>
+    <p>See also <a href={route('cookies', lang)}>cookies</a>. Updated: {updated}.</p>
+  </div>
+</PageLayout>

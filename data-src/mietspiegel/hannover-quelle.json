@@ -1,0 +1,23 @@
+{
+ "city": "Hannover",
+ "edition": "Mietspiegel 2025 Landeshauptstadt Hannover (qualifizierter Mietspiegel gemäß § 558d BGB)",
+ "stichtag": "2025-04-01",
+ "gueltig_ab": "2025-12-18 (Anerkennung durch den Rat der LHH; 'gilt ab dem Tag seiner Anerkennung und löst den Mietspiegel Hannover 2023 ab')",
+ "gueltig_bis": null,
+ "qualifiziert": true,
+ "herausgeber": "Region Hannover, Fachbereich Soziales, in Kooperation mit der Landeshauptstadt Hannover, Fachbereich Planen und Stadtentwicklung, und der Mietspiegelkommission",
+ "ersteller": "FUB Wohnen + Immobilien + Umwelt GmbH, Hamburg (Befragung und wissenschaftliche Auswertung im Auftrag der Region Hannover); Mietspiegelkommission (Region, LHH, Mieter-/Vermieterverbände)",
+ "url_seite": "https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Landeshauptstadt-Hannover/Dezernate-und-Fachbereiche-der-LHH/Stadtentwicklung-und-Bauen/Fachbereich-Planen-und-Stadtentwicklung/Stadtentwicklung-und-Mobilit%C3%A4tsplanung/Sachgebiet-Stadtentwicklung/Mietspiegel-f%C3%BCr-Hannover",
+ "url_pdf": "https://www.hannover.de/content/download/957295/file/31.20.05-2024004253%20-%20Mietspiegel%202025%20-%20Hannover-final.pdf",
+ "url_wohnlagenverzeichnis": "https://www.hannover.de/content/download/645261/file/Wohnlagenverzeichnis_Hannover_Mietspiegel_2025.pdf",
+ "url_pdf_dokumentation": "https://www.hannover.de/content/download/1061262/file/Dokumentation_Mietspiegel_Region_Hannover.pdf",
+ "rights_class": "C",
+ "rights_quote": "Impressum hannover.de (Abschnitt 'Haftungsausschluss, Copyright, externe Links'): 'Die elektronische, drucktechnische oder anderweitige Reproduktion der vorgehaltenen Informationen, graphischen Darstellungen, Bilder etc. durch Dritte ist nur nach Absprache mit der Betreiberin zulässig.' Mietspiegel-PDF selbst: kein Urheber-/Lizenzvermerk (nur Herausgeber/Fotos/Druck).",
+ "rights_url": "https://www.hannover.de/Impressum ; https://www.hannover.de/content/download/957295/file/31.20.05-2024004253%20-%20Mietspiegel%202025%20-%20Hannover-final.pdf (letzte Seite)",
+ "scheme_type": "table (Baualtersklasse x Wohnungsgröße 4 Klassen x Wohnlage normal/gut; Mittelwert + Spanne; Einordnung in Spanne über Ausstattungspunkte, max. 26 Punkte)",
+ "data": {},
+ "kennzahl_wert": null,
+ "kennzahl_text": "Keine stadtweite Durchschnittsmiete in Stadtseite, Broschüre (Grußwort/Hinweise) oder auffindbarer Pressemitteilung angegeben.",
+ "kennzahl_quelle": null,
+ "notes": "Vorbehalt steht nur im allgemeinen Portal-Impressum (hannover.de, mit Madsack betrieben), nicht im PDF -> Grenzfall B/C, vorsichtig als C eingestuft; Zahlen NICHT übernehmen, Schema nicht extrahiert. Kein Open-Data-Datensatz (GovData-Suche 'mietspiegel hannover' ohne Treffer). Gültigkeitsende nicht angegeben; qualifizierter Mietspiegel -> Anpassung nach 2 Jahren (§558d Abs. 2 BGB), d.h. voraussichtlich ab ca. Ende 2027. Region Hannover hat für weitere Umlandkommunen eigene Mietspiegel 2025 (Garbsen, Lehrte, Gehrden ...)."
+}

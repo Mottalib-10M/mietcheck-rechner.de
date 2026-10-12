@@ -1,0 +1,20 @@
+{
+ "accent": "#2F4858",
+ "symbol": "maison",
+ "variants": [
+  {
+   "file": "og-de.png",
+   "title": "Mietspiegel-Rechner 2026",
+   "subtitle": "Vergleichsmiete, Mietpreisbremse, Kappungsgrenze",
+   "badge": "2026",
+   "brand": "Mietspiegel-Rechner"
+  },
+  {
+   "file": "og-en.png",
+   "title": "German Rent Check 2026",
+   "subtitle": "Local reference rent, rent cap, increase limits",
+   "badge": "2026",
+   "brand": "German Rent Check"
+  }
+ ]
+}
