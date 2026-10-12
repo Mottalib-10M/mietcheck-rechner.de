@@ -72,8 +72,8 @@ ${h.table(['Stadt', 'Mietspiegel', 'Gültig ab', 'Vergleichsmiete'], STAEDTE.map
   },
   en: {
     nav: 'Rent index',
-    title: 'German Rent Index 2026: Reference Rent and Rent Brake Check',
-    description: 'German rent index 2026 as a calculator: reference rent for Berlin and Hamburg, rent brake and increase cap for every municipality under state rules, with deadlines.',
+    title: 'Rent Index Germany 2026: Reference Rent and Rent Brake Check',
+    description: 'Rent index Germany 2026 as a calculator: reference rent for Berlin, Hamburg and Dortmund, rent brake and increase cap for each municipality, with deadlines.',
     h1: 'German rent index 2026: what your flat may cost',
     intro: 'Enter city, floor area and year built: you get the local reference rent, the rent-brake ceiling and the lawful rent increase for your municipality.',
     resume: `In Germany almost every question about how much rent is lawful comes back to one figure, the local reference rent (ortsübliche Vergleichsmiete). When you sign a new lease in an area with the rent brake (Mietpreisbremse), the rent may exceed it by at most ${P.mpb.aufschlag * 100} per cent (Section 556d of the Civil Code, BGB). When your landlord raises the rent during a tenancy, the new rent may not exceed it at all, and the increase cap (Kappungsgrenze) adds a second limit: no more than ${E.kappung * 100} per cent in three years, or ${E.kappung_angespannt * 100} per cent in tight markets (Section 558 BGB). Each federal state decides by ordinance which municipalities are covered. This site reads the ordinances of all 16 states, with dates and municipality lists, and works out the reference rent itself wherever the city publishes its rent index freely: Berlin's 2026 index and Hamburg's 2025 index. A 1930 flat of 60 m² in an average Berlin location comes to ${eE(b.ovm)} per square metre, so a new lease may charge at most ${eE(bMpb.zulaessig)} a month before service charges.`,

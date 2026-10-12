@@ -7,7 +7,7 @@
 import RAW from '../../data/staedte.json';
 import { status } from './gebiet';
 export interface Stadt {
-  id: string; name: string; land: string; gemeinde: string; schema: 'berlin' | 'hamburg' | 'eingabe';
+  id: string; name: string; land: string; gemeinde: string; schema: 'berlin' | 'hamburg' | 'dortmund' | 'eingabe';
   ausgabe: string; gueltigAb: string; gueltigBis: string | null; qualifiziert: boolean; herausgeber: string;
   url: string; pdf: string | null; rechner: string | null; rechte: 'A' | 'B' | 'C'; rechteZitat: string; rechteUrl: string;
   kennzahl: number | null; kennzahlText: string | null; kennzahlQuelle: string | null;

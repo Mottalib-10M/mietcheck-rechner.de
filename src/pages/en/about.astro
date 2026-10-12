@@ -8,7 +8,7 @@ import { LAENDER_VO } from '../../lib/engine/gebiet';
 const lang = 'en';
 const nGem = LAENDER_VO.reduce((s, l) => s + (l.mpb?.gemeinden.length ?? 0), 0);
 ---
-<PageLayout title="About: who publishes this German rent check for 2026" description="Who publishes this German rent check for 2026, why it calculates the reference rent itself, where the state ordinances come from and why we take no cut of any refund." lang={lang} jsonLd={[personSchema(lang), organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path: route('about', lang) }])]} breadcrumbs={[{ label: 'About' }]}>
+<PageLayout title="Rent Check Germany 2026: Who Publishes It and Why" description="Who publishes this German rent check for 2026, why it works out the reference rent itself, where the state ordinances come from and why we take no cut of refunds." lang={lang} jsonLd={[personSchema(lang), organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path: route('about', lang) }])]} breadcrumbs={[{ label: 'About' }]}>
   <header class="mb-6"><h1 class="text-3xl font-bold text-navy-900 md:text-4xl">About this site</h1></header>
   <div class="prose prose-slate max-w-none">
     <div class="not-prose mb-6"><p class="text-lg font-semibold text-navy-900">{AUTHOR_NAME}</p><p class="text-navy-700">{AUTHOR_ROLE[lang]}</p></div>

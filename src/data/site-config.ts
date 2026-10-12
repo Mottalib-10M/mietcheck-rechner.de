@@ -13,11 +13,11 @@ export const SITE_FOUNDED = '2026';
 export const LAST_UPDATED = '2026-10-12';
 export const AUTHOR_NAME = 'Radif Partners';
 export const AUTHOR_ROLE: Record<string, string> = {"de": "Herausgeber von Mietrechtsrechnern für Deutschland", "en": "Publisher of German tenancy-law calculators"};
-export const AUTHOR_DESC: Record<string, string> = {"de": "À RÉÉCRIRE", "en": "À RÉÉCRIRE"};
+export const AUTHOR_DESC: Record<string, string> = {"de": "Radif Partners berechnet die ortsübliche Vergleichsmiete aus den frei veröffentlichten Mietspiegeln von Berlin, Hamburg und Dortmund und wendet für jede Gemeinde die Mieterschutzverordnung ihres Landes an: Mietpreisbremse, Kappungsgrenze, Fristen nach BGB. Jede Gemeindeliste ist im Gesetz- und Verordnungsblatt gelesen und datiert; Städte, die sich die Rechte an ihrem Mietspiegel vorbehalten, werden verlinkt, nicht kopiert.", "en": "Radif Partners works out the local reference rent from the freely published rent indexes of Berlin, Hamburg and Dortmund and applies each municipality's state tenant-protection ordinance: rent brake, increase cap and Civil Code deadlines. Every municipality list is read and dated in the official gazette; cities that reserve the rights to their index are linked, not copied."};
 /** Sujets sur lesquels l'editeur est competent (schema.org knowsAbout). Ce sont les
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
-export const KNOWS_ABOUT: Record<string, string[]> = {"de": [], "en": []};
+export const KNOWS_ABOUT: Record<string, string[]> = {"de": ["Mietspiegel", "Mietpreisbremse", "Kappungsgrenze", "Betriebskostenabrechnung", "Mietrecht (BGB §§ 535 ff.)"], "en": ["German rent indexes (Mietspiegel)", "Rent brake (Mietpreisbremse)", "Rent increase cap", "Service-charge statements", "German tenancy law"]};
 export const CONTACT_EMAIL = "contact@de-mietrecht.example";
 export const THEME_COLOR = '#2F4858';
 export const LOGO_SYMBOL = 'maison';

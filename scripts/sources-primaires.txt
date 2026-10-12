@@ -1,5 +1,9 @@
 # Domaines de sources officielles du site (check-regles.py)
+# Portail fédéral des lois (Bundesministerium der Justiz) : texte en vigueur du BGB, de la BetrKV, de la HeizkostenV, du CO2KostAufG
 gesetze-im-internet.de
+# Statistisches Bundesamt : Verbraucherpreisindex, base de l'Indexmiete (§ 557b BGB)
 destatis.de
+# Land Berlin : Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen (Mietspiegel, Betriebskostenübersicht, Verordnungen)
 berlin.de
+# Site officiel du Berliner Mietspiegel 2026 (Senatsverwaltung)
 mietspiegel.berlin.de

@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """Registre des villes (src/data/staedte.json) depuis les relevés data-src/mietspiegel/<id>-quelle.json.
 Chaque relevé cite l'édition, la validité, l'éditeur et la clause de droits lue dans le PDF ou l'Impressum.
-Schéma : 'berlin' et 'hamburg' calculés (reprise permise), sinon 'eingabe' (valeur saisie par l'utilisateur)."""
+Schéma : 'berlin', 'hamburg' et 'dortmund' calculés (reprise permise), sinon 'eingabe' (valeur saisie par l'utilisateur)."""
 import json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # id : (Land, nom de la commune dans la Verordnung, schéma)
 VILLES = {
-  'berlin': ('BE', 'Berlin', 'berlin'), 'hamburg': ('HH', 'Hamburg', 'hamburg'), 'muenchen': ('BY', 'München', 'eingabe'),
+  'berlin': ('BE', 'Berlin', 'berlin'), 'hamburg': ('HH', 'Hamburg', 'hamburg'), 'dortmund': ('NW', 'Dortmund', 'dortmund'), 'muenchen': ('BY', 'München', 'eingabe'),
   'koeln': ('NW', 'Köln', 'eingabe'), 'frankfurt': ('HE', 'Frankfurt am Main', 'eingabe'), 'stuttgart': ('BW', 'Stuttgart', 'eingabe'),
   'duesseldorf': ('NW', 'Düsseldorf', 'eingabe'), 'leipzig': ('SN', 'Leipzig', 'eingabe'), 'dresden': ('SN', 'Dresden', 'eingabe'),
   'hannover': ('NI', 'Hannover', 'eingabe'), 'nuernberg': ('BY', 'Nürnberg', 'eingabe'), 'bremen': ('HB', 'Bremen', 'eingabe'),
-  'essen': ('NW', 'Essen', 'eingabe'), 'dortmund': ('NW', 'Dortmund', 'eingabe'),
+  'essen': ('NW', 'Essen', 'eingabe'),
 }
 ISO = re.compile(r'\d{4}-\d{2}-\d{2}')
 def iso(x):

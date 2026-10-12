@@ -18,6 +18,7 @@ import { STAEDTE, stadt as stadtById } from '../../lib/engine/staedte';
 import { status, gemeindenVon, LAENDER_VO } from '../../lib/engine/gebiet';
 import { berlinOvm, type Lage } from '../../lib/engine/berlin';
 import { hamburgOvm } from '../../lib/engine/hamburg';
+import { dortmundOvm, DORTMUND } from '../../lib/engine/dortmund';
 import { mietpreisbremse, rueckforderung, mieterhoehung } from '../../lib/engine/miete';
 import { LAND_NAMEN } from './KuendigungRechner';
 import type { Land } from '../../lib/engine/miete';
@@ -32,7 +33,7 @@ export default function MietCheck({ lang = 'de', methodHref, mode = 'neu', lockM
   const startStadt = fixedLand ? 'andere' : fixedStadt ?? 'berlin';
   const [s, set] = useUrl({
     st: startStadt, land: fixedLand ?? 'BY', gem: '', m: mode as string,
-    fl: 62, bj: 1965, lage: 'mittel', hl: 'normal', ost: '0', g1: '0', g2: '0', g3: '0', g4: '0', g5: '0', mind: '0', pos: 50, ovm: 11,
+    fl: 62, bj: 1965, lage: 'mittel', hl: 'normal', ost: '0', g1: '0', g2: '0', g3: '0', g4: '0', g5: '0', mind: '0', pos: 50, ovm: 11, dg: 3, dt: '', db: '', dh: '', df: '', da: '', dmk: '',
     miete: 820, vm: 0, nb: '0', um: '0', beginn: '2026-03-01', ruege: '2026-10-12',
     m3: 0, verl: 860, zugang: '2026-10-05', letzte: '2024-04-01',
   });
@@ -55,6 +56,12 @@ export default function MietCheck({ lang = 'de', methodHref, mode = 'neu', lockM
     const r = hamburgOvm({ lage: s.hl as 'normal', baujahr: s.bj, flaeche: s.fl, position: s.pos });
     if (r.ok) { ovm = r.ovm; spanne = [r.feld.unten, r.feld.oben]; quelle = T(lang, `Hamburger Mietenspiegel 2025, Feld ${r.feld.feld}`, `Hamburg rent index 2025, field ${r.feld.feld}`); }
     else fehler = r.grund === 'neubau' ? T(lang, 'Ab 2025 bezugsfertige Wohnungen sind nicht im Mietenspiegel.', 'Flats completed from 2025 are not in the rent index.') : T(lang, 'Leerfeld: zu wenige Daten, der Mietenspiegel nennt keinen Wert.', 'Empty field: too little data, the index gives no value.');
+  }
+  else if (S?.schema === 'dortmund') {
+    const mk = [s.dt, s.db, s.dh, s.df, s.da, ...String(s.dmk).split('.')].filter(Boolean);
+    const r = dortmundOvm({ baujahr: s.bj, flaeche: s.fl, gebiet: s.dg, merkmale: mk });
+    if (r.ok) { ovm = r.ovm; spanne = r.spanne; quelle = T(lang, `Mietspiegel Dortmund 2025/2026, Basis ${f.num(r.basis.mittel, 2)} € plus Zu- und Abschläge ${f.num(r.zuschlag, 2)} €`, `Dortmund rent index 2025/2026, base ${f.num(r.basis.mittel, 2)} € plus adjustments ${f.num(r.zuschlag, 2)} €`); }
+    else fehler = r.grund === 'neubau' ? T(lang, 'Der Dortmunder Mietspiegel erfasst Baujahre bis 2019.', 'The Dortmund index covers buildings up to 2019.') : T(lang, 'Der Dortmunder Mietspiegel gilt für 20 bis 145 m².', 'The Dortmund index covers 20 to 145 m².');
   }
   const ovmMonat = Math.round(ovm * s.fl * 100) / 100;
 
@@ -156,6 +163,21 @@ export default function MietCheck({ lang = 'de', methodHref, mode = 'neu', lockM
             <SelectField id="mc-um" label={T(lang, 'Erste Miete nach Kernsanierung', 'First let after full refurbishment')} value={s.um} onChange={set('um')} options={yn} />
           </Row2>
         </>}
+        {S?.schema === 'dortmund' && <Row2>
+          <SelectField id="mc-dg" label={T(lang, 'Gebiet laut Mietspiegelkarte', 'Area on the rent index map')} value={String(s.dg)} onChange={(x) => set('dg')(Number(x))} options={DORTMUND.gebiete.map((g) => ({ value: String(g.nr), label: `${g.nr} · ${g.name}` }))} />
+          <SelectField id="mc-dt" label={T(lang, 'Wohnungstyp', 'Type of flat')} value={s.dt} onChange={set('dt')} options={[{ value: '', label: T(lang, 'normale Etagenwohnung', 'standard flat') }, ...DORTMUND.merkmale.filter((m) => m.gruppe === 'typ').map((m) => ({ value: m.id, label: m.text.split(' (')[0] }))]} />
+        </Row2>}
+        {S?.schema === 'dortmund' && <details className="rounded-lg border border-navy-200 p-3">
+          <summary className="cursor-pointer text-sm font-medium text-navy-800">{T(lang, 'Ausstattung und Modernisierung (Zu- und Abschläge)', 'Fittings and modernisation (adjustments)')}</summary>
+          <div className="mt-3 grid grid-cols-1 gap-x-4 gap-y-4 sm:grid-cols-2">
+            {([['db', 'boden', T(lang, 'Fußboden', 'Flooring')], ['dh', 'heizung', T(lang, 'Heizung', 'Heating')], ['df', 'fenster', T(lang, 'Fenster', 'Windows')], ['da', 'aussen', T(lang, 'Balkon oder Garten', 'Balcony or garden')]] as const).map(([k, gr, lb]) => (
+              <SelectField key={k} id={`mc-${k}`} label={lb} value={s[k]} onChange={set(k)} options={[{ value: '', label: T(lang, 'Standard', 'standard') }, ...DORTMUND.merkmale.filter((m) => m.gruppe === gr).map((m) => ({ value: m.id, label: m.text }))]} />))}
+          </div>
+          <fieldset className="mt-4"><legend className="text-sm font-medium text-navy-700">{T(lang, 'Weitere Merkmale (Modernisierung nur bei Baujahr vor 1980)', 'Other features (modernisation only for buildings before 1980)')}</legend>
+            <div className="mt-2 grid gap-2 sm:grid-cols-2">{DORTMUND.merkmale.filter((m) => ['bad', 'zugang', 'sonst', 'modern'].includes(m.gruppe)).map((m) => { const on = String(s.dmk).split('.').includes(m.id); return (
+              <label key={m.id} className="flex items-start gap-2 text-sm text-navy-800"><input type="checkbox" className="mt-1" checked={on} onChange={() => { const xs = String(s.dmk).split('.').filter(Boolean); set('dmk')((on ? xs.filter((x) => x !== m.id) : [...xs, m.id]).join('.')); }} />{m.text}</label>); })}</div>
+          </fieldset>
+        </details>}
         {S?.schema === 'berlin' && <details className="rounded-lg border border-navy-200 p-3">
           <summary className="cursor-pointer text-sm font-medium text-navy-800">{T(lang, 'Ausstattung genauer einordnen (Orientierungshilfe)', 'Place your fittings in the range (guidance)')}</summary>
           <div className="mt-3 grid grid-cols-1 gap-x-4 gap-y-4 sm:grid-cols-2">
