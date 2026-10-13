@@ -49,7 +49,7 @@ export default defineGuide({
   sources: ['bgb555b', 'bgb555c', 'bgb555d', 'bgb559', 'bgb559b', 'bgb559c', 'bgb559e'],
   de: {
     slug: 'modernisierungsankuendigung',
-    nav: 'Modernisierungsankündigung',
+    nav: 'Modernisierung ankündigen',
     card: 'Was in der Ankündigung stehen muss und welche Fristen für Sie laufen.',
     title: 'Modernisierungsankündigung 2026: Inhalt, Fristen, Härte',
     description: `Modernisierungsankündigung 2026: drei Monate vorher in Textform, Pflichtangaben, Härteeinwand bis Ende des Folgemonats und Umlage von ${umlP} Prozent der Kosten.`,
