@@ -5,6 +5,7 @@ import { route, type Locale } from '../i18n/routes';
 import { P } from '../lib/engine/params';
 import { BERLIN } from '../lib/engine/berlin';
 import { HAMBURG } from '../lib/engine/hamburg';
+import { DORTMUND } from '../lib/engine/dortmund';
 import { LAENDER_VO } from '../lib/engine/gebiet';
 import { STAEDTE } from '../lib/engine/staedte';
 import { displayDate, formatDecimal } from '../lib/format';
@@ -33,6 +34,8 @@ const gesperrt = STAEDTE.filter((s) => s.schema === 'eingabe');
     <p>Ein Skript liest die Mietspiegeltabelle aus dem amtlichen PDF der Senatsverwaltung und prüft, dass alle {BERLIN.zeilen.length} Zeilen vorhanden sind und jede Spanne geordnet ist. Der Rechner wählt das Feld nach Wohnlage, Bezugsfertigkeit (1973 bis 1990 getrennt nach Ost und West) und Wohnfläche. Vom Mittelwert aus wendet er die Orientierungshilfe an: je Merkmalgruppe ±20 Prozent des Abstands zum Spannenrand, Gruppen gegeneinander aufgerechnet (Abschnitt zur Spanneneinordnung der Broschüre). Für Wohnungen bis 1949 ohne Sammelheizung oder Bad zieht er 0,33 Euro je Quadratmeter ab, wie es die Broschüre vorsieht. Das Rechenbeispiel der Broschüre (Zeile 81, 7,75 Euro) läuft als Test. Orientierungshilfe und Abschlag gehören nicht zum qualifizierten Teil des Mietspiegels; das steht so in der Broschüre, und wir weisen darauf hin.</p>
     <h2>Hamburger Mietenspiegel 2025</h2>
     <p>Die {HAMBURG.felder.length} belegten Felder stammen aus dem offenen Datensatz der Behörde für Stadtentwicklung und Wohnen (Datenlizenz Deutschland – Namensnennung (dl-de/by-2-0)) und sind mit der Tabelle im PDF abgeglichen; bei einer Abweichung zwischen Datensatz und PDF (Feld C9) gilt das PDF. Weil der Hamburger Mietenspiegel keine Zahlen für Zu- und Abschläge nennt, wählt der Nutzer die Lage in der Spanne selbst: unterer Bereich, Mittelwert oder oberer Bereich.</p>
+    <h2>Mietspiegel Dortmund 2025/2026</h2>
+    <p>Die Basistabelle mit {DORTMUND.basis.length} Baujahresklassen und die {DORTMUND.merkmale.length} Zu- und Abschläge stammen aus dem Mietspiegel, den die Stadt als Sonderdruck ihres Amtsblatts vom 20. Dezember 2024 veröffentlicht hat. Der Rechner addiert Größenzuschlag, Gebietszuschlag und die gewählten Merkmale auf Mittelwert und Spannengrenzen, wie es der Mietspiegel vorschreibt; Modernisierungszuschläge nur für Gebäude vor 1980. Das Rechenbeispiel der Stadt (1950, 63 m², 7,10 Euro) läuft als Test.</p>
     <h2>Städte mit Rechtevorbehalt</h2>
     <p>{gesperrt.map((s) => s.name).join(', ')} behalten sich die Rechte an ihren Mietspiegeln ausdrücklich vor. Von ihnen übernehmen wir keinen Wert. Der Rechner verlinkt das offizielle Angebot der Stadt, Sie tragen die Vergleichsmiete ein, und wir wenden darauf die Regeln Ihrer Gemeinde an.</p>
     <h2>Verordnungen der Länder</h2>
@@ -65,6 +68,8 @@ const gesperrt = STAEDTE.filter((s) => s.schema === 'eingabe');
     <p>A script reads the table from the Senate department's official PDF and checks that all {BERLIN.zeilen.length} lines are present and every range is in order. The calculator picks the field by residential location, year of completion (1973 to 1990 split into East and West) and floor area. From the mean it applies the official guidance: ±20 per cent of the distance to the edge of the range for each group of features, with groups offsetting each other (the brochure's section on placing a flat in the range). For flats built up to 1949 without central heating or a bathroom it deducts 0.33 euros per square metre, as the brochure provides. The brochure's worked example (line 81, 7.75 euros) runs as a test. The guidance and the deduction are not part of the qualified index; the brochure says so and so do we.</p>
     <h2>Hamburg rent index 2025</h2>
     <p>The {HAMBURG.felder.length} filled fields come from the open dataset of the Department for Urban Development and Housing (German open-data licence, attribution (dl-de/by-2-0)), checked against the PDF table; where dataset and PDF differ (field C9) the PDF applies. Because Hamburg's index gives no figures for upward or downward adjustments, you choose the position in the range yourself: lower part, median or upper part.</p>
+    <h2>Dortmund rent index 2025/2026</h2>
+    <p>The base table with {DORTMUND.basis.length} construction periods and the {DORTMUND.merkmale.length} premiums and deductions come from the index the city published as a special issue of its official gazette on 20 December 2024. The calculator adds the size premium, the area premium and the chosen features to the mean and the range limits, as the index requires; modernisation premiums only for buildings before 1980. The city's worked example (1950, 63 m², 7.10 euros) runs as a test.</p>
     <h2>Cities that reserve their rights</h2>
     <p>{gesperrt.map((s) => s.name).join(', ')} expressly reserve the rights to their indexes. We take no figure from them. The calculator links the city's official tool, you enter the reference rent, and we apply your municipality's rules to it.</p>
     <h2>State ordinances</h2>
