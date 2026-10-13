@@ -36,6 +36,7 @@ function spy(lang: Lang) {
     eur: (n) => `${n} €`, num: (n) => String(n), pct: (x) => `${x * 100} %`, date: (d) => d,
     table: (hd, rows) => `<table>${hd.join('')}${rows.flat().join('')}</table>`,
     src: (k, t) => { srcs.push(k); return t ?? P.sources[k].label[lang]; },
+    ext: (u, t) => { expect(u).toMatch(/^https:\/\//); return t; },
   };
   return { h, links, srcs };
 }
