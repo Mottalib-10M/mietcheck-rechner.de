@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Hamburger Mietenspiegel 2025 : données ouvertes (Datenlizenz Deutschland – Namensnennung 2.0,
+"""Hamburger Mietenspiegel 2025 : données ouvertes (Datenlizenz Deutschland – Namensnennung (dl-de/by-2-0),
 Transparenzportal Hamburg), recoupées avec la Mietenspiegel-Tabelle PDF. Source relevée dans
 data-src/mietspiegel/hamburg-quelle.json ; écrit src/data/mietspiegel/hamburg.json."""
 import json, os, re
@@ -18,7 +18,7 @@ felder = [{'feld': f['feld'], 'lage': f['wohnlage'], 'baualter': f['spalte'], 'f
 assert len(felder) == 88, len(felder)
 for f in felder: assert f['unten'] <= f['mittel'] <= f['oben'], f
 out = {'stadt': 'Hamburg', 'ausgabe': q['edition'], 'stichtag': q['stichtag'], 'gueltig_ab': q['gueltig_ab'], 'qualifiziert': True,
-       'herausgeber': q['herausgeber'], 'lizenz': 'Datenlizenz Deutschland – Namensnennung – Version 2.0', 'url_seite': q['url_seite'], 'url_pdf': q['url_pdf'],
+       'herausgeber': q['herausgeber'], 'lizenz': 'Datenlizenz Deutschland – Namensnennung (dl-de/by-2-0)', 'url_seite': q['url_seite'], 'url_pdf': q['url_pdf'],
        'url_open_data': q['url_open_data'], 'wohnlagen_url': q['data']['wohnlage']['verzeichnis_pdf'], 'baualter': q['data']['spalten_baualter'], 'felder': felder}
 json.dump(out, open(os.path.join(ROOT, 'src/data/mietspiegel/hamburg.json'), 'w'), ensure_ascii=False, indent=1)
 print('hamburg.json :', len(felder), 'Felder')

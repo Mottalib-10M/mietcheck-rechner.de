@@ -5,7 +5,7 @@
  "gueltig_ab": "2025-12-09",
  "qualifiziert": true,
  "herausgeber": "Freie und Hansestadt Hamburg, Behörde für Stadtentwicklung und Wohnen (Amt für Wohnen, Stadterneuerung und Bodenordnung)",
- "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0",
+ "lizenz": "Datenlizenz Deutschland – Namensnennung (dl-de/by-2-0)",
  "url_seite": "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-stadtentwicklung-und-wohnen/themen/wohnen/mieten/mietenspiegel",
  "url_pdf": "https://dokumente.hamburg.de/resource/blob/1125230/3093f3df24f683693c3b5eaac67bedd0/d-mietenspiegel-tabelle-2025-data.pdf",
  "url_open_data": "https://api.hamburg.de/datasets/v1/mietenspiegel/collections/mietenspiegel_daten/items?f=json&limit=100",

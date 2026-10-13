@@ -46,7 +46,7 @@ ${h.table(['Wohnung', 'Feld', 'Spanne je m²', 'Mittelwert je m²'], [
   ['1910, 55 m², normale Lage', altbau.feld.feld, `${h.num(altbau.feld.unten, 2)} bis ${h.num(altbau.feld.oben, 2)} €`, h.eur(altbau.ovm, 2)],
   ['1975, 70 m², normale Lage', siebz.feld.feld, `${h.num(siebz.feld.unten, 2)} bis ${h.num(siebz.feld.oben, 2)} €`, h.eur(siebz.ovm, 2)],
   ['2018, 85 m², gute Lage', neu.feld.feld, `${h.num(neu.feld.unten, 2)} bis ${h.num(neu.feld.oben, 2)} €`, h.eur(neu.ovm, 2)],
-], 'Hamburger Mietenspiegel 2025, Datenlizenz Deutschland – Namensnennung – Version 2.0', ['l', 'r', 'r', 'r'])}
+], 'Hamburger Mietenspiegel 2025, Datenlizenz Deutschland – Namensnennung (dl-de/by-2-0)', ['l', 'r', 'r', 'r'])}
 <h2>Mieterhöhung in Hamburg</h2>
 <p>Hamburg hat die Kappungsgrenze für das ganze Stadtgebiet auf 15 Prozent abgesenkt. Für die Wohnung von 1975 mit ${h.eur(620, 0)} Miete heißt das: Die Vergleichsmiete erlaubt ${h.eur(erh.grenzeOvm, 2)}, die Kappungsgrenze ${h.eur(erh.grenzeKappung, 2)}; verlangt der Vermieter ${h.eur(700, 0)}, müssen Sie nur ${h.eur(erh.zulaessig, 2)} zustimmen, und zwar bis zum ${h.date(erh.zustimmungBis)}. Der ${h.a('mieterhoehung-rechner', 'Mieterhöhungsrechner')} geht alle Fristen durch.</p>
 <p>Bei einer Neuvermietung greift die ${h.a('mietpreisbremse', 'Mietpreisbremse')}: höchstens der Wert des Feldes plus zehn Prozent, sofern keine Ausnahme vorliegt. Weil der Mittelwert seit 2025 ein Median ist, ist er mit den arithmetischen Mittelwerten früherer Hamburger Mietenspiegel nicht vergleichbar; wer ein älteres Erhöhungsschreiben mit dem neuen Mietenspiegel vergleicht, sollte das bedenken.</p>
@@ -73,7 +73,7 @@ ${h.table(['Flat', 'Field', 'Range per m²', 'Median per m²'], [
   ['1910, 55 m², normal location', altbau.feld.feld, `${h.num(altbau.feld.unten, 2)} to ${h.num(altbau.feld.oben, 2)} €`, h.eur(altbau.ovm, 2)],
   ['1975, 70 m², normal location', siebz.feld.feld, `${h.num(siebz.feld.unten, 2)} to ${h.num(siebz.feld.oben, 2)} €`, h.eur(siebz.ovm, 2)],
   ['2018, 85 m², good location', neu.feld.feld, `${h.num(neu.feld.unten, 2)} to ${h.num(neu.feld.oben, 2)} €`, h.eur(neu.ovm, 2)],
-], 'Hamburg rent index 2025, German open-data licence, attribution 2.0', ['l', 'r', 'r', 'r'])}
+], 'Hamburg rent index 2025, German open-data licence, attribution (dl-de/by-2-0)', ['l', 'r', 'r', 'r'])}
 <h2>Rent increases in Hamburg</h2>
 <p>Hamburg has lowered the increase cap to 15 per cent for the whole city. For the 1975 flat at ${h.eur(620, 0)} rent, that means: the reference rent allows ${h.eur(erh.grenzeOvm, 2)}, the cap ${h.eur(erh.grenzeKappung, 2)}; if the landlord asks ${h.eur(700, 0)}, you only need to agree to ${h.eur(erh.zulaessig, 2)}, by ${h.date(erh.zustimmungBis)}. The ${h.a('mieterhoehung-rechner', 'rent increase calculator')} goes through every deadline.</p>
 <p>For a new lease the ${h.a('mietpreisbremse', 'rent brake')} applies: at most the field value plus ten per cent, unless an exemption applies. Because the mean has been a median since 2025, it cannot be compared with the arithmetic means of earlier Hamburg indexes; keep that in mind when comparing an older increase letter with the new index.</p>

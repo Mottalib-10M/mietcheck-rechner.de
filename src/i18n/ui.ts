@@ -4,7 +4,7 @@ const de = {
   skipToContent: 'Zum Inhalt springen', mainNav: 'Hauptnavigation', breadcrumbLabel: 'Brotkrumennavigation', breadcrumbHome: 'Start', menuOpen: 'Menü öffnen',
   faqTitle: 'Häufige Fragen', relatedCalculators: 'Passende Seiten und Rechner', sourcesTitle: 'Quellen', writtenBy: 'Verfasst von',
   asOf: 'Rechtsstand', lastUpdated: 'geprüft am', footerValidated: 'Grundlage: BGB §§ 535 ff., BetrKV, HeizkostenV, CO2KostAufG, Mietspiegel der Städte, Verordnungen der Länder', footerBrowser: 'Rechnet nur in Ihrem Browser · keine Datenübertragung · kostenlos',
-  footerDisclaimer: 'Unabhängige Website von Radif Partners, ohne Verbindung zu Städten, Mietervereinen, Eigentümerverbänden, Kanzleien oder Legal-Tech-Anbietern. Wir berechnen Vergleichsmiete und Grenzen aus den veröffentlichten Mietspiegeln und Verordnungen; das Ergebnis ist eine Orientierung und keine Rechtsberatung im Einzelfall. Wir behalten keinen Anteil an zurückgeforderter Miete und geben keine Daten weiter.', footerPopular: '', notFound: 'Diese Seite gibt es nicht.',
+  footerDisclaimer: 'Unabhängige Website von Radif Partners, ohne Verbindung zu Städten, Mietervereinen, Eigentümerverbänden, Kanzleien oder Legal-Tech-Anbietern. Wir berechnen Vergleichsmiete und Grenzen aus den veröffentlichten Mietspiegeln und Verordnungen; das Ergebnis ist eine unverbindliche Orientierung und ersetzt keine Rechtsberatung im Einzelfall. Wir behalten keinen Anteil an zurückgeforderter Miete und geben keine Daten weiter.', footerPopular: '', notFound: 'Diese Seite gibt es nicht.',
   readMore: 'Weiterlesen',
 };
 const en: typeof de = {

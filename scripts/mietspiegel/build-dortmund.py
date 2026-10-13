@@ -20,7 +20,7 @@ merkmale = (items('5.1 Wohnungstyp', 'typ') + items('5.2 Bad-Ausstattung (Standa
   + items('5.5 Aufzug und Barrierefreiheit', 'zugang') + items('5.5 Weitere sonstige Merkmale', 'sonst') + items('5.6 Modernisierung (nur Gebäude vor 1980 errichtet, vom Vermieter durchgeführt)', 'modern'))
 for i, m in enumerate(merkmale): m['id'] = f'm{i}'
 gebiete = [{'nr': int(re.search(r'\((\d)\)', k).group(1)), 'name': re.sub(r'\s*\(\d\)', '', k), 'wert': v} for k, v in z['5.7 Gebietseinteilung/Wohnumfeld'].items()]
-out = {'stadt': 'Dortmund', 'ausgabe': q['edition'], 'gueltig_ab': q['gueltig_ab'], 'gueltig_bis': q['gueltig_bis'], 'lizenz': 'Datenlizenz Deutschland – Zero – Version 2.0; Amtsblatt der Stadt Dortmund Nr. 53 vom 20.12.2024',
+out = {'stadt': 'Dortmund', 'ausgabe': q['edition'], 'gueltig_ab': q['gueltig_ab'], 'gueltig_bis': q['gueltig_bis'], 'lizenz': 'Datenlizenz Deutschland – Zero (dl-de/zero-2-0); Amtsblatt der Stadt Dortmund Nr. 53 vom 20.12.2024',
        'url_seite': q['url_seite'], 'url_pdf': q['url_pdf'], 'gebietskarte': q['url_gebietskarte'], 'basis': basis, 'groesse': groesse, 'merkmale': merkmale, 'gebiete': gebiete,
        'exklusiv': ['typ', 'boden', 'heizung', 'fenster', 'aussen'], 'modern_vor': 1980, 'flaeche_min': 20, 'flaeche_max': 145, 'baujahr_max': 2019}
 assert len(basis) == 9 and len(gebiete) == 7
