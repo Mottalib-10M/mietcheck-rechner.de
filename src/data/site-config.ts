@@ -1,5 +1,5 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://de-mietrecht.example";
+export const SITE_URL = "https://mietcheck-rechner.de";
 export const SITE_NAMES: Record<string, string> = {"de": "Mietspiegel-Rechner", "en": "German Rent Check"};
 export const LANG_TAGS: Record<string, string> = {"de": "de-DE", "en": "en-DE"};
 export const OG_LOCALES: Record<string, string> = {"de": "de_DE", "en": "en_GB"};
@@ -18,7 +18,7 @@ export const AUTHOR_DESC: Record<string, string> = {"de": "Radif Partners berech
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"de": ["Mietspiegel", "Mietpreisbremse", "Kappungsgrenze", "Betriebskostenabrechnung", "Mietrecht (BGB §§ 535 ff.)"], "en": ["German rent indexes (Mietspiegel)", "Rent brake (Mietpreisbremse)", "Rent increase cap", "Service-charge statements", "German tenancy law"]};
-export const CONTACT_EMAIL = "contact@de-mietrecht.example";
+export const CONTACT_EMAIL = "contact@mietcheck-rechner.de";
 export const THEME_COLOR = '#2F4858';
 export const LOGO_SYMBOL = 'maison';
 export const BING_VERIFY_CODE = '';

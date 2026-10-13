@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /*?*
 
-Sitemap: https://de-mietrecht.example/sitemap-index.xml
+Sitemap: https://mietcheck-rechner.de/sitemap-index.xml
