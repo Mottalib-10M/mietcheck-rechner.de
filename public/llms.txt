@@ -1,4 +1,4 @@
-# Mietspiegel-Rechner
+# Mietcheck Rechner
 
 > Independent German/English site by Radif Partners on German residential tenancy law. It calculates the local reference rent (ortsübliche Vergleichsmiete) from the freely published rent indexes of Berlin (Mietspiegel 2026), Hamburg (Mietenspiegel 2025, open data) and Dortmund (Mietspiegel 2025/2026), and applies the tenant-protection ordinances of all 16 German states (rent brake under § 556d BGB, increase cap under § 558 BGB) municipality by municipality, with dates. Cities that reserve rights to their rent index are linked, not copied. Other tools: rent increase, rent-brake refund (§ 556g BGB), service-charge statement deadlines, index rent with the Destatis CPI, deposit, rent reduction, notice periods, modernisation increase, CO2 cost split. All calculations run in the browser; no data collected, no referral to law firms or legal-tech services.
 

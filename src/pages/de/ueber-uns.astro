@@ -8,7 +8,7 @@ import { LAENDER_VO } from '../../lib/engine/gebiet';
 const lang = 'de';
 const nGem = LAENDER_VO.reduce((s, l) => s + (l.mpb?.gemeinden.length ?? 0), 0);
 ---
-<PageLayout title="Mietspiegel-Rechner 2026: wer ihn herausgibt und warum" description="Wer den Mietspiegel-Rechner 2026 herausgibt, warum er die Vergleichsmiete selbst berechnet, woher die Verordnungen stammen und warum wir nicht mitverdienen." lang={lang} jsonLd={[personSchema(lang), organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Start', path: route('home', lang) }, { name: 'Über uns', path: route('about', lang) }])]} breadcrumbs={[{ label: 'Über uns' }]}>
+<PageLayout title="Mietcheck Rechner 2026: wer ihn herausgibt und warum" description="Wer den Mietcheck Rechner 2026 herausgibt, warum er die Vergleichsmiete selbst berechnet, woher die Verordnungen stammen und warum wir nicht mitverdienen." lang={lang} jsonLd={[personSchema(lang), organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Start', path: route('home', lang) }, { name: 'Über uns', path: route('about', lang) }])]} breadcrumbs={[{ label: 'Über uns' }]}>
   <header class="mb-6"><h1 class="text-3xl font-bold text-navy-900 md:text-4xl">Über diese Website</h1></header>
   <div class="prose prose-slate max-w-none">
     <div class="not-prose mb-6"><p class="text-lg font-semibold text-navy-900">{AUTHOR_NAME}</p><p class="text-navy-700">{AUTHOR_ROLE[lang]}</p></div>

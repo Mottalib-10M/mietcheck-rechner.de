@@ -1,6 +1,8 @@
 /** Configuration centrale du site (générée par new-site.py). */
 export const SITE_URL = "https://mietcheck-rechner.de";
-export const SITE_NAMES: Record<string, string> = {"de": "Mietspiegel-Rechner", "en": "German Rent Check"};
+// Partie du nom en couleur dans l'en-tete ('' = aucune).
+export const BRAND_ACCENT = 'Rechner';
+export const SITE_NAMES: Record<string, string> = {"de": "Mietcheck Rechner", "en": "Mietcheck Rechner"};
 export const LANG_TAGS: Record<string, string> = {"de": "de-DE", "en": "en-DE"};
 export const OG_LOCALES: Record<string, string> = {"de": "de_DE", "en": "en_GB"};
 export const LOCALE_TAG = 'de-DE';

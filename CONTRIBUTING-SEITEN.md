@@ -1,4 +1,4 @@
-# Ajouter ou étoffer une page du Mietspiegel-Rechner
+# Ajouter ou étoffer une page du Mietcheck Rechner
 
 Notice pour les agents qui prolongent le site. À lire en entier, avec `~/Documents/GitHub/RECETTE-SITE.md` §0, §3, §6, §7, §9.3, §11, §21, §26.
 

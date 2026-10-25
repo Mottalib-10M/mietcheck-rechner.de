@@ -1,6 +1,6 @@
 {
- "name": "Mietspiegel-Rechner",
- "short_name": "Mietspiegel-Rechner",
+ "name": "Mietcheck Rechner",
+ "short_name": "Mietcheck Rechner",
  "description": "À RÉÉCRIRE",
  "start_url": "/de/",
  "display": "standalone",
