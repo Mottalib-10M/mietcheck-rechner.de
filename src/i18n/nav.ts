@@ -13,9 +13,14 @@ const GROUP_LABEL: Record<Locale, Record<Group, string>> = {
 export const label = (id: string, lang: Locale) => CORE[lang][id] ?? pageById(id)?.[lang].nav ?? id;
 const link = (id: string, lang: Locale): NavLink => ({ href: route(id, lang), label: label(id, lang) });
 const inGroup = (g: Group, lang: Locale) => PAGES.filter((p) => p.group === g).map((p) => link(p.id, lang));
-export function navCategories(lang: Locale): NavCategory[] {
+function categoriesCompletes(lang: Locale): NavCategory[] {
   return (['rechner', 'staedte', 'laender', 'erhoehung', 'nebenkosten', 'vertrag'] as Group[]).map((g) => ({ label: GROUP_LABEL[lang][g], links: inGroup(g, lang) })).filter((c) => c.links.length);
 }
-export const navDirect = (lang: Locale): NavLink[] => [link('method', lang)];
-export const footerColumns = (lang: Locale): NavCategory[] => [...navCategories(lang), { label: lang === 'de' ? 'Über diese Seite' : 'This site', links: ['home', 'method', 'about', 'contact', 'editorial', 'widget', 'terms', 'privacy', 'cookies'].map((i) => link(i, lang)) }];
+// Intitules du menu du haut : courts, jamais sur deux lignes (les intitules complets restent en bas de page).
+const COURT: Record<string, string> = {"Mietspiegel der Städte": "Städte", "Mietpreisbremse nach Land": "Länder", "Miete und Erhöhung": "Erhöhung", "City rent indexes": "Cities", "Rent brake by state": "States", "Rent and increases": "Increases", "Service charges": "Charges"};
+export const navCategories = (lang: Locale, court = true): NavCategory[] =>
+  categoriesCompletes(lang).map((c) => (court ? { ...c, label: COURT[c.label] ?? c.label } : c));
+// Methode : liee en bas de page, hors du menu du haut pour qu'il tienne sur une ligne.
+export const navDirect = (_lang: Locale): NavLink[] => [];
+export const footerColumns = (lang: Locale): NavCategory[] => [...navCategories(lang, false), { label: lang === 'de' ? 'Über diese Seite' : 'This site', links: ['home', 'method', 'about', 'contact', 'editorial', 'widget', 'terms', 'privacy', 'cookies'].map((i) => link(i, lang)) }];
 export const popularLinks = (_lang: Locale): NavLink[] => [];
